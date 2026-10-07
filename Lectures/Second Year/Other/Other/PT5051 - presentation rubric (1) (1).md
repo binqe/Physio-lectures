@@ -1,0 +1,34 @@
+---
+title: "presentation rubric"
+academic_year: "Year 2"
+module: "Other"
+topic: "Other"
+source_file: "Lectures/Second Year/Other/Other/PT5051 - presentation rubric (1) (1).xlsx"
+source_type: "XLSX"
+module_codes: ["PT5051"]
+lecture_number: "unknown"
+classification_confidence: "High"
+converted_by: "automated extraction from source file; original preserved as authoritative source"
+---
+
+# presentation rubric
+
+## Sheet: Sheet1
+
+| PT5051 Rubric for presentation |  |  | Name of students completing the assessment: |  |  |  |  |  |
+| Name of students being assessed: |  |  |  |  |  |  |  |  |
+|  | >80% | 70-79% | 60-69% | 50-59% | 43-47% | 40-42% | 35-39% | <35% |
+| Evidence based 20% | Outstanding evaluation of podcast through a well researched discussion of the scientific evidence based (or not) underpinning the podcasts. The recommendation is rationalised and linked to the content of the presentation. | Excellent evaluation of podcast through a well researched discussion of the scientific evidence based (or not) underpinning the podcasts. The recommendation is rationalised and linked to the content of the presentation. | Good evaluation of podcast through a good evidence of research discussion of the scientific evidence based (or not) underpinning the podcasts. The recommendation is rationalised and linked to the content of the presentation. | Good to clear evaluation of podcast through a clear evidence of research discussion of the scientific evidence based (or not) underpinning the podcasts. A logical recommendation is made and linked to the content of the presentation. The rationale may be lacking. | Adequate evaluation of podcast through evidence of  a discussion of the research underpinning the podcasts. The recommendation is rationalised and linked to the content of the presentation. | Adequate but brief evaluation of podcast through evidence of  a discussion of the research dunderpinning the podcasts. The recommendation is logical but the rationale may be missing. | Limited evaluation podcast. Scientific evidence may be lacking. Recommendation may be unclear or not based on logic. | Little to no understanding of the task with limited evaluation podcast. Scientific evidence may be lacking. Recommendation is unclear |
+| Target audience 20% | Outstanding understanding of the target audience which is rationalised. | Excellent understanding of the target audience which is rationalised. | Good understanding of the target audience which is rationalised. | Clear understanding of the target audience. Rationale may lack depth | Adequate understanding of the target audience. Rationale may be missing. | Adequate understanding of the target audience. No rationale | Limited. understanding of the target audience. No rationale | Little to no understanding of the target audience. No rationale |
+| behaviour mod and comms 20% | Outstanding discussion of behaviour modifications and communication style used in podcasts, linking to theories of communication | Excellent discussion of behaviour modifications and communication style used in podcasts, linking to theories of communication | Very good discussion of behaviour modifications and communication style used in podcasts, linking to theories of communication | Good discussion of behaviour modifications and communication style used in podcasts, linking to theories of communication | Adequate discussion of behaviour modifications and communication style used in podcasts, not fully linked to theories of communication | Adequate discussion of behaviour modifications and communication style used in podcasts, not linked to theories of communication | Inadequate discussion of behaviour modifications and communication style used in podcasts, not linked to theories of communication | No discussion of behaviour modifications and communication style used in podcasts, not linked to theories of communication |
+| Team working  10% | Demonstration of outstanding team working through the delivery of a cohesive and collegiate presentation. | Demonstration of  excellent to good team working through the delivery of a cohesive and collegiate presentation. | Demonstration of  very good to good team working through the delivery of a cohesive and collegiate presentation. | Demonstration of   good team working through the delivery of a cohesive and collegiate presentation. | Demonstration of adequate team working through the delivery of a cohesive and collegiate presentation. | Some demonstration of team working through the delivery of a cohesive and collegiate presentation. | Little of team working - lack of preparation, slides not fomatted in a standard manner. | no evidence team working |
+| Responses to questions 10 % | The oustanding ability of the group to answer questions individually and collectively. | The oustanding to excellent ability of the group to answer questions individually and collectively. | Good to very good ability of the group to answer questions individually and collectively. | Sound ability of the group to answer questions individually and collectively. | Adequate ability of the group to answer questions individually and collectively. | Sufficient ability answer questions individually and collectively. | Lacks ability answer questions individually and collectively. | Unable to answer questions  neither individually and collectively. |
+| Tone and clarity 10% | Enthusiastic and appropriate intonation. Clear and laudable | Enthusiastic to interested and appropriate intonation. Clear and laudable | Interested to engaged delivery appropriate intonation. Clear and laudable | Appropriate intonation. Clear and laudable | Varying intonation. Not always clear and laudable |  Intonation is evident at times. Lacks clarity but generally laudable | At times monotone. Not Clear and Not laudable | Monotone, not able to hear. |
+| slides 10% | Slides are outstanding, well formatted, consistent'house style' and referenced appropriately | Slides are excellent, well formatted, consistent'house style' and referenced appropriately | Slides are good, well formatted, some inconsistencies, some too busy/lack detail | Slides are sound, formatting sound, some inconsistencies,  too busy/lack detail at times | Slides are adequate, formatting adequate, inconsistencies,  too busy/lack detail frequently | Slides are adequate, with a few errors formatting adequate, inconsistencies,  too busy/lack detail frequently | Slides are inadequate, with errors inadequate, inconsistencies,  too busy/lack detail frequently | Slides lack information, errors, no consistency |
+| STUDENTS WILL BE ASKED TO STOP PRESENTATION AFTER 11 MINUTES |  |  |  |  |  |  |  |  |
+| Feedback points | 1) |  |  |  |  |  |  |  |
+|  | 2) |  |  |  |  |  |  |  |
+|  | 3) |  |  |  |  |  |  |  |
+|  | 4) |  |  |  |  |  |  |  |
+|  | 5) |  |  |  |  |  |  |  |
+| Overall mark based on rubric (%) |  |  |  |  |  |  |  |  |
