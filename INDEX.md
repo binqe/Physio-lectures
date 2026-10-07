@@ -7,12 +7,38 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 
 ## Year 1
 
+### Cardio Resp
+- [Cardiovascular Physiology Part 1 Pre Lecture notes](Lectures/First%20Year/Cardio%20Resp/Cardiovascular%20Physiology%20Part%201_Pre%20Lecture%20notes%20%281%29.md) · PPTX · [High]
+- [Cardiovascular Physiology Part 2 Pre Lecture notes](Lectures/First%20Year/Cardio%20Resp/Cardiovascular%20Physiology%20Part%202_Pre%20Lecture%20notes%20%281%29.md) · PPTX · [High]
+- [CRP Revision Session Jan 2025](Lectures/First%20Year/Cardio%20Resp/CRP%20Revision%20Session%20Jan%202025.md) · PDF · [High]
+- [CRP Surface Marking Auscultation](Lectures/First%20Year/Cardio%20Resp/CRP%20Surface%20Marking%20Auscultation.md) · PDF · [High]
+
 ### MSK
+- [Exercise prescription post orthopaedics procedures](Lectures/First%20Year/MSK/Exercise_prescription_post_orthopaedics_procedures.md) · PDF · [High]
+- [Foot and ankle anatomy](Lectures/First%20Year/MSK/Foot%20and%20ankle%20anatomy%281%29.md) · PPTX · [High]
 - [Hand anatomy - 24](Lectures/First%20Year/MSK/Hand%20anatomy%20PT7001-4054%20-%2024-25.md) · PPTX · [High]
 - [Intro to flexibility and Stretching](Lectures/First%20Year/MSK/Intro%20to%20flexibility%20and%20Stretching%20PT7003.md) · PPTX · [High]
+- [MSK Chronic Pain Lecture updated](Lectures/First%20Year/MSK/MSK%20Chronic%20Pain%20Lecture_updated.md) · PDF · [High]
+- [MSK Foot Assessment Practical](Lectures/First%20Year/MSK/MSK%20Foot%20Assessment%20Practical.md) · PDF · [High]
+- [MSK Practical Manual Therapy Lower Limb](Lectures/First%20Year/MSK/MSK%20Practical%20Manual%20Therapy%20Lower%20Limb%20Ed%20%281%29.md) · PDF · [High]
+- [MSK Week 3 Tendon Injuries](Lectures/First%20Year/MSK/MSK%20Week%203%20Tendon%20Injuries.md) · PDF · [High]
+- [MSK Week 4 Ligament Cartilage Injuries](Lectures/First%20Year/MSK/MSK%20Week%204%20Ligament%20Cartilage%20Injuries%20Final%20%281%29.md) · PDF · [High]
+- [Muscle Physiology 1 Pre-lecture notes](Lectures/First%20Year/MSK/Muscle%20Physiology%201_Pre-lecture%20notes.md) · PPTX · [High]
+- [Muscle Physiology 2 Pre-lecture notes](Lectures/First%20Year/MSK/Muscle%20Physiology%202_Pre-lecture%20notes%20%281%29.md) · PPTX · [High] ⎘
+- [Muscle Physiology 2 Pre-lecture notes](Lectures/First%20Year/MSK/Muscle%20Physiology%202_Pre-lecture%20notes.md) · PPTX · [High] ⎘
+- [Muscles & Neurovascular Structures around the Pectoral Girdle](Lectures/First%20Year/MSK/Muscles%20%26%20Neurovascular%20Structures%20around%20the%20Pectoral%20Girdle%281%29%20%282%29.md) · PDF · [High] ⎘
+- [Muscles & Neurovascular Structures around the Pectoral Girdle](Lectures/First%20Year/MSK/Muscles%20%26%20Neurovascular%20Structures%20around%20the%20Pectoral%20Girdle%281%29.md) · PDF · [High] ⎘
+- [Muscles and Neurovascular Structures around the Hip](Lectures/First%20Year/MSK/Muscles%20and%20Neurovascular%20Structures%20around%20the%20Hip.md) · PPTX · [High]
+- [Muscles and Neurovascular Structures around the Knee](Lectures/First%20Year/MSK/Muscles%20and%20Neurovascular%20Structures%20around%20the%20Knee%281%29.md) · PPTX · [High]
 - [Phases of tissue healing 24-25](Lectures/First%20Year/MSK/Phases%20of%20tissue%20healing%2024-25%20%281%29.md) · PPTX · [High]
+- [Practical Mobility Aids Week 7](Lectures/First%20Year/MSK/Practical%20Mobility%20Aids%20Week%207.md) · PDF · [High]
 - [Principles of Assessment in Acute Muscle Injuries](Lectures/First%20Year/MSK/PT4052%20PT7004%20ST7050%20Principles%20of%20Assessment%20in%20Acute%20Muscle%20Injuries.md) · PDF · [High]
 - [Revision MSK](Lectures/First%20Year/MSK/Revision%20MSK%20PT4000%20and%207003%20%281%29.md) · PDF · [High]
+- [Slides - Hip Anatomy](Lectures/First%20Year/MSK/Slides%20-%20Hip%20Anatomy.md) · PPTX · [High]
+- [Slides - Knee Anatomy](Lectures/First%20Year/MSK/Slides%20-%20Knee%20Anatomy.md) · PPTX · [High]
+- [Surface Anatomy](Lectures/First%20Year/MSK/Surface%20Anatomy%20%283%29.md) · PPTX · [High]
+- [SURFACE ANATOMY OF THE UPPER LIMB](Lectures/First%20Year/MSK/SURFACE%20ANATOMY%20OF%20THE%20UPPER%20LIMB.md) · PDF · [High]
+- [Upper limb biomechanics](Lectures/First%20Year/MSK/Upper%20limb%20biomechanics.md) · PPTX · [High]
 - [Wrist anatomy - 24](Lectures/First%20Year/MSK/Wrist%20anatomy%20PT7001-4054%20-%2024-25.md) · PPTX · [High]
 
 ### Neuro
@@ -28,6 +54,7 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Introduction to Neurological Assessment](Lectures/First%20Year/Neuro/Introduction%20to%20Neurological%20Assessment%281%29-1.md) · PDF · [Med] ⎘
 - [Introduction to Neurological conditions](Lectures/First%20Year/Neuro/Introduction%20to%20Neurological%20conditions-1.md) · PDF · [Med]
 - [Motor control](Lectures/First%20Year/Neuro/Motor%20control-1.md) · PDF · [Med]
+- [Neuro TENs](Lectures/First%20Year/Neuro/Neuro_TENs.md) · PDF · [High]
 - [Neurological Assessment Subjective](Lectures/First%20Year/Neuro/Neurological%20Assessment%20Subjective%281%29.md) · DOCX · [Med]
 - [Neurology Treatment Delivery and SOAP Note Writing Proforma for Physiotherapy Students](Lectures/First%20Year/Neuro/Neurology%20Treatment%20Delivery%20and%20SOAP%20Note%20Writing%20Proforma%20for%20Physiotherapy%20Students%281%29.md) · DOCX · [Med]
 - [Neuromuscular conditions Acute polyneuropathy](Lectures/First%20Year/Neuro/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1.md) · PDF · [Med]
@@ -52,12 +79,15 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Balance Practical 2024 25](Lectures/First%20Year/Other/Other/Balance%20Practical%202024_25%281%29.md) · DOCX · [Med]
 - [BSc Year 1 Programme Plan](Lectures/First%20Year/Other/Other/BSc%20%20Year%201%20Programme%20Plan%20%281%29.md) · DOCX · [High] ⎘
 - [BSc Year 1 Programme Plan](Lectures/First%20Year/Other/Other/BSc%20%20Year%201%20Programme%20Plan.md) · DOCX · [High] ⎘
+- [Databases](Lectures/First%20Year/Other/Other/Databases.md) · PPTX · [High]
 - [Functional Assessmen Practical](Lectures/First%20Year/Other/Other/Functional%20Assessmen%20Practical.md) · DOCX · [High]
 - [GBS case study answers](Lectures/First%20Year/Other/Other/GBS%20case%20study%20answers.md) · DOCX · [Med]
 - [InflammatoryConditionsPT7003](Lectures/First%20Year/Other/Other/InflammatoryConditionsPT7003.md) · PDF · [High]
 - [Introduction to the module and - students](Lectures/First%20Year/Other/Other/Introduction%20to%20the%20module%20PT4000%20and%20PT7003-%20students.md) · PDF · [High]
 - [Mirror Therapy](Lectures/First%20Year/Other/Other/Mirror%20Therapy%281%29.md) · PDF · [Med]
 - [Pain 24-25](Lectures/First%20Year/Other/Other/Pain%2024-25%20-%20PT7001-4050%20V2.md) · PPTX · [High]
+- [Practice exam questions Muscle Answers](Lectures/First%20Year/Other/Other/Practice%20exam%20questions_Muscle_Answers%20%281%29.md) · DOCX · [High] ⎘
+- [Practice exam questions Muscle Answers](Lectures/First%20Year/Other/Other/Practice%20exam%20questions_Muscle_Answers.md) · DOCX · [High] ⎘
 - [Summative Assessment briefing 2025](Lectures/First%20Year/Other/Other/PT4000%20Summative%20Assessment%20briefing%202025.md) · DOCX · [High]
 - [Timetable- students](Lectures/First%20Year/Other/Other/PT4000%20Timetable-%20students%20Copy.md) · DOCX · [High]
 - [Summative Assessment briefing 2024](Lectures/First%20Year/Other/Other/PT4050%20Summative%20Assessment%20briefing%202024%281%29.md) · DOCX · [High]
@@ -66,13 +96,25 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [case study work sheet](Lectures/First%20Year/Other/Other/PT7003%20case%20study%20work%20sheet.md) · DOCX · [High]
 - [PT74051 Assessment Briefing 24-25](Lectures/First%20Year/Other/Other/PT74051%20Assessment%20Briefing%20updated%2024-25%20.md) · DOCX · [High]
 - [Retraining Mobility Practical 2024](Lectures/First%20Year/Other/Other/Retraining%20Mobility%20Practical%202024.md) · DOCX · [Med]
+- [Touch in professional setting](Lectures/First%20Year/Other/Other/Touch%20in%20professional%20setting.md) · PPTX · [High]
 - [Training the upper limb](Lectures/First%20Year/Other/Other/Training%20the%20upper%20limb.md) · DOCX · [Med]
+- [Week 1 Introduction to Physiology, cells and tissues Pre-lecture notes](Lectures/First%20Year/Other/Other/Week%201%20Introduction%20to%20Physiology%2C%20cells%20and%20tissues_Pre-lecture%20notes.md) · PPTX · [High]
 
 
 **Practice Education**
 
 - [Common Neurological terms for placement](Lectures/First%20Year/Other/Practice%20Education/Common%20Neurological%20terms%20for%20placement.md) · PDF · [Med]
 - [CPAF Level 4 September 2024 version](Lectures/First%20Year/Other/Practice%20Education/CPAF%20Level%204%20September%20%202024%20version.md) · PDF · [Med]
+- [OSCE Formative briefing and instructions](Lectures/First%20Year/Other/Practice%20Education/OSCE%20Formative%20briefing%20and%20instructions.md) · DOCX · [High]
+
+
+**Professionalism**
+
+- [Exercise principles](Lectures/First%20Year/Other/Professionalism/Exercise%20principles.md) · PPTX · [High]
+- [INTRODUCTION TO THE MODULE AND THE BIOPSYCHOSOCIAL MODEL](Lectures/First%20Year/Other/Professionalism/INTRODUCTION%20TO%20%20THE%20MODULE%20AND%20THE%20%20BIOPSYCHOSOCIAL%20%20MODEL%20%281%29.md) · PPTX · [High] ⎘
+- [INTRODUCTION TO THE MODULE AND THE BIOPSYCHOSOCIAL MODEL](Lectures/First%20Year/Other/Professionalism/INTRODUCTION%20TO%20%20THE%20MODULE%20AND%20THE%20%20BIOPSYCHOSOCIAL%20%20MODEL.md) · PPTX · [High] ⎘
+- [PROFESSIONALISM AND THE CSP](Lectures/First%20Year/Other/Professionalism/PROFESSIONALISM%20AND%20THE%20CSP%281%29%20%281%29.md) · PPTX · [High]
+- [Sociology and the Biopsychosocial Model](Lectures/First%20Year/Other/Professionalism/Sociology%20and%20the%20Biopsychosocial%20Model-1.md) · PPTX · [High]
 
 
 ## Year 2
@@ -103,13 +145,9 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Cardiorespiratory Case G Mr Arthur Cheatsheet](Lectures/Second%20Year/Cardio%20Resp/Cardiorespiratory_Case_G_Mr_Arthur_Cheatsheet.md) · PDF · [Med]
 - [Cardiorespiratory Case H Mr David Cheatsheet](Lectures/Second%20Year/Cardio%20Resp/Cardiorespiratory_Case_H_Mr_David_Cheatsheet.md) · PDF · [Med]
 - [Cardiorespiratory Physiology Comprehensive WordForWord](Lectures/Second%20Year/Cardio%20Resp/Cardiorespiratory_Physiology_Comprehensive_WordForWord.md) · PPTX · [Med]
-- [Cardiovascular Physiology Part 1 Pre Lecture notes](Lectures/Second%20Year/Cardio%20Resp/Cardiovascular%20Physiology%20Part%201_Pre%20Lecture%20notes%20%281%29.md) · PPTX · [Low] ⚠
-- [Cardiovascular Physiology Part 2 Pre Lecture notes](Lectures/Second%20Year/Cardio%20Resp/Cardiovascular%20Physiology%20Part%202_Pre%20Lecture%20notes%20%281%29.md) · PPTX · [Low] ⚠
 - [COPD case study](Lectures/Second%20Year/Cardio%20Resp/COPD%20case%20study%20%281%29.md) · DOCX · [Med]
 - [CRP Airway clearance lecture](Lectures/Second%20Year/Cardio%20Resp/CRP%20Airway%20clearance%20lecture%20final.md) · PDF · [Med]
 - [CRP Oxygen therapy and humidification](Lectures/Second%20Year/Cardio%20Resp/CRP%20Oxygen%20therapy%20and%20humidification%20Final.md) · PDF · [Med]
-- [CRP Revision Session Jan 2025](Lectures/Second%20Year/Cardio%20Resp/CRP%20Revision%20Session%20Jan%202025.md) · PDF · [Low] ⚠
-- [CRP Surface Marking Auscultation](Lectures/Second%20Year/Cardio%20Resp/CRP%20Surface%20Marking%20Auscultation.md) · PDF · [Low] ⚠
 - [Diffusion & Carriage of Blood Gases](Lectures/Second%20Year/Cardio%20Resp/Diffusion%20%26%20Carriage%20of%20Blood%20Gases.md) · PDF · [Med]
 - [Heart Failure - London Met Feb 2025](Lectures/Second%20Year/Cardio%20Resp/Heart%20Failure%20-%20London%20Met%20Feb%202025.md) · PPTX · [Med]
 - [Heart Failure Teaching New](Lectures/Second%20Year/Cardio%20Resp/Heart_Failure_Teaching_New.md) · PPTX · [Med]
@@ -152,8 +190,6 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Community Msk Clinical Simulation for Physiotherapy Students IS](Lectures/Second%20Year/MSK/Community%20Msk%20Clinical%20Simulation%20for%20Physiotherapy%20Students%20IS.md) · DOCX · [Med]
 - [Elbow Assessment](Lectures/Second%20Year/MSK/Elbow%20Assessment%20.md) · PDF · [Med]
 - [Examination of the Cervical Spine](Lectures/Second%20Year/MSK/Examination%20of%20the%20Cervical%20Spine.md) · DOCX · [Med]
-- [Exercise prescription post orthopaedics procedures](Lectures/Second%20Year/MSK/Exercise_prescription_post_orthopaedics_procedures.md) · PDF · [Low] ⚠
-- [Foot and ankle anatomy](Lectures/Second%20Year/MSK/Foot%20and%20ankle%20anatomy%281%29.md) · PPTX · [Low] ⚠
 - [Gait Analysis-jakc-oga-form updated](Lectures/Second%20Year/MSK/Gait%20Analysis-jakc-oga-form_updated.md) · PDF · [Med]
 - [Hand Assessment](Lectures/Second%20Year/MSK/Hand%20Assessment.md) · PDF · [Med]
 - [Knee joint Assessment](Lectures/Second%20Year/MSK/Knee%20joint%20Assessment.md) · PDF · [Med]
@@ -161,19 +197,14 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Lumbar spine management](Lectures/Second%20Year/MSK/Lumbar%20spine%20management.md) · PDF · [Med]
 - [MSK Ax sheet](Lectures/Second%20Year/MSK/MSK%20Ax%20sheet%20%281%29.md) · DOCX · [Med]
 - [MSK Ax sheet- Case studies](Lectures/Second%20Year/MSK/MSK%20Ax%20sheet-%20Case%20studies.md) · PDF · [Med]
-- [MSK Chronic Pain Lecture updated](Lectures/Second%20Year/MSK/MSK%20Chronic%20Pain%20Lecture_updated.md) · PDF · [Low] ⚠
 - [MSK Clinical simulation for student roel playing physiotherapist](Lectures/Second%20Year/MSK/MSK%20Clinical%20simulation%20for%20student%20roel%20playing%20physiotherapist.md) · PDF · [Med]
 - [MSK Clinical SimulationTreatment Planning Workbook](Lectures/Second%20Year/MSK/MSK%20Clinical%20SimulationTreatment%20Planning%20Workbook.md) · DOCX · [Med]
-- [MSK Foot Assessment Practical](Lectures/Second%20Year/MSK/MSK%20Foot%20Assessment%20Practical.md) · PDF · [Low] ⚠
 - [MSK Objective Assessment Simulation Task](Lectures/Second%20Year/MSK/MSK%20Objective%20Assessment%20Simulation%20Task.md) · DOCX · [Med]
 - [MSK Pathways Khaled Afifi](Lectures/Second%20Year/MSK/MSK%20Pathways%20Khaled%20Afifi.md) · PPTX · [Med]
-- [MSK Practical Manual Therapy Lower Limb](Lectures/Second%20Year/MSK/MSK%20Practical%20Manual%20Therapy%20Lower%20Limb%20Ed%20%281%29.md) · PDF · [Low] ⚠
 - [MSK Subjective Assessment Clinical Simulation Workbook](Lectures/Second%20Year/MSK/MSK%20Subjective%20Assessment%20Clinical%20Simulation%20Workbook%281%29.md) · DOCX · [Med]
 - [MSK TENS CRYO US](Lectures/Second%20Year/MSK/MSK%20TENS%20CRYO%20US.md) · PDF · [Med]
 - [MSK Treatment Delivery and SOAP Note Writing Proforma for Physiotherapy Students](Lectures/Second%20Year/MSK/MSK%20Treatment%20Delivery%20and%20SOAP%20Note%20Writing%20Proforma%20for%20Physiotherapy%20Students%281%29.md) · DOCX · [Med]
 - [MSK Treatment Progression and Discharge Planning Proforma](Lectures/Second%20Year/MSK/MSK%20Treatment%20Progression%20and%20Discharge%20Planning%20Proforma.md) · DOCX · [Med]
-- [MSK Week 3 Tendon Injuries](Lectures/Second%20Year/MSK/MSK%20Week%203%20Tendon%20Injuries.md) · PDF · [Low] ⚠
-- [MSK Week 4 Ligament Cartilage Injuries](Lectures/Second%20Year/MSK/MSK%20Week%204%20Ligament%20Cartilage%20Injuries%20Final%20%281%29.md) · PDF · [Low] ⚠
 - [MSK-Simulation-Case-Scenarios 2026B](Lectures/Second%20Year/MSK/MSK-Simulation-Case-Scenarios%202026B.md) · PPTX · [Med]
 - [MSK Case A Cheatsheet](Lectures/Second%20Year/MSK/MSK_Case_A_Cheatsheet.md) · PDF · [Med]
 - [MSK Case B Cheatsheet](Lectures/Second%20Year/MSK/MSK_Case_B_Cheatsheet.md) · PDF · [Med]
@@ -184,13 +215,6 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [MSK Case G Mr. Khan Cheatsheet](Lectures/Second%20Year/MSK/MSK_Case_G_Mr._Khan_Cheatsheet.md) · PDF · [Med]
 - [MSK Case H Ms. Henderson Cheatsheet](Lectures/Second%20Year/MSK/MSK_Case_H_Ms._Henderson_Cheatsheet.md) · PDF · [Med]
 - [MSK OSCE Cases A to D](Lectures/Second%20Year/MSK/MSK_OSCE_Cases_A_to_D.md) · PDF · [Med]
-- [Muscle Physiology 1 Pre-lecture notes](Lectures/Second%20Year/MSK/Muscle%20Physiology%201_Pre-lecture%20notes.md) · PPTX · [Low] ⚠
-- [Muscle Physiology 2 Pre-lecture notes](Lectures/Second%20Year/MSK/Muscle%20Physiology%202_Pre-lecture%20notes%20%281%29.md) · PPTX · [Low] ⚠ ⎘
-- [Muscle Physiology 2 Pre-lecture notes](Lectures/Second%20Year/MSK/Muscle%20Physiology%202_Pre-lecture%20notes.md) · PPTX · [Low] ⚠ ⎘
-- [Muscles & Neurovascular Structures around the Pectoral Girdle](Lectures/Second%20Year/MSK/Muscles%20%26%20Neurovascular%20Structures%20around%20the%20Pectoral%20Girdle%281%29%20%282%29.md) · PDF · [Low] ⚠ ⎘
-- [Muscles & Neurovascular Structures around the Pectoral Girdle](Lectures/Second%20Year/MSK/Muscles%20%26%20Neurovascular%20Structures%20around%20the%20Pectoral%20Girdle%281%29.md) · PDF · [Low] ⚠ ⎘
-- [Muscles and Neurovascular Structures around the Hip](Lectures/Second%20Year/MSK/Muscles%20and%20Neurovascular%20Structures%20around%20the%20Hip.md) · PPTX · [Low] ⚠
-- [Muscles and Neurovascular Structures around the Knee](Lectures/Second%20Year/MSK/Muscles%20and%20Neurovascular%20Structures%20around%20the%20Knee%281%29.md) · PPTX · [Low] ⚠
 - [Musculoskeletal Case 1 Cheatsheet](Lectures/Second%20Year/MSK/Musculoskeletal_Case_1_Cheatsheet.md) · PDF · [Med]
 - [Musculoskeletal Case A Cheatsheet](Lectures/Second%20Year/MSK/Musculoskeletal_Case_A_Cheatsheet.md) · PDF · [Med]
 - [Musculoskeletal Case B Cheatsheet](Lectures/Second%20Year/MSK/Musculoskeletal_Case_B_Cheatsheet.md) · PDF · [Med]
@@ -203,7 +227,6 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Outpatient MSK Workbook](Lectures/Second%20Year/MSK/Outpatient%20MSK%20Workbook.md) · DOCX · [Med]
 - [Part 2 Knee case](Lectures/Second%20Year/MSK/Part%202%20Knee%20case.md) · PDF · [Med]
 - [Parts 1 and 2 Knee cases](Lectures/Second%20Year/MSK/Parts%201%20and%202%20Knee%20cases.md) · DOCX · [Med]
-- [Practical Mobility Aids Week 7](Lectures/Second%20Year/MSK/Practical%20Mobility%20Aids%20Week%207.md) · PDF · [Low] ⚠
 - [MSK Cases For Students](Lectures/Second%20Year/MSK/PT5000%20MSK%20Cases%20For%20Students.md) · DOCX · [High]
 - [PT5000 Cervical spine 2026](Lectures/Second%20Year/MSK/PT5000_Cervical%20spine_2026.md) · PDF · [High]
 - [Cervical spine](Lectures/Second%20Year/MSK/PT5050%20Cervical%20spine.md) · PPTX · [High]
@@ -216,20 +239,15 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Shoulder Joint case study part 1](Lectures/Second%20Year/MSK/Shoulder%20Joint%20case%20study%20part%201.md) · DOCX · [Med]
 - [Shoulder Joint case study part 2](Lectures/Second%20Year/MSK/Shoulder%20Joint%20case%20study%20part%202.md) · DOCX · [Med]
 - [Slides - Elbow Anatomy](Lectures/Second%20Year/MSK/Slides%20-%20Elbow%20Anatomy%20%281%29.md) · PPTX · [Med]
-- [Slides - Hip Anatomy](Lectures/Second%20Year/MSK/Slides%20-%20Hip%20Anatomy.md) · PPTX · [Low] ⚠
-- [Slides - Knee Anatomy](Lectures/Second%20Year/MSK/Slides%20-%20Knee%20Anatomy.md) · PPTX · [Low] ⚠
 - [Slides - Shoulder Anatomy](Lectures/Second%20Year/MSK/Slides%20-%20Shoulder%20Anatomy%20%281%29.md) · PPTX · [Med]
 - [Spinal conditions Lecture](Lectures/Second%20Year/MSK/Spinal%20conditions%20Lecture.md) · PDF · [Med]
 - [Spinal pain PPT-Ready for LMU](Lectures/Second%20Year/MSK/Spinal%20pain%20PPT-Ready%20for%20LMU%20-.md) · PPTX · [Med]
 - [Spinal red flags screening students (no answers)](Lectures/Second%20Year/MSK/Spinal%20red%20flags%20screening%20students%20%28no%20answers%29.md) · PDF · [Med]
 - [Spinal Red flags](Lectures/Second%20Year/MSK/Spinal%20Red%20flags.md) · PDF · [Med]
-- [Surface Anatomy](Lectures/Second%20Year/MSK/Surface%20Anatomy%20%283%29.md) · PPTX · [Low] ⚠
-- [SURFACE ANATOMY OF THE UPPER LIMB](Lectures/Second%20Year/MSK/SURFACE%20ANATOMY%20OF%20THE%20UPPER%20LIMB.md) · PDF · [Low] ⚠
 - [Thoracic Spine Lab](Lectures/Second%20Year/MSK/Thoracic%20Spine%20Lab.md) · DOCX · [Med]
 - [Thoracic Spine](Lectures/Second%20Year/MSK/Thoracic%20Spine.md) · PDF · [Med]
 - [Trauma MSK Clinical Simulation Workbook for Physiotherapy Students](Lectures/Second%20Year/MSK/Trauma%20MSK%20Clinical%20Simulation%20Workbook%20for%20Physiotherapy%20Students.md) · DOCX · [Med]
 - [Treatment in MSK](Lectures/Second%20Year/MSK/Treatment%20in%20MSK.md) · PDF · [Med]
-- [Upper limb biomechanics](Lectures/Second%20Year/MSK/Upper%20limb%20biomechanics.md) · PPTX · [Low] ⚠
 - [Ward-Based MSK Clin Sim Workbook](Lectures/Second%20Year/MSK/Ward-Based%20MSK%20Clin%20Sim%20Workbook.md) · DOCX · [Med]
 - [Week 7 MSK Bone Injuries and Management](Lectures/Second%20Year/MSK/Week%207%20MSK%20Bone%20Injuries%20and%20Management.md) · PDF · [Med]
 
@@ -265,7 +283,6 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Neuro OSCE Cases 3 4](Lectures/Second%20Year/Neuro/Neuro_OSCE_Cases_3_4.md) · PDF · [Med]
 - [Neuro OSCE Cases 5 6](Lectures/Second%20Year/Neuro/Neuro_OSCE_Cases_5_6.md) · PDF · [Med]
 - [Neuro OSCE Cases 7 8](Lectures/Second%20Year/Neuro/Neuro_OSCE_Cases_7_8.md) · PDF · [Med]
-- [Neuro TENs](Lectures/Second%20Year/Neuro/Neuro_TENs.md) · PDF · [Low] ⚠
 - [Neurological assessment in common clinical conditions Lecture](Lectures/Second%20Year/Neuro/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture.md) · PPTX · [Med]
 - [Neurological differential diagnosis, case study assessments, and treatment](Lectures/Second%20Year/Neuro/Neurological%20differential%20diagnosis%2C%20case%20study%20assessments%2C%20and%20treatment.md) · DOCX · [Med]
 - [Neurological Case 1 Mr Samuel Cheatsheet](Lectures/Second%20Year/Neuro/Neurological_Case_1_Mr_Samuel_Cheatsheet.md) · PDF · [Med]
@@ -347,7 +364,6 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [CASP-checklist-randomised-controlled-trials-RCT](Lectures/Second%20Year/Other/Other/CASP-checklist-randomised-controlled-trials-RCT-2024.md) · DOCX · [Med] ⎘
 - [CASP-checklist-randomised-controlled-trials-RCT](Lectures/Second%20Year/Other/Other/CASP-checklist-randomised-controlled-trials-RCT-2024.md) · PDF · [Med] ⎘
 - [Clinical Simultaion for falls and frailty for students role playing physiotherapist](Lectures/Second%20Year/Other/Other/Clinical%20Simultaion%20for%20falls%20and%20frailty%20for%20students%20role%20playing%20physiotherapist.md) · PDF · [Med]
-- [Databases](Lectures/Second%20Year/Other/Other/Databases.md) · PPTX · [Low] ⚠
 - [Dermatomes and Cutaneous innervation of the Upper limbs, Lower limbs and trunk](Lectures/Second%20Year/Other/Other/Dermatomes%20and%20Cutaneous%20innervation%20of%20the%20Upper%20limbs%2C%20Lower%20limbs%20and%20trunk.md) · DOCX · [Med]
 - [e010364.full](Lectures/Second%20Year/Other/Other/e010364.full.md) · PDF · [Med]
 - [Evidence base case review of a case in 2](Lectures/Second%20Year/Other/Other/Evidence%20base%20case%20review%20of%20a%20case%20in%20ED%202%281%29.md) · DOCX · [Med]
@@ -399,8 +415,6 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Practical 3](Lectures/Second%20Year/Other/Other/Practical%203%20PT5053.md) · PPTX · [High]
 - [practical](Lectures/Second%20Year/Other/Other/practical.md) · PPTX · [Med]
 - [Practice exam questions Cell and tissues with Answers](Lectures/Second%20Year/Other/Other/Practice%20exam%20questions_Cell%20and%20tissues%20with%20Answers.md) · DOCX · [Med]
-- [Practice exam questions Muscle Answers](Lectures/Second%20Year/Other/Other/Practice%20exam%20questions_Muscle_Answers%20%281%29.md) · DOCX · [Low] ⚠ ⎘
-- [Practice exam questions Muscle Answers](Lectures/Second%20Year/Other/Other/Practice%20exam%20questions_Muscle_Answers.md) · DOCX · [Low] ⚠ ⎘
 - [Prioritisation task](Lectures/Second%20Year/Other/Other/Prioritisation%20task.md) · DOCX · [Med]
 - [process mapping- safegaurding, team work + quality processes](Lectures/Second%20Year/Other/Other/process%20mapping-%20safegaurding%2C%20team%20work%20%2B%20quality%20processes.md) · DOCX · [Med]
 - [Proforma](Lectures/Second%20Year/Other/Other/Proforma.md) · DOC · [Med]
@@ -438,11 +452,9 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Template STUDENT](Lectures/Second%20Year/Other/Other/Template%20STUDENT%20PT5053.md) · DOCX · [High] ⎘
 - [Test your knowledge - Lecture 1](Lectures/Second%20Year/Other/Other/Test%20your%20knowledge%20-%20Lecture%201.md) · DOCX · [Med]
 - [Test your knowledge - Lecture 2](Lectures/Second%20Year/Other/Other/Test%20your%20knowledge%20-%20Lecture%202.md) · DOCX · [Med]
-- [Touch in professional setting](Lectures/Second%20Year/Other/Other/Touch%20in%20professional%20setting.md) · PPTX · [Low] ⚠
 - [TW1 Intro to Pub Health Lec 1](Lectures/Second%20Year/Other/Other/TW1%20Intro%20to%20Pub%20Health%20Lec_1%20studentVers.Rev%20%20%281%29.md) · PPTX · [High]
 - [Uni Teaching community LTC](Lectures/Second%20Year/Other/Other/Uni%20Teaching%20community%20LTC%281%29.md) · PPTX · [Med]
 - [User Guide for Student Users](Lectures/Second%20Year/Other/Other/User%20Guide%20for%20Student%20Users.md) · DOCX · [Med]
-- [Week 1 Introduction to Physiology, cells and tissues Pre-lecture notes](Lectures/Second%20Year/Other/Other/Week%201%20Introduction%20to%20Physiology%2C%20cells%20and%20tissues_Pre-lecture%20notes.md) · PPTX · [Low] ⚠
 - [Week 3 - Data Collection, Analysis and Interpreting Qualitative Research](Lectures/Second%20Year/Other/Other/Week%203%20-%20Data%20Collection%2C%20Analysis%20and%20Interpreting%20Qualitative%20Research.md) · PPTX · [Med]
 - [Week 5 Critically appraising qualitative research](Lectures/Second%20Year/Other/Other/Week%205%20Critically%20appraising%20qualitative%20research%20%282%29.md) · PPTX · [Med]
 - [Week 8 - What is qualitative Research in Healthcare Exploring Experience and Meaning](Lectures/Second%20Year/Other/Other/Week%208%20-%20What%20is%20qualitative%20Research%20in%20Healthcare%20Exploring%20Experience%20and%20Meaning%20-%20Copy-1.md) · PDF · [Med]
@@ -464,7 +476,6 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Introduction to Practice Education 1](Lectures/Second%20Year/Other/Practice%20Education/Introduction%20to%20Practice%20Education%201.md) · PPTX · [Med]
 - [L5 rubric clinical Practical](Lectures/Second%20Year/Other/Practice%20Education/L5%20rubric%20clinical%20Practical.md) · DOCX · [Med]
 - [LEARNING AGREEMENT handout](Lectures/Second%20Year/Other/Practice%20Education/LEARNING%20AGREEMENT%20handout.md) · DOCX · [Med]
-- [OSCE Formative briefing and instructions](Lectures/Second%20Year/Other/Practice%20Education/OSCE%20Formative%20briefing%20and%20instructions.md) · DOCX · [Low] ⚠
 - [Placement Code of Conduct 2](Lectures/Second%20Year/Other/Practice%20Education/Placement_Code_of_Conduct%202..md) · DOCX · [Med]
 - [Practical activities for the OSCE includes](Lectures/Second%20Year/Other/Practice%20Education/Practical%20activities%20for%20the%20OSCE%20includes.md) · DOCX · [Med]
 - [Safeguarding Adult Level 2 SDL 1](Lectures/Second%20Year/Other/Practice%20Education/Safeguarding%20Adult%20Level%202%20SDL%201%20%281%29.md) · DOCX · [Med]
@@ -491,12 +502,9 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [Core communication 3](Lectures/Second%20Year/Other/Professionalism/Core%20communication%203.md) · PPTX · [Med]
 - [Effective Communication with Individuals with Complex Needs in](Lectures/Second%20Year/Other/Professionalism/Effective%20Communication%20with%20Individuals%20with%20Complex%20Needs%20in.md) · PPTX · [High]
 - [Exercise principles - physical activity and health promotion](Lectures/Second%20Year/Other/Professionalism/Exercise%20principles%20-%20physical%20activity%20and%20health%20promotion.md) · PDF · [Med]
-- [Exercise principles](Lectures/Second%20Year/Other/Professionalism/Exercise%20principles.md) · PPTX · [Low] ⚠
 - [Foundations of Womens Health Physiotherapy](Lectures/Second%20Year/Other/Professionalism/Foundations%20of%20Womens%20Health%20Physiotherapy.md) · PPTX · [Med]
 - [Gibbs reflective-cycle-template](Lectures/Second%20Year/Other/Professionalism/Gibbs_reflective-cycle-template.md) · DOCX · [Med]
 - [Healthy Weight Healthy Lives Rev 2026 pptx](Lectures/Second%20Year/Other/Professionalism/Healthy%20Weight%20Healthy%20Lives_Rev_2026_pptx.md) · PPTX · [Med]
-- [INTRODUCTION TO THE MODULE AND THE BIOPSYCHOSOCIAL MODEL](Lectures/Second%20Year/Other/Professionalism/INTRODUCTION%20TO%20%20THE%20MODULE%20AND%20THE%20%20BIOPSYCHOSOCIAL%20%20MODEL%20%281%29.md) · PPTX · [Low] ⚠ ⎘
-- [INTRODUCTION TO THE MODULE AND THE BIOPSYCHOSOCIAL MODEL](Lectures/Second%20Year/Other/Professionalism/INTRODUCTION%20TO%20%20THE%20MODULE%20AND%20THE%20%20BIOPSYCHOSOCIAL%20%20MODEL.md) · PPTX · [Low] ⚠ ⎘
 - [NCL.DiversityandDiscrimination](Lectures/Second%20Year/Other/Professionalism/NCL.DiversityandDiscrimination.FINAL%20%287%29.md) · PPTX · [Med]
 - [NHS Health Checks 2026](Lectures/Second%20Year/Other/Professionalism/NHS%20Health%20Checks_2026.md) · PPTX · [Med]
 - [NUDT5079 Behaviour Change in Public Health students](Lectures/Second%20Year/Other/Professionalism/NUDT5079%20Behaviour%20Change%20in%20Public%20Health%20students.md) · PPTX · [Med]
@@ -505,12 +513,10 @@ Legend: `[High/Med/Low]` = classification confidence · `⚠` = flagged in `_REV
 - [patient centred communication](Lectures/Second%20Year/Other/Professionalism/patient%20centred%20communication.md) · PDF · [Med]
 - [PH - Exercise prescription](Lectures/Second%20Year/Other/Professionalism/PH%20-%20Exercise%20prescription.md) · PDF · [Med]
 - [Physiotherapy and health promotion](Lectures/Second%20Year/Other/Professionalism/Physiotherapy%20and%20health%20promotion.md) · PPTX · [Med]
-- [PROFESSIONALISM AND THE CSP](Lectures/Second%20Year/Other/Professionalism/PROFESSIONALISM%20AND%20THE%20CSP%281%29%20%281%29.md) · PPTX · [Low] ⚠
 - [Professionalism](Lectures/Second%20Year/Other/Professionalism/Professionalism.md) · PPTX · [Med]
 - [Proforma for Professionalism](Lectures/Second%20Year/Other/Professionalism/Proforma%20for%20Professionalism.md) · DOCX · [Med]
 - [Exercise Prescription Cervical & Thoracic](Lectures/Second%20Year/Other/Professionalism/PT5000%20Exercise%20Prescription%20Cervical%20%26%20Thoracic.md) · PDF · [High]
 - [Team working](Lectures/Second%20Year/Other/Professionalism/PT5051%20-%20Team%20working.md) · PPTX · [High]
 - [Rubric - reflective account](Lectures/Second%20Year/Other/Professionalism/PT5051%20Rubric%20-%20reflective%20account.md) · XLSX · [High]
 - [Public Health Task](Lectures/Second%20Year/Other/Professionalism/Public%20Health%20Task%20%281%29%20%281%29.md) · DOCX · [Med]
-- [Sociology and the Biopsychosocial Model](Lectures/Second%20Year/Other/Professionalism/Sociology%20and%20the%20Biopsychosocial%20Model-1.md) · PPTX · [Low] ⚠
 - [TW2 - Public Health Infrastructure & Strategy HM students 2026](Lectures/Second%20Year/Other/Professionalism/TW2%20-%20Public%20Health%20Infrastructure%20%26%20Strategy%20HM%20students%202026.md) · PPTX · [Med]
