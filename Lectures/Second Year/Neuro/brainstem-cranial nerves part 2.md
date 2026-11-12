@@ -143,3 +143,122 @@ Sphincter pupillae muscle and ciliary muscle |
 ## Slide 20
 
 - Clinical cases
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Brainstem, anterior and posterior views — comprehensive labels
+
+![Brainstem, anterior and posterior views — comprehensive labels](images/brainstem-cranial%20nerves%20part%202/fig-000.png)
+
+**Text extracted from figure (OCR):**
+
+Labelled brainstem (anterior and posterior) with cranial nerves and surface landmarks. [OCR partial - dense figure.]
+
+### Cranial nerve nuclei — motor (red) and sensory (green) columns
+
+![Cranial nerve nuclei — motor (red) and sensory (green) columns](images/brainstem-cranial%20nerves%20part%202/fig-004.png)
+
+**Text extracted from figure (OCR):**
+
+Motor and sensory cranial nerve nuclei including: Edinger-Westphal (accessory oculomotor) nucleus; Oculomotor nucleus; Trochlear nucleus; Principal (main) sensory nucleus of trigeminal; Motor nucleus of trigeminal; Abducens nucleus; Facial nucleus; Vestibular and cochlear nuclei; Superior and inferior salivatory nuclei; Solitary tract nucleus; Dorsal motor nucleus of vagus (X); Nucleus ambiguus; Hypoglossal nucleus; Spinal nucleus and tract of trigeminal; Spinal nucleus of accessory nerve. [OCR partial - dense figure.]
+
+### Cranial nerve nuclei and associated nerves (lateral projection)
+
+![Cranial nerve nuclei and associated nerves (lateral projection)](images/brainstem-cranial%20nerves%20part%202/fig-005.png)
+
+**Text extracted from figure (OCR):**
+
+Superior colliculus; Lateral geniculate; Oculomotor nerve (III); Trochlear nerve (IV); Trigeminal nerve and ganglion (V); Abducens nerve (VI); Facial nerve (VII); Vestibulocochlear nerve (VIII); Glossopharyngeal nerve (IX); Vagus nerve (X); Accessory nerve (XI); Hypoglossal nerve (XII); Solitary tract nucleus; Spinal nucleus of accessory nerve. [OCR partial - dense figure.]
+
+### Reticular formation of the brainstem
+
+![Reticular formation of the brainstem](images/brainstem-cranial%20nerves%20part%202/fig-006.png)
+
+**Text extracted from figure (OCR):**
+
+To diencephalon and telencephalon; Median (raphe) RF; Paramedian RF; Lateral RF; Central reticular nucleus; Magnus raphe nucleus; To spinal cord.
+
+### Pons, anterior view — cranial nerve attachments
+
+![Pons, anterior view — cranial nerve attachments](images/brainstem-cranial%20nerves%20part%202/fig-007.png)
+
+**Text extracted from figure (OCR):**
+
+Pons; Trigeminal nerve (motor root, sensory root); Abducens nerve; Facial nerve; Nervus intermedius; Vestibulocochlear nerve.
+
+### Olfactory nerve (CN I) pathway
+
+![Olfactory nerve (CN I) pathway](images/brainstem-cranial%20nerves%20part%202/fig-008.png)
+
+**Text extracted from figure (OCR):**
+
+Cells of anterior olfactory nucleus; Granule cell; Mitral cell; Olfactory glomerulus; Cribriform plate; Nasal mucous membrane; Olfactory neuron; Olfactory bulb; Lateral olfactory stria; Olfactory tract; Orbitofrontal cortex. Pathway: Olfactory mucosa (receptors) -> olfactory bulb (first-order) -> olfactory tract (second-order) -> cortex.
+
+### Cranial nerves — overview on the brain base
+
+![Cranial nerves — overview on the brain base](images/brainstem-cranial%20nerves%20part%202/fig-009.png)
+
+**Text extracted from figure (OCR):**
+
+Overview of cranial nerves I-XII arising from the cerebrum, brainstem and their peripheral targets. [OCR partial - dense overview figure.]
+
+### Cerebellar peduncles (posterior brainstem)
+
+![Cerebellar peduncles (posterior brainstem)](images/brainstem-cranial%20nerves%20part%202/fig-014.png)
+
+**Text extracted from figure (OCR):**
+
+Superior cerebellar peduncle; Middle cerebellar peduncle; Inferior cerebellar peduncle; Locus coeruleus; Facial colliculus.
+
+### Vestibulocochlear nerve (CN VIII) — auditory and vestibular pathway
+
+![Vestibulocochlear nerve (CN VIII) — auditory and vestibular pathway](images/brainstem-cranial%20nerves%20part%202/fig-015.png)
+
+**Text extracted from figure (OCR):**
+
+Facial nerve (VII); Cochlea; Spiral ganglion; Vestibular ganglion; Semicircular canals; Vestibular nuclei; Posterior and anterior cochlear nuclei; Medial geniculate nucleus; Internal acoustic meatus; Lateral lemniscus; Thalamus; Auditory cortex. Pathway: Cochlea (spiral ganglion) and semicircular canals (vestibular ganglion) -> cochlear/vestibular nuclei -> thalamus/cerebellum -> cortex.
+
+### Cranial nerve pathways — combined schematic
+
+![Cranial nerve pathways — combined schematic](images/brainstem-cranial%20nerves%20part%202/fig-016.png)
+
+**Text extracted from figure (OCR):**
+
+Composite schematic of multiple cranial nerve nuclei, ganglia and peripheral distributions. [OCR partial - dense figure.]
+
+### Abducens nerve (CN VI) course
+
+![Abducens nerve (CN VI) course](images/brainstem-cranial%20nerves%20part%202/fig-017.png)
+
+**Text extracted from figure (OCR):**
+
+Abducens nucleus; Abducens nerve (VI); Lateral rectus muscle. Pathway: Pons (abducens nucleus) -> cavernous sinus -> superior orbital fissure -> orbit -> lateral rectus muscle.
+
+### Trigeminal nerve (CN V) — divisions and nuclei
+
+![Trigeminal nerve (CN V) — divisions and nuclei](images/brainstem-cranial%20nerves%20part%202/fig-018.png)
+
+**Text extracted from figure (OCR):**
+
+Mesencephalic nucleus; Motor nucleus; Main sensory nucleus; Spinal tract of trigeminal (V); Ophthalmic division (V1); Maxillary division (V2); Mandibular division (V3); Trigeminal ganglion; Cavernous sinus; Muscles of mastication; distributions to orbit/forehead, cheek/nasal cavity, and lower face. Levels: Midbrain, Pons, Medulla.
+
+### Optic chiasm region and midbrain (ventral view)
+
+![Optic chiasm region and midbrain (ventral view)](images/brainstem-cranial%20nerves%20part%202/fig-019.png)
+
+**Text extracted from figure (OCR):**
+
+Mammillary body; Optic tract; Optic nerve; Optic chiasm; Infundibulum; Cerebral peduncle; Interpeduncular fossa; Oculomotor nerve; Trochlear nerve.
+
+### Midbrain, posterior view — colliculi
+
+![Midbrain, posterior view — colliculi](images/brainstem-cranial%20nerves%20part%202/fig-020.png)
+
+**Text extracted from figure (OCR):**
+
+Thalamus; Superior colliculus; Inferior colliculus; Pineal gland; Oculomotor nerve; Trochlear nerve.
+
+<!-- /FIGURES:AUTO -->
