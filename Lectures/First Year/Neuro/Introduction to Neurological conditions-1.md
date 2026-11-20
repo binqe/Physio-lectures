@@ -710,3 +710,161 @@ Link here: https://r1.vlereader.com/EpubReader?ean=1780702077982# You may have t
 the reading list to access this.
 For future reference with regards to placement:
 Common Neurological Terms for placement – Weblearn.
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Neurological conditions ranked by DALYs — 1990 vs 2019 (table)
+
+![Neurological conditions ranked by DALYs — 1990 vs 2019 (table)](images/Introduction%20to%20Neurological%20conditions-1/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+| Rank | 1990 | 2019 |
+|---|---|---|
+| 1 | Stroke | Stroke |
+| 2 | Neonatal encephalopathy due to birth asphyxia and trauma | Neonatal encephalopathy due to birth asphyxia and trauma |
+| 3 | Meningitis | Migraine |
+| 4 | Migraine | Alzheimer's disease and other dementias |
+| 5 | Tetanus | Meningitis |
+| 6 | Neural tube defects | Idiopathic epilepsy |
+| 7 | Idiopathic epilepsy | Brain and central nervous system cancer |
+| 8 | Alzheimer's disease and other dementias | Neural tube defects |
+| 9 | Encephalitis | Head injuries |
+| 10 | Brain and central nervous system cancer | Parkinson's disease |
+| 11 | Head injuries | Spinal injuries |
+| 12 | Spinal injuries | Encephalitis |
+| 13 | Tension-type headache | Tension-type headache |
+| 14 | Parkinson's disease | Other neurological disorders |
+| 15 | Other neurological disorders | Tetanus |
+| 16 | Down syndrome | Down syndrome |
+| 17 | Multiple sclerosis | Multiple sclerosis |
+| 18 | Motor neuron disease | Motor neuron disease |
+
+### Burden of neurological disorders by age group (DALYs, stacked)
+
+![Burden of neurological disorders by age group (DALYs, stacked)](images/Introduction%20to%20Neurological%20conditions-1/fig-000.webp)
+
+**Text extracted from figure (OCR):**
+
+Y axis: DALYs in thousand (0-60,000). X axis: age groups from Early Neonatal to 95 plus. Conditions: spinal injuries; head injuries; tetanus; tension-type headache; stroke; Parkinson's disease; other neurological disorders; neural tube defects; neonatal encephalopathy due to birth asphyxia and trauma; multiple sclerosis; motor neuron disease; migraine; meningitis; idiopathic epilepsy; encephalitis; Down syndrome; brain and CNS cancer; Alzheimer's disease and other dementias. Pattern: neonatal encephalopathy dominates early neonatal burden; stroke dominates from middle age, peaking ~65-74; dementias rise in the oldest groups.
+
+### Corticospinal and corticobulbar (pyramidal) pathways
+
+![Corticospinal and corticobulbar (pyramidal) pathways](images/Introduction%20to%20Neurological%20conditions-1/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+Motor cortex; Internal capsule; Corticobulbar fibres; Pons; Motor cranial nerve; Medulla; Decussation of the pyramids; Corticospinal/pyramidal tract; Typical spinal nerve; Spinal cord. (Crossman & Neary, Neuroanatomy 3e)
+
+### Functional significance of hemianopia
+
+![Functional significance of hemianopia](images/Introduction%20to%20Neurological%20conditions-1/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+Functional significance of hemianopsia; DANGER (car in the blind half-field); Brain damage; Lat. gen. body (lateral geniculate body).
+
+### Drawing copy test with left-sided omissions
+
+![Drawing copy test with left-sided omissions](images/Introduction%20to%20Neurological%20conditions-1/fig-008.webp)
+
+**Text extracted from figure (OCR):**
+
+No printed labels. A house drawing (left) and a patient's copy (right) omitting the left side. [Interpreted as a unilateral spatial neglect drawing test.]
+
+### Biopsychosocial framework
+
+![Biopsychosocial framework](images/Introduction%20to%20Neurological%20conditions-1/fig-010.webp)
+
+**Text extracted from figure (OCR):**
+
+Biopsychosocial framework: an approach to describing and explaining how biological, psychological and social factors combine and interact to influence physical and mental health. Psychological: learning, emotions, thinking, attitudes, memory, perceptions, beliefs, stress management strategies. Biological: genetic predisposition, neurochemistry, effect of medications, immune response, HPA axis, fight-flight response, physiological responses. Social: social support, family background, interpersonal relationships, cultural traditions, medical care, socio-economic status, poverty, physical exercise, biofeedback.
+
+### ICF model applied to stroke
+
+![ICF model applied to stroke](images/Introduction%20to%20Neurological%20conditions-1/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Health condition - Stroke (location, size of lesion, timing...). Body functions and -structures: functions - muscle activity, coordination, spasticity...; structures - upper and lower limbs... (e.g. hemiparesis, aphasia, apraxia...). Activities: performing an activity or task (e.g. clothing, walking stairs, communication...). Participation: taking part in social and/or family life (e.g. using public transportation, working, living with the family). Contextual factors (inhibitors or enhancers): Environmental factors (e.g. help from family, easy accessibility of domicile...); Personal factors (e.g. other comorbidities, physical fitness...).
+
+### Stroke — key statistics (UK)
+
+![Stroke — key statistics (UK)](images/Introduction%20to%20Neurological%20conditions-1/fig-022.webp)
+
+**Text extracted from figure (OCR):**
+
+More than 100,000 strokes in the UK each year - around one stroke every five minutes. Over 1.2 million stroke survivors in the UK. Every two seconds, someone in the world will have a stroke. Stroke is the fourth biggest killer in the UK (fourth in England and Wales, third in Scotland and Northern Ireland). More than 400 children have a stroke every year in the UK. A third of stroke survivors experience depression after having a stroke.
+
+### Projected stroke incidence (number of people) — 2015, 2025, 2035
+
+![Projected stroke incidence (number of people) — 2015, 2025, 2035](images/Introduction%20to%20Neurological%20conditions-1/fig-023.webp)
+
+**Text extracted from figure (OCR):**
+
+Bar chart (scale 0-200,000): incidence rises from 2015 to 2025 to 2035. [Exact values not printed on bars.]
+
+### Projected stroke prevalence (number of people) — 2015, 2025, 2035
+
+![Projected stroke prevalence (number of people) — 2015, 2025, 2035](images/Introduction%20to%20Neurological%20conditions-1/fig-024.webp)
+
+**Text extracted from figure (OCR):**
+
+Bar chart (scale 0-2,500,000): prevalence rises from 2015 to 2025 to 2035. [Exact values not printed on bars.]
+
+### Stroke hospital admissions in England, Wales and Northern Ireland by age and sex
+
+![Stroke hospital admissions in England, Wales and Northern Ireland by age and sex](images/Introduction%20to%20Neurological%20conditions-1/fig-026.webp)
+
+**Text extracted from figure (OCR):**
+
+Number of people admitted to hospital with a stroke, by age (15-19 to 90+), men vs women. Admissions rise steeply with age; men outnumber women up to ~75-79, women outnumber men from ~80 onwards (peaking ~7,500 at 80-89).
+
+### Mechanisms of cerebrovascular occlusion and bleeding
+
+![Mechanisms of cerebrovascular occlusion and bleeding](images/Introduction%20to%20Neurological%20conditions-1/fig-028.webp)
+
+**Text extracted from figure (OCR):**
+
+Ruptured Aneurysm; Thrombus; Embolism (blockage).
+
+### Haemorrhagic vs ischaemic stroke
+
+![Haemorrhagic vs ischaemic stroke](images/Introduction%20to%20Neurological%20conditions-1/fig-029.webp)
+
+**Text extracted from figure (OCR):**
+
+Hemorrhagic Stroke - Hemorrhage/blood leaks into brain tissue. Ischemic Stroke - Clot stops blood supply to an area of the brain. (A.D.A.M.)
+
+### Right hemisphere controls left-side motor coordination
+
+![Right hemisphere controls left-side motor coordination](images/Introduction%20to%20Neurological%20conditions-1/fig-030.webp)
+
+**Text extracted from figure (OCR):**
+
+Right cerebral hemisphere controls left-side motor coordination. (A.D.A.M.)
+
+### Left hemisphere controls right-side motor coordination
+
+![Left hemisphere controls right-side motor coordination](images/Introduction%20to%20Neurological%20conditions-1/fig-031.webp)
+
+**Text extracted from figure (OCR):**
+
+Left cerebral hemisphere controls right-side motor coordination. (A.D.A.M.)
+
+### Upper-limb functional task practice with a therapist
+
+![Upper-limb functional task practice with a therapist](images/Introduction%20to%20Neurological%20conditions-1/fig-016.jpg)
+
+### Body-weight-supported treadmill gait training
+
+![Body-weight-supported treadmill gait training](images/Introduction%20to%20Neurological%20conditions-1/fig-018.jpg)
+
+### Functional electrical stimulation device on the forearm
+
+![Functional electrical stimulation device on the forearm](images/Introduction%20to%20Neurological%20conditions-1/fig-021.jpg)
+
+<!-- /FIGURES:AUTO -->

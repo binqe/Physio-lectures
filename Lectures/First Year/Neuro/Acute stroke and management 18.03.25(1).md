@@ -206,3 +206,66 @@ brain imaging within 1 hour of hospital arrival
 - [6] McGlinchey M et al. (2015). Positioning and pressure care, in Bhalla, A and Birns J (eds) Management of Post-Stroke Complications. Springer, 189–225
 - [7] McGlinchey MP et al. (2021). The rehabilitation of physical function after severely disabling stroke: A survey of UK therapist practice. International Journal of Therapy and Rehabilitation, 28(7), 143
 - [8] Sacco RL et al. (2013). An updated definition of stroke for the 21st century: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke, 44(7), 2064–2089
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Ischaemic stroke — vessel occlusion by clot or plaque
+
+![Ischaemic stroke — vessel occlusion by clot or plaque](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+Blood Clot; Plaque; Blood vessel; Ischemic Stroke.
+
+### Axial CT head — stroke imaging
+
+![Axial CT head — stroke imaging](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-002.jpg)
+
+### Haemorrhagic stroke — vessel rupture
+
+![Haemorrhagic stroke — vessel rupture](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+Hemorrhagic Stroke; Hemorrhage; A rupture of the vessel.
+
+### Axial CT head showing a hyperdense intracerebral haemorrhage
+
+![Axial CT head showing a hyperdense intracerebral haemorrhage](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-006.jpg)
+
+### Infarct core and penumbra over time after stroke onset
+
+![Infarct core and penumbra over time after stroke onset](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+30 min; 2 hrs; 12 hrs. Infarct core (black) expands into the surrounding penumbra (blue) over time. Source: Myheart.net.
+
+### NHS 'Act F.A.S.T.' stroke recognition campaign
+
+![NHS 'Act F.A.S.T.' stroke recognition campaign](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+FACE - Has their face fallen on one side? Can they smile? ARMS - Can they raise both arms and keep them there? SPEECH - Is their speech slurred? TIME - To call 999 if you see any single one of these signs. WHEN STROKE STRIKES, Act F.A.S.T. Act F.A.S.T. help us help you (NHS).
+
+### Side-lying positioning with pillow support
+
+![Side-lying positioning with pillow support](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-012.jpg)
+
+### Therapist assisting a patient sitting at the bedside
+
+![Therapist assisting a patient sitting at the bedside](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-013.jpg)
+
+### Two-person assisted transfer from bed to wheelchair
+
+![Two-person assisted transfer from bed to wheelchair](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-015.jpg)
+
+### Mirror therapy set-up for the upper limb
+
+![Mirror therapy set-up for the upper limb](images/Acute%20stroke%20and%20management%2018.03.25%281%29/fig-016.jpg)
+
+<!-- /FIGURES:AUTO -->

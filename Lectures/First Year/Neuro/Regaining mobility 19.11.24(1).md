@@ -176,3 +176,10 @@ converted_by: "automated extraction from source file; original preserved as auth
 - National Clinical Guideline for Stroke for the UK and Ireland. London: Intercollegiate Stroke Working Party; 2023. Available at: www.strokeguideline.org
 - Saunders  DH, Sanderson  M, Hayes  S et al. Physical fitness training for stroke patients. Cochrane Database of Systematic Reviews 2020, Issue 3. Art. No.: CD003316
 - Veerbeek JM, van Wegen E, van Peppen R et al. What Is the Evidence for Physical Therapy Poststroke? A Systematic Review and Meta-Analysis. PLoS ONE 2014, 9(2): e87987
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_The figures in this file are identical to those in **[Week 19 Neuro PT7003 Regaining mobility (1)](Week%2019%20Neuro%20PT7003%20Regaining%20mobility%20%281%29.md#figures)**, where they are curated with transcribed labels. They are not duplicated here._
+
+<!-- /FIGURES:AUTO -->

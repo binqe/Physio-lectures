@@ -196,3 +196,58 @@ kicking a ball, computer games
 • Marching on the spot with dual tasking
 • Walking and talking
 • Walking and carrying an object
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Postural strategies — ankle, hip and stepping
+
+![Postural strategies — ankle, hip and stepping](images/Balance%20Training%20Practical%202024-1/fig-008.webp)
+
+**Text extracted from figure (OCR):**
+
+ankle; hip; stepping. Anterior/Posterior direction (top row); Lateral direction (bottom row).
+
+### Limits of stability — base of support without (A) and with (B) a walking stick
+
+![Limits of stability — base of support without (A) and with (B) a walking stick](images/Balance%20Training%20Practical%202024-1/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+A; B.
+
+### Guidelines for functional strength training (textbook box)
+
+![Guidelines for functional strength training (textbook box)](images/Balance%20Training%20Practical%202024-1/fig-002.webp)
+
+**Text extracted from figure (OCR):**
+
+Summary of Box 2.1 (see figure for exact wording): exercises should be task-oriented (e.g. step-ups, squats, sit-to-stand, walking, stairs, reaching) and practised as intensively as possible to mild fatigue; grade resistance and repetitions to ability, using body weight, free weights, elastic bands, machines or an inclined treadmill; vary load via step/chair height or object weight; generally <10 repetitions in three sets, or 3-20 repetitions at ~50% of one-repetition maximum for progressive resistance training; higher repetitions at low load for endurance; for very weak muscles use biofeedback, mental practice or functional electrical stimulation; keep normal breathing. Caution: avoid high-intensity resistance training in people at risk from high blood pressure (refers to ACSM Guidelines for Exercise Testing and Prescription, 2006).
+
+### Standing calf stretch at a plinth
+
+![Standing calf stretch at a plinth](images/Balance%20Training%20Practical%202024-1/fig-000.jpg)
+
+### Supported standing in a standing frame
+
+![Supported standing in a standing frame](images/Balance%20Training%20Practical%202024-1/fig-001.jpg)
+
+### Sit-to-stand practice
+
+![Sit-to-stand practice](images/Balance%20Training%20Practical%202024-1/fig-003.jpg)
+
+### Step-up exercise (A)
+
+![Step-up exercise (A)](images/Balance%20Training%20Practical%202024-1/fig-006.jpg)
+
+### Step-up exercise (B)
+
+![Step-up exercise (B)](images/Balance%20Training%20Practical%202024-1/fig-004.jpg)
+
+### Step-up exercise (C)
+
+![Step-up exercise (C)](images/Balance%20Training%20Practical%202024-1/fig-005.jpg)
+
+<!-- /FIGURES:AUTO -->

@@ -486,3 +486,158 @@ Balance impairments result from
 damage to either sensory or 
 motor components of balance 
 system
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Plumb line — ideal sagittal alignment along the line of gravity
+
+![Plumb line — ideal sagittal alignment along the line of gravity](images/Posture%20and%20Balance%20Control%202024-1/fig-002.webp)
+
+**Text extracted from figure (OCR):**
+
+Plum Line [sic]; Line of Gravity; Mastiod [sic] Process of Skull; Shoulder Joint; Cente [sic] Of Gravity; Hip Joint; Knee Joint; Ankle Joint.
+
+### Centre of gravity in different body positions
+
+![Centre of gravity in different body positions](images/Posture%20and%20Balance%20Control%202024-1/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+Centre of gravity.
+
+### Base of support in different postures (a-d)
+
+![Base of support in different postures (a-d)](images/Posture%20and%20Balance%20Control%202024-1/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+a.); b.); c.); d.)
+
+### Base of support around the feet (limits of stability)
+
+![Base of support around the feet (limits of stability)](images/Posture%20and%20Balance%20Control%202024-1/fig-005.webp)
+
+### Postural alignment and stability cone — A, B, C
+
+![Postural alignment and stability cone — A, B, C](images/Posture%20and%20Balance%20Control%202024-1/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+A.; B.; C.
+
+### Systems contributing to balance
+
+![Systems contributing to balance](images/Posture%20and%20Balance%20Control%202024-1/fig-017.webp)
+
+**Text extracted from figure (OCR):**
+
+Balance at the centre of: MSK System; Sensory Organisation; Motor Co-Ordination; Environmental Adaptation; Predictive Central Set; Perception of Orientation. Explanatory callouts (from near-identical slide versions): MSK System - patients must possess adequate strength and ROM to control the gravitational and inertial forces it encounters. Environmental Adaptation - the motor strategy a person uses depends in part on the type of surface or on whether they are sitting or st[anding] [text cropped in figure]. Predictive Central Set - prepare the motor system for upcoming sensory information; prepare the sensory system for upcoming movement. Perception of Orientation - vision, vestibular, proprioception.
+
+### Balance control — sensory and motor processes
+
+![Balance control — sensory and motor processes](images/Posture%20and%20Balance%20Control%202024-1/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Sensory - 'Where am I?': Visual System, Vestibular System, Somato Sensation -> Compare, Select and Combine Senses -> Determination of Body Position. Motor - 'What am I going to do?': Choice of Body Movement -> Select and Adjust Muscle Contractile Patterns -> Ankle/Thigh, Trunk/Neck, Eye/Head -> Generation of Body Movement -> Environmental Interaction (feeds back to the senses).
+
+### 'The Road to Balance' — sensory inputs for balance (VeDA)
+
+!['The Road to Balance' — sensory inputs for balance (VeDA)](images/Posture%20and%20Balance%20Control%202024-1/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+The brain combines inputs from the vestibular system, eyes and muscles (proprioception) to give us good balance. Proprioception (touch): muscles, joints, skin. Visual (eyes): eyes sense light and color, spatial awareness, eye coordination; clear vision, depth perception, motion perception. Vestibular (inner ear): gravity, linear movement, rotational movement; equilibrium, stable gaze. Outputs: stand upright, turn head, bend over -> BALANCE. (Vestibular Disorders Association, vestibular.org)
+
+### Sensory systems for balance and their outputs
+
+![Sensory systems for balance and their outputs](images/Posture%20and%20Balance%20Control%202024-1/fig-024.webp)
+
+**Text extracted from figure (OCR):**
+
+VESTIBULAR (Labyrinth); AUDITORY; VISUAL (Eyes); PROPRIOCEPTIVE (Muscle, joints, skin) -> CENTRAL NERVOUS SYSTEM (coordination, integration) -> Control of eye movements & gaze stabilisation; Posture control & spine stability/motion; Awareness of position & movement in space.
+
+### Postural strategies — ankle, hip and stepping
+
+![Postural strategies — ankle, hip and stepping](images/Posture%20and%20Balance%20Control%202024-1/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+Panels (a)-(f); no other printed labels.
+
+### Inner ear — semicircular canals and otolith organs
+
+![Inner ear — semicircular canals and otolith organs](images/Posture%20and%20Balance%20Control%202024-1/fig-027.webp)
+
+**Text extracted from figure (OCR):**
+
+Anterior Canal; Posterior Canal; Horizontal Canal; Utricle; Saccule; Cochlea. From accompanying graphics: Otoliths - linear movements, e.g. flying in a plane; Semicircular canals - rotational movements, e.g. figure skater.
+
+### Vestibular system — crista and macula
+
+![Vestibular system — crista and macula](images/Posture%20and%20Balance%20Control%202024-1/fig-025.webp)
+
+**Text extracted from figure (OCR):**
+
+vestibular system; crista; ampulla; utricle; macula; saccule. Enlargement of crista: cupula; hair bundles; hair cells; nerve fibre. Enlargement of macula: otoconia; otolithic membrane; stereocilia; kinocilium; Type I hair cell; Type II hair cell; supporting cells; basement membrane; nerve fibre. (Encyclopaedia Britannica)
+
+### Utricular macula — head upright vs head bent forward
+
+![Utricular macula — head upright vs head bent forward](images/Posture%20and%20Balance%20Control%202024-1/fig-026.webp)
+
+**Text extracted from figure (OCR):**
+
+otoconia; otolithic membrane; kinocilium; stereocilia; hair cells; upright section of the utricular macula (head upright); displaced section of the utricular macula (head bent forward). (Encyclopaedia Britannica)
+
+### Crista of the horizontal canal — stationary vs rotating
+
+![Crista of the horizontal canal — stationary vs rotating](images/Posture%20and%20Balance%20Control%202024-1/fig-028.webp)
+
+**Text extracted from figure (OCR):**
+
+hair bundles; cupula; hair cells; stationary section of the crista of the horizontal canal (stationary); rotating section of the crista of the horizontal canal (rotating). (Encyclopaedia Britannica)
+
+### Vestibular pathway
+
+![Vestibular pathway](images/Posture%20and%20Balance%20Control%202024-1/fig-031.webp)
+
+**Text extracted from figure (OCR):**
+
+Semi Circular Canals; Otoliths -> Vestibular Nerve -> Vestibular Nuclei; Cerebellum; outputs: VOR; Vestibulo-spinal reflex. [Smallest labels low resolution.]
+
+### Head impulse test — normal vs abnormal vestibulo-ocular reflex (VOR)
+
+![Head impulse test — normal vs abnormal vestibulo-ocular reflex (VOR)](images/Posture%20and%20Balance%20Control%202024-1/fig-032.webp)
+
+**Text extracted from figure (OCR):**
+
+NORMAL VOR: patient focused on examiner's nose; after sharp turn to patient's right, patient remains focused on examiner's nose. ABNORMAL VOR: patient focused on examiner's nose; Corrective saccades [drawing shows the eyes moving off target before the corrective saccade].
+
+### Performing the head impulse test
+
+![Performing the head impulse test](images/Posture%20and%20Balance%20Control%202024-1/fig-033.jpg)
+
+### Standing on a balance cushion
+
+![Standing on a balance cushion](images/Posture%20and%20Balance%20Control%202024-1/fig-035.jpg)
+
+### Texting while walking — gait adaptations
+
+![Texting while walking — gait adaptations](images/Posture%20and%20Balance%20Control%202024-1/fig-037.jpg)
+
+**Text extracted from figure (OCR):**
+
+Texting while walking: Gait adaptations and injury implications. From accompanying images: Decreased push-off; Shorter step length.
+
+### Role of the cerebellum in coordinated movement
+
+![Role of the cerebellum in coordinated movement](images/Posture%20and%20Balance%20Control%202024-1/fig-040.webp)
+
+**Text extracted from figure (OCR):**
+
+Cerebellum. Cerebellum helps provide smooth, coordinated body movement. (A.D.A.M.)
+
+<!-- /FIGURES:AUTO -->

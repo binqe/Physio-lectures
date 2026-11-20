@@ -126,7 +126,7 @@ _Figures extracted from the source file (educational diagrams/photos only). Labe
 
 ### Medulla cross-section — ascending/descending tracts and dorsal column nuclei
 
-![Medulla cross-section — ascending/descending tracts and dorsal column nuclei](images/brainstem%20part/fig-002.png)
+![Medulla cross-section — ascending/descending tracts and dorsal column nuclei](images/brainstem%20part/fig-002.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -134,7 +134,7 @@ Tracts (left): Corticospinal tract (pyramid); Trigeminothalamic tract; Spinothal
 
 ### Medulla cross-sections (a) open and (b) closed — cranial nerve nuclei
 
-![Medulla cross-sections (a) open and (b) closed — cranial nerve nuclei](images/brainstem%20part/fig-003.png)
+![Medulla cross-sections (a) open and (b) closed — cranial nerve nuclei](images/brainstem%20part/fig-003.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -142,7 +142,7 @@ Tracts (left): Corticospinal tract (pyramid); Trigeminothalamic tract; Spinothal
 
 ### Medulla (stained section) — tracts and vagal/hypoglossal nuclei
 
-![Medulla (stained section) — tracts and vagal/hypoglossal nuclei](images/brainstem%20part/fig-004.png)
+![Medulla (stained section) — tracts and vagal/hypoglossal nuclei](images/brainstem%20part/fig-004.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -150,7 +150,7 @@ Corticospinal tract (pyramid); Medial lemniscus; Spinothalamic tract; Rubrospina
 
 ### Hypoglossal nerve (CN XII) course and tongue musculature
 
-![Hypoglossal nerve (CN XII) course and tongue musculature](images/brainstem%20part/fig-005.png)
+![Hypoglossal nerve (CN XII) course and tongue musculature](images/brainstem%20part/fig-005.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -158,7 +158,7 @@ Hypoglossal nucleus -> Hypoglossal nerve (XII). Labelled: Styloid process; Stylo
 
 ### Spinal accessory nerve (CN XI) course
 
-![Spinal accessory nerve (CN XI) course](images/brainstem%20part/fig-006.png)
+![Spinal accessory nerve (CN XI) course](images/brainstem%20part/fig-006.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -166,7 +166,7 @@ Spinal accessory nucleus; Root of spinal accessory nerve; Spinal accessory nerve
 
 ### Vagus nerve (CN X) course and distribution
 
-![Vagus nerve (CN X) course and distribution](images/brainstem%20part/fig-007.png)
+![Vagus nerve (CN X) course and distribution](images/brainstem%20part/fig-007.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -174,7 +174,7 @@ Nuclei: Nucleus solitarius; Dorsal motor nucleus of X; Nucleus ambiguus; Spinal 
 
 ### Glossopharyngeal nerve (CN IX) course and distribution
 
-![Glossopharyngeal nerve (CN IX) course and distribution](images/brainstem%20part/fig-009.png)
+![Glossopharyngeal nerve (CN IX) course and distribution](images/brainstem%20part/fig-009.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -186,7 +186,7 @@ Nuclei: Nucleus solitarius; Inferior salivatory nucleus; Nucleus ambiguus; Spina
 
 ### Pons, anterior view — cranial nerve attachments
 
-![Pons, anterior view — cranial nerve attachments](images/brainstem%20part/fig-011.png)
+![Pons, anterior view — cranial nerve attachments](images/brainstem%20part/fig-011.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -194,7 +194,7 @@ Pons; Trigeminal nerve (motor root and sensory root); Abducens nerve; Facial ner
 
 ### Cerebellar peduncles (posterior brainstem)
 
-![Cerebellar peduncles (posterior brainstem)](images/brainstem%20part/fig-012.png)
+![Cerebellar peduncles (posterior brainstem)](images/brainstem%20part/fig-012.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -202,7 +202,7 @@ Superior cerebellar peduncle; Middle cerebellar peduncle; Inferior cerebellar pe
 
 ### Pons cross-section (caudal) — auditory/vestibular nuclei and tracts
 
-![Pons cross-section (caudal) — auditory/vestibular nuclei and tracts](images/brainstem%20part/fig-013.png)
+![Pons cross-section (caudal) — auditory/vestibular nuclei and tracts](images/brainstem%20part/fig-013.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -210,7 +210,7 @@ Corticospinal tract (pyramid); Vestibular nerve (VIII); Cochlear nerve (VIII); A
 
 ### Pons cross-section (rostral) — trigeminal nuclei and tracts
 
-![Pons cross-section (rostral) — trigeminal nuclei and tracts](images/brainstem%20part/fig-014.png)
+![Pons cross-section (rostral) — trigeminal nuclei and tracts](images/brainstem%20part/fig-014.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -218,7 +218,7 @@ Pontocerebellar tract; Medial lemniscus; Spinothalamic tract; Trigeminal nerve (
 
 ### Brain, inferior/anterior view — lobes and brainstem
 
-![Brain, inferior/anterior view — lobes and brainstem](images/brainstem%20part/fig-015.png)
+![Brain, inferior/anterior view — lobes and brainstem](images/brainstem%20part/fig-015.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -226,7 +226,7 @@ Interhemispheric fissure; Frontal lobe; Temporal lobe; Cerebellum; Lateral fissu
 
 ### Midsagittal brain — major regions
 
-![Midsagittal brain — major regions](images/brainstem%20part/fig-016.png)
+![Midsagittal brain — major regions](images/brainstem%20part/fig-016.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -234,7 +234,7 @@ Frontal cortex; Cingulate gyrus; Corpus callosum; Thalamus; Hypothalamus; Brain 
 
 ### Brainstem, anterior and posterior views — comprehensive labels
 
-![Brainstem, anterior and posterior views — comprehensive labels](images/brainstem%20part/fig-018.png)
+![Brainstem, anterior and posterior views — comprehensive labels](images/brainstem%20part/fig-018.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -242,7 +242,7 @@ Comprehensive labelled brainstem (anterior and posterior) showing cranial nerves
 
 ### Floor of the fourth ventricle (rhomboid fossa)
 
-![Floor of the fourth ventricle (rhomboid fossa)](images/brainstem%20part/fig-020.png)
+![Floor of the fourth ventricle (rhomboid fossa)](images/brainstem%20part/fig-020.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -250,7 +250,7 @@ Facial colliculus; Hypoglossal trigone; Vagal trigone; Vestibular area; Cuneate 
 
 ### Medulla, anterior view — cranial nerve roots
 
-![Medulla, anterior view — cranial nerve roots](images/brainstem%20part/fig-021.png)
+![Medulla, anterior view — cranial nerve roots](images/brainstem%20part/fig-021.webp)
 
 **Text extracted from figure (OCR):**
 

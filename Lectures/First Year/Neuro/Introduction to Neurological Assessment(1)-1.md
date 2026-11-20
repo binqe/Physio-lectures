@@ -480,3 +480,18 @@ http://www.vlebooks.com/vlewe
 b/product/openreader?id=Londo
 nMetr&amp;isbn=978070204660
 5.
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### ICF model (WHO International Classification of Functioning)
+
+![ICF model (WHO International Classification of Functioning)](images/Introduction%20to%20Neurological%20Assessment%281%29-1/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+Health Condition (disorder or disease); Body Functions & Structures (impairments); Activity (limitations); Participation (restrictions); Contextual factors: Environmental factors, Personal factors. Arrows show two-way interaction between all components.
+
+<!-- /FIGURES:AUTO -->

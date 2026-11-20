@@ -360,3 +360,86 @@ Livingstone. Pages 15 -48.
 J & Shepherd R’s Neurological Rehabilitation (2nd edition). 
 Elsevier: Churchill, Livingstone. Pages 77 -94.
 27
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Aims of neurological rehabilitation — Restore, Adapt, Maintain, Prevent
+
+![Aims of neurological rehabilitation — Restore, Adapt, Maintain, Prevent](images/Training%20motor%20control%20updated2-1/fig-000.webp)
+
+**Text extracted from figure (OCR):**
+
+Movement & Function at the centre of: Restore; Adapt; Prevent; Maintain. Definitions (from separate speech-bubble graphics): Restore - the restoration of movement and function to pre-impairment status; Adapt - the use of alternative movement strategies to complete a task; Maintain - maintenance of function especially in progressive conditions; Prevent - prevention of complications.
+
+### Clinical reasoning questions in neurological rehabilitation
+
+![Clinical reasoning questions in neurological rehabilitation](images/Training%20motor%20control%20updated2-1/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+From six speech-bubble graphics: What is the most appropriate way to examine my patient? What criteria should be used to decide what the priority problems are? How much time should be spent on documenting functional ability vs. evaluating underlying impairments? What are the most appropriate outcomes for evaluating the effect of the intervention? What is the best approach to intervention? How do I establish goals that are realistic and meaningful?
+
+### Conceptual framework for neurological rehabilitation
+
+![Conceptual framework for neurological rehabilitation](images/Training%20motor%20control%20updated2-1/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+Conceptual Framework linked to: ICF; Patient centred Care; Self Management; Neural Plasticity; Skill acquisition; Functional Movement re-education; Systems model of motor control (one box blank).
+
+### ICF model with examples of contextual factors
+
+![ICF model with examples of contextual factors](images/Training%20motor%20control%20updated2-1/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Health condition (disorder or disease); Body Functions & Structure; Activity; Participation. Contextual factors: Environmental Factors (social attitudes, architectural designs, legal and social structure, climatic terrain); Personal Factors (gender, age, coping strategies, social background, education, past experiences).
+
+### Systems model — individual, task and environment
+
+![Systems model — individual, task and environment](images/Training%20motor%20control%20updated2-1/fig-018.webp)
+
+**Text extracted from figure (OCR):**
+
+Movement (M) at the intersection of Individual, Task and Environment. Individual: Perception, Action, Cognition. Task: Stability, Manipulation, Mobility. Environment: Regulatory, Non-regulatory.
+
+### Aerobic exercise prescription in rehabilitation (table row)
+
+![Aerobic exercise prescription in rehabilitation (table row)](images/Training%20motor%20control%20updated2-1/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+Inpatient and outpatient exercise therapy or "rehabilitation" - Aerobic. Mode: large-muscle activities (eg, walking, graded walking, stationary cycle ergometry, arm ergometry, arm-leg ergometry, functional activities, seated exercises if appropriate). Goals: increase walking speed and efficiency; improve exercise tolerance (functional capacity); increase independence in ADLs; reduce motor impairment and improve cognition; improve vascular health and induce other cardioprotective benefits (eg, vasomotor reactivity, decrease risk factors). Intensity/frequency/duration: 40%-70% VO2 reserve or HR reserve; 55%-80% HR max; RPE 11-14 (6-20 scale); 3-5 d/wk; 20-60 min/session (or multiple 10-min sessions); 5-10 min of warm-up and cool-down activities; complement with pedometers to increase lifestyle physical activity.
+
+### Therapist facilitating sitting balance and reaching
+
+![Therapist facilitating sitting balance and reaching](images/Training%20motor%20control%20updated2-1/fig-005.jpg)
+
+### Positioning the affected arm supported on a pillow
+
+![Positioning the affected arm supported on a pillow](images/Training%20motor%20control%20updated2-1/fig-030.webp)
+
+### Positioning the affected upper limb — (A) side-lying, (B) sitting with the arm supported on a table
+
+![Positioning the affected upper limb — (A) side-lying, (B) sitting with the arm supported on a table](images/Training%20motor%20control%20updated2-1/fig-031.webp)
+
+**Text extracted from figure (OCR):**
+
+A; B.
+
+### Ankle splint applied to the lower leg
+
+![Ankle splint applied to the lower leg](images/Training%20motor%20control%20updated2-1/fig-027.jpg)
+
+### Serial casts for the lower leg and ankle
+
+![Serial casts for the lower leg and ankle](images/Training%20motor%20control%20updated2-1/fig-029.jpg)
+
+### Supported standing on a tilt table
+
+![Supported standing on a tilt table](images/Training%20motor%20control%20updated2-1/fig-028.jpg)
+
+<!-- /FIGURES:AUTO -->

@@ -525,3 +525,76 @@ Wilkins, 2010
 • Carr J, Shepherd RB. Neurological Rehabilitation: 
 Optimising motor performance. 2nd Edition. 
 London:  Elsevier, Churchill Livingstone, 2010.
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+_Further figures from this lecture are curated in: [Balance Training Practical 2024-1](Balance%20Training%20Practical%202024-1.md#figures), [Clinical Balance Assessment 2024-1](Clinical%20Balance%20Assessment%202024-1.md#figures). Only figures not covered there are included below._
+
+### Common postural faults vs good posture
+
+![Common postural faults vs good posture](images/Balance%20Rehabilitation-1/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Sway Back; Lumbar Lordosis; Thoracic Kyphosis; Forward Head; Good Posture.
+
+### Meta-analysis forest plot — exercise effects on lower-limb strength
+
+![Meta-analysis forest plot — exercise effects on lower-limb strength](images/Balance%20Rehabilitation-1/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Std. mean difference (IV, random, 95% CI); positive favours experimental. Strength dorsal extension: PRT 3.45 [2.25, 4.65]. Strength plantar flexion: PRT 1.42 [0.91, 1.93]; TST 0.05 [-0.64, 0.75]; total 0.95 [0.04, 1.87] (I2 = 79%). Strength knee extension: PRT 1.62 [0.52, 2.72]; TST -0.39 [-1.09, 0.31]; aerobic exercise 1.46 [1.07, 1.84]; FES -0.43 [-1.58, 0.72]; total 1.01 [0.23, 1.79] (I2 = 87%). Strength hip extension: PRT 2.48 [1.27, 3.69]; TST -0.02 [-0.72, 0.67]; total 1.65 [-0.10, 3.40] (I2 = 94%). [Small print - verify against figure. Abbreviations as printed: PRT, TST, FES.]
+
+### Meta-analysis forest plot — exercise effects on TUG and Berg Balance Scale
+
+![Meta-analysis forest plot — exercise effects on TUG and Berg Balance Scale](images/Balance%20Rehabilitation-1/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+Std. mean difference (IV, random, 95% CI). TUG: PRT total 1.00 [0.14, 1.86] (I2 = 72%). BBS: PRT 1.78 [0.91, 2.64]; aerobic exercise 0.09 [-0.25, 0.43]; TST -0.24 [-0.93, 0.46]; FES -0.97 [-2.19, 0.26]; total BBS 0.20 [-0.67, 1.07] (I2 = 83%). [Small print - verify against figure.]
+
+### Balance training with visual feedback on a screen
+
+![Balance training with visual feedback on a screen](images/Balance%20Rehabilitation-1/fig-015.jpg)
+
+### Postural alignment training — mirror and plumb-line reference
+
+![Postural alignment training — mirror and plumb-line reference](images/Balance%20Rehabilitation-1/fig-016.webp)
+
+### High-contrast visual pattern (visual-conflict stimulus)
+
+![High-contrast visual pattern (visual-conflict stimulus)](images/Balance%20Rehabilitation-1/fig-023.webp)
+
+### Standing on a foam surface with the therapist guarding
+
+![Standing on a foam surface with the therapist guarding](images/Balance%20Rehabilitation-1/fig-022.jpg)
+
+### Guarding a patient during walking with a gait belt
+
+![Guarding a patient during walking with a gait belt](images/Balance%20Rehabilitation-1/fig-002.jpg)
+
+### Standing balance practice beside a chair
+
+![Standing balance practice beside a chair](images/Balance%20Rehabilitation-1/fig-003.jpg)
+
+### Balance practice in parallel bars
+
+![Balance practice in parallel bars](images/Balance%20Rehabilitation-1/fig-005.jpg)
+
+### Standing reaching task at a table
+
+![Standing reaching task at a table](images/Balance%20Rehabilitation-1/fig-026.jpg)
+
+### Stepping to floor targets (dynamic balance drill)
+
+![Stepping to floor targets (dynamic balance drill)](images/Balance%20Rehabilitation-1/fig-019.jpg)
+
+### Group balance circuit class
+
+![Group balance circuit class](images/Balance%20Rehabilitation-1/fig-027.jpg)
+
+<!-- /FIGURES:AUTO -->

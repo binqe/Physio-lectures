@@ -185,3 +185,42 @@ Previous stroke: the risk of recurrent stroke is greatest after first stroke; 2â
 - [5] Mohan KM et al. (2011). Risk and cumulative risk of stroke recurrence: a systematic review and meta-analysis. Stroke, 42, 1489-1494
 - [6] Roser M et al. (2021). Burden of disease. Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/burden-of-disease' [Online Resource]
 - [7] NHS England- Midlands 2014. An Implementation Guide and Toolkit for Making Every Contact Count
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Risk factors for stroke
+
+![Risk factors for stroke](images/Stroke%20risk%20factors%20and%20management%2018.03.25%281%29/fig-023.webp)
+
+**Text extracted from figure (OCR):**
+
+RISK FACTORS FOR STROKE: Obesity; Lack of Exercise; Sleep Apnea; Heavy Alcohol Use; Smoking and/or Drug Use; Diabetes; Cardiovascular Disease; High Cholesterol; High Blood Pressure.
+
+### WHO 'Every Move Counts' physical activity guidelines (2020)
+
+![WHO 'Every Move Counts' physical activity guidelines (2020)](images/Stroke%20risk%20factors%20and%20management%2018.03.25%281%29/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+EVERY MOVE COUNTS - Being active has significant health benefits for hearts, bodies and minds. LIMIT sedentary time; REPLACE with some physical activity; ANY IS BETTER THAN NONE. Pregnant & postpartum women: 150 minutes per week. Adults & older adults: 150 to 300 minutes per week. Children & adolescents: 60 minutes per day. Adults: muscle strengthening activities on at least 2 days a week. Older adults: multicomponent activities for balance and strength on at least 3 days a week. Everyone who can: more than 300 minutes per week - MORE IS BETTER. Source: WHO guidelines on physical activity and sedentary behaviour (2020).
+
+### Burden of disease by country, 2019 (DALYs per 100,000)
+
+![Burden of disease by country, 2019 (DALYs per 100,000)](images/Stroke%20risk%20factors%20and%20management%2018.03.25%281%29/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+Burden of disease, 2019. Disability-Adjusted Life Years (DALYs) per 100,000 individuals from all causes. DALYs measure the total burden of disease - both from years of life lost due to premature death and years lived with a disability. One DALY equals one lost year of healthy life. Scale: 10,000 to 100,000 (age-standardised). Source: IHME, Global Burden of Disease (2019); OurWorldInData.
+
+### Total disease burden by cause, World, 1990-2019
+
+![Total disease burden by cause, World, 1990-2019](images/Stroke%20risk%20factors%20and%20management%2018.03.25%281%29/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Share of total DALYs by cause, 1990-2019: Non-communicable diseases (NCDs) rise from ~43% to ~64%; Communicable, maternal, neonatal and nutritional diseases fall correspondingly; Injuries roughly constant (~9-10%). Source: IHME, Global Burden of Disease (2019); OurWorldInData.
+
+<!-- /FIGURES:AUTO -->

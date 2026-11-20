@@ -502,3 +502,106 @@ Clinical Management of the patient with a
 postural control disorder. In Motor Control: 
 Translating Research into Clinical Practice 
 4th Edition. Chapter 7
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Berg Balance Scale — items 1-7 (form with instructions)
+
+![Berg Balance Scale — items 1-7 (form with instructions)](images/Clinical%20Balance%20Assessment%202024-1/fig-010.webp)
+
+**Text extracted from figure (OCR):**
+
+Summary (see figure for exact wording). Berg Balance Scale: 14 items, each scored 4 (best) to 0. Items: 1 Sitting to standing; 2 Standing unsupported (2 min); 3 Sitting with back unsupported, feet on floor or stool (2 min); 4 Standing to sitting; 5 Transfers; 6 Standing unsupported with eyes closed (10 s); 7 Standing unsupported with feet together (1 min). Note on form: if able to stand 2 minutes unsupported, score full points for sitting unsupported and proceed to item 4.
+
+### Berg Balance Scale — items 8-14 (form with instructions)
+
+![Berg Balance Scale — items 8-14 (form with instructions)](images/Clinical%20Balance%20Assessment%202024-1/fig-011.webp)
+
+**Text extracted from figure (OCR):**
+
+Summary (see figure for exact wording). Items: 8 Reaching forward with outstretched arm while standing (arm at 90 degrees; scored by distance: 25 cm / 12 cm / 5 cm); 9 Pick up object from the floor from a standing position; 10 Turning to look behind over left and right shoulders; 11 Turn 360 degrees (4 seconds or less for full score each side); 12 Place alternate foot on step or stool (8 steps in 20 seconds for full score); 13 Standing unsupported one foot in front (tandem, hold 30 seconds); 14 Standing on one leg.
+
+### Mini-BESTest (Balance Evaluation Systems Test) — items 1-7
+
+![Mini-BESTest (Balance Evaluation Systems Test) — items 1-7](images/Clinical%20Balance%20Assessment%202024-1/fig-021.webp)
+
+**Text extracted from figure (OCR):**
+
+Summary (form (c) 2005-2013 Oregon Health & Science University; see figure for exact wording). Each item scored 2 Normal / 1 Moderate / 0 Severe. ANTICIPATORY (/6): 1 Sit to stand; 2 Rise to toes (hold 3 s); 3 Stand on one leg (normal 20 s; use the worse side). REACTIVE POSTURAL CONTROL (/6): 4 Compensatory stepping correction - forward; 5 - backward; 6 - lateral (use the worse side). SENSORY ORIENTATION (/6, continues): 7 Stance, feet together, eyes open, firm surface (normal 30 s).
+
+### Mini-BESTest — items 8-14 and total score
+
+![Mini-BESTest — items 8-14 and total score](images/Clinical%20Balance%20Assessment%202024-1/fig-022.webp)
+
+**Text extracted from figure (OCR):**
+
+Summary (see figure for exact wording). SENSORY ORIENTATION (cont.): 8 Stance, feet together, eyes closed, foam surface (normal 30 s); 9 Incline, eyes closed (normal: stands 30 s and aligns with gravity). DYNAMIC GAIT (/10): 10 Change in gait speed; 11 Walk with head turns - horizontal; 12 Walk with pivot turns (normal: turns with feet close in 3 steps or fewer); 13 Step over obstacles; 14 Timed Up & Go with dual task (3 m walk; counting backwards by threes) - if gait speed slows more than 10% with the dual task, the score is decreased by a point. TOTAL SCORE: /28.
+
+### Functional Reach Test — start position (A) and maximal forward reach (B)
+
+![Functional Reach Test — start position (A) and maximal forward reach (B)](images/Clinical%20Balance%20Assessment%202024-1/fig-008.jpg)
+
+**Text extracted from figure (OCR):**
+
+A; B.
+
+### Romberg test position
+
+![Romberg test position](images/Clinical%20Balance%20Assessment%202024-1/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Eyes closed; Arms at the sides; Legs and feet side by side.
+
+### Sensory conditions for standing balance — visual x surface conditions
+
+![Sensory conditions for standing balance — visual x surface conditions](images/Clinical%20Balance%20Assessment%202024-1/fig-020.webp)
+
+**Text extracted from figure (OCR):**
+
+VISUAL CONDITIONS: Normal; Blindfold; Dome. SURFACE CONDITIONS: Normal; Foam. Conditions numbered 1-6.
+
+### Single-leg stance balance test
+
+![Single-leg stance balance test](images/Clinical%20Balance%20Assessment%202024-1/fig-013.jpg)
+
+### Standing on a compliant (foam) surface
+
+![Standing on a compliant (foam) surface](images/Clinical%20Balance%20Assessment%202024-1/fig-014.jpg)
+
+### Postural strategies — ankle, hip and stepping in two directions
+
+![Postural strategies — ankle, hip and stepping in two directions](images/Clinical%20Balance%20Assessment%202024-1/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+Panels (a)-(f); no other printed labels.
+
+### Standing balance assessment with the therapist guarding
+
+![Standing balance assessment with the therapist guarding](images/Clinical%20Balance%20Assessment%202024-1/fig-004.jpg)
+
+### Using a gait/safety belt while guarding a patient
+
+![Using a gait/safety belt while guarding a patient](images/Clinical%20Balance%20Assessment%202024-1/fig-005.jpg)
+
+### Stepping tasks onto a step (A-C)
+
+![Stepping tasks onto a step (A-C)](images/Clinical%20Balance%20Assessment%202024-1/fig-017.jpg)
+
+**Text extracted from figure (OCR):**
+
+A; B; C.
+
+### Therapist guarding during dynamic balance tasks (A-C)
+
+![Therapist guarding during dynamic balance tasks (A-C)](images/Clinical%20Balance%20Assessment%202024-1/fig-018.jpg)
+
+**Text extracted from figure (OCR):**
+
+A; B; C.
+
+<!-- /FIGURES:AUTO -->

@@ -401,3 +401,63 @@ Neurología. 2015;30(1):32—41
 • Shumway Cook A, et al. (2022). Motor Control: Translating Research 
 into Clinical Practice. Motor Control: Issues and Theories: Chapter 1. 
 Wolters Kluver, Lippincott Williams & Wilkins
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Movement emerges from the individual, the task and the environment
+
+![Movement emerges from the individual, the task and the environment](images/Motor%20control-1/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+MOVEMENT at the intersection of: Resources of the individual; Nature of the task/activity; Characteristics of the environment.
+
+### Hierarchy of the motor system
+
+![Hierarchy of the motor system](images/Motor%20control-1/fig-018.webp)
+
+**Text extracted from figure (OCR):**
+
+Premotor and supplementary motor cortical regions; Motor cortex; Cerebellum; Basal ganglia; Brain stem; Spinal cord; Output signals (to muscles).
+
+### Closed-loop model of motor control
+
+![Closed-loop model of motor control](images/Motor%20control-1/fig-020.webp)
+
+**Text extracted from figure (OCR):**
+
+Movement generator or motor program system; Efferent outflow; Muscles; Kinesthetic feedback; Other feedback (auditory, visual, etc.); Template or comparison center; Efferent copy; Corrections.
+
+### Dorsal ('where') and ventral ('what') visual streams
+
+![Dorsal ('where') and ventral ('what') visual streams](images/Motor%20control-1/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+Dorsal or "where" stream - Spatial processing: location, movement, spatial transformations, spatial relations. Ventral or "what" stream - Object processing: color, texture, pictorial detail, shape, size. Lobes: Frontal; Parietal; Occipital; Temporal.
+
+### Taxonomy of motor tasks — environmental context x action function (progression grid)
+
+![Taxonomy of motor tasks — environmental context x action function (progression grid)](images/Motor%20control-1/fig-011.webp)
+
+**Text extracted from figure (OCR):**
+
+Action function: Body stability / Body transport, each with No object manipulation / Object manipulation (columns A-D). Environmental context: Stationary regulatory conditions (No intertrial variability = row 1; Intertrial variability = row 2); In-motion regulatory conditions (No intertrial variability = row 3; Intertrial variability = row 4). Cells 1A to 4D, colour-graded from simplest (1A, green) to most complex (4D, red); arrows show progression. [Identified as Gentile's taxonomy of motor tasks; name not printed in figure.]
+
+### Taxonomy of motor tasks — worked examples (table)
+
+![Taxonomy of motor tasks — worked examples (table)](images/Motor%20control-1/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+| Environmental context | Body stability, no object | Body stability, object | Body movement, no object | Body movement, object |
+|---|---|---|---|---|
+| Stationary regulatory condition, no intertrial variability | 1a Practicing a golf swing without a club | 1b Hitting balls at a driving range from the same spot | 1c Practicing the same dance steps | 1d Practicing the same dance steps with a partner |
+| Stationary regulatory condition, intertrial variability | 2a Practicing separate tai chi moves standing on the same spot | 2b Hitting ball with cue from different locations on a billiards table | 2c Practicing different dance steps on own | 2d Practicing different dance steps with a partner |
+| In-motion regulatory condition, no intertrial variability | 3a Riding on a stationary exercise bike at a constant speed | 3b Fishing while sitting on a boat and only casting once | 3c Practicing lawn bowls delivery with a walking step without a ball | 3d Returning a tennis serve from a tennis ball pitching machine |
+| In-motion regulatory condition, intertrial variability | 4a Riding on a stationary exercise bike at different speeds | 4b Fishing while standing on a boat; throwing cast out in a new spot each attempt | 4c Walking in a busy shopping centre | 4d Riding a bike on a bike path |
+
+<!-- /FIGURES:AUTO -->

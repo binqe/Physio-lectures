@@ -175,3 +175,30 @@ converted_by: "automated extraction from source file; original preserved as auth
 - National Clinical Guideline for Stroke for the UK and Ireland. London: Intercollegiate Stroke Working Party; 2023. Available at: www.strokeguideline.org
 - Saunders  DH, Sanderson  M, Hayes  S et al. Physical fitness training for stroke patients. Cochrane Database of Systematic Reviews 2020, Issue 3. Art. No.: CD003316
 - Veerbeek JM, van Wegen E, van Peppen R et al. What Is the Evidence for Physical Therapy Poststroke? A Systematic Review and Meta-Analysis. PLoS ONE 2014, 9(2): e87987
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### ICF model (WHO International Classification of Functioning)
+
+![ICF model (WHO International Classification of Functioning)](images/Week%2019%20Neuro%20PT7003%20Regaining%20mobility%20%281%29/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+Health Condition - Disorder/Disease; Body functions/Body structures (Impairment); Activities (Limitation); Participation (Restriction); Environmental factors - Facilitators/Barriers; Personal factors - Positive/Negative.
+
+### Body-weight-supported treadmill training
+
+![Body-weight-supported treadmill training](images/Week%2019%20Neuro%20PT7003%20Regaining%20mobility%20%281%29/fig-000.jpg)
+
+### Body-weight-support harness on treadmill with therapist assisting
+
+![Body-weight-support harness on treadmill with therapist assisting](images/Week%2019%20Neuro%20PT7003%20Regaining%20mobility%20%281%29/fig-008.jpg)
+
+### Older adult performing a loaded squat (exercise demonstration)
+
+![Older adult performing a loaded squat (exercise demonstration)](images/Week%2019%20Neuro%20PT7003%20Regaining%20mobility%20%281%29/fig-009.jpg)
+
+<!-- /FIGURES:AUTO -->

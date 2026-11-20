@@ -612,3 +612,126 @@ Lannin NA et al. (2007). Stroke. 38, 111-1116.
 Sommerfeld DK et al. (2012). Am J Phys Med Rehabil 2012; 91: 814–20
 14.
 Opheim A et al. (2014). Am J Phys Med Rehabil. 93:884-96.
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Hand velocity profiles — pointing vs grasping
+
+![Hand velocity profiles — pointing vs grasping](images/Retraining%20upper%20limb%202025-1/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Resultant velocity (degree/sec) vs normalized time (0-100). Grasping movements reach peak velocity earlier (~40% of movement time, longer deceleration) than pointing movements (~80-85%). [Reading of the plotted curves.]
+
+### Grip aperture scales to object size during reach-to-grasp
+
+![Grip aperture scales to object size during reach-to-grasp](images/Retraining%20upper%20limb%202025-1/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Grip size (cm) vs Time (msec): peak aperture ~10 cm for a cylinder ('cyl') vs ~5 cm for a rod ('rod'), opening before contact. [Reading of the plotted curves.]
+
+### Target positions for reaching movements
+
+![Target positions for reaching movements](images/Retraining%20upper%20limb%202025-1/fig-028.webp)
+
+**Text extracted from figure (OCR):**
+
+Target positions for reaching movements: Far; Near; Ipsilateral; Contralateral.
+
+### Prevalence of spasticity in the first year after stroke
+
+![Prevalence of spasticity in the first year after stroke](images/Retraining%20upper%20limb%202025-1/fig-025.webp)
+
+**Text extracted from figure (OCR):**
+
+Percentage of assessed patients with MAS >= 1 (spasticity present) vs MAS = 0 (no spasticity) at Day 3, Day 10, Week 4, Month 3, Month 6, Month 12: approximately 25%, 37%, 44%, 39%, 45%, 46%. [Approximate bar readings.]
+
+### Power grip vs precision grip
+
+![Power grip vs precision grip](images/Retraining%20upper%20limb%202025-1/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+power grip; precision grip. (Encyclopaedia Britannica)
+
+### Grasp type — cylindrical grip
+
+![Grasp type — cylindrical grip](images/Retraining%20upper%20limb%202025-1/fig-016.jpg)
+
+### Grasp type — tip pinch of a small object
+
+![Grasp type — tip pinch of a small object](images/Retraining%20upper%20limb%202025-1/fig-017.jpg)
+
+### Grasp type — hook grip on a handle
+
+![Grasp type — hook grip on a handle](images/Retraining%20upper%20limb%202025-1/fig-018.jpg)
+
+### Grasp type — spherical grip
+
+![Grasp type — spherical grip](images/Retraining%20upper%20limb%202025-1/fig-020.jpg)
+
+### Seated reaching — trunk and arm postures
+
+![Seated reaching — trunk and arm postures](images/Retraining%20upper%20limb%202025-1/fig-023.webp)
+
+### Strength training for the upper limb (textbook box)
+
+![Strength training for the upper limb (textbook box)](images/Retraining%20upper%20limb%202025-1/fig-039.webp)
+
+**Text extracted from figure (OCR):**
+
+Summary of Box 6.3 (see figure for exact wording): gripping exercises (grip-force dynamometer, spring-resisted gripper, putty, pouring water between vessels of changing weight, varied grips); progressively heavier objects in reaching, lifting and manipulating tasks; elastic band exercises with progressively tighter bands; pushing and pulling using body weight or bands; arm cycling (bimanual or unimanual).
+
+### Protocol for task-specific training plus constraint (textbook box)
+
+![Protocol for task-specific training plus constraint (textbook box)](images/Retraining%20upper%20limb%202025-1/fig-048.webp)
+
+**Text extracted from figure (OCR):**
+
+Summary of Box 6.4 (see figure for exact wording). Inclusion: Wolf's Minimum Motor Criteria - active wrist extension at least 20 degrees and finger (IP and MCP) extension at least 10 degrees; willing to train 5 days/week for 2 weeks. Constraint: hand splint or mitt/glove (+ sling) on the non-paretic arm for a prescribed number of hours each weekday for 2 weeks, with reminders not to use it. Behavioural contract: agree which activities are done without the constraint (e.g. bathing, dressing, balance-risk tasks) and with it (e.g. eating, grooming, toileting, domestic tasks). Programme: prescribed hours of task-oriented training for the paretic limb + home practice. Measurement: before and after the 2-week programme and a few weeks later (retention).
+
+### Constraint-induced movement therapy — mitt on the non-paretic hand during task practice
+
+![Constraint-induced movement therapy — mitt on the non-paretic hand during task practice](images/Retraining%20upper%20limb%202025-1/fig-047.jpg)
+
+### Positioning the affected upper limb — (A) side-lying, (B) sitting
+
+![Positioning the affected upper limb — (A) side-lying, (B) sitting](images/Retraining%20upper%20limb%202025-1/fig-052.webp)
+
+**Text extracted from figure (OCR):**
+
+A; B.
+
+### Resting hand splint
+
+![Resting hand splint](images/Retraining%20upper%20limb%202025-1/fig-051.webp)
+
+### Mirror therapy for the upper limb
+
+![Mirror therapy for the upper limb](images/Retraining%20upper%20limb%202025-1/fig-056.jpg)
+
+### Electrical stimulation of the forearm muscles
+
+![Electrical stimulation of the forearm muscles](images/Retraining%20upper%20limb%202025-1/fig-055.jpg)
+
+### Dynamic wrist-hand splint
+
+![Dynamic wrist-hand splint](images/Retraining%20upper%20limb%202025-1/fig-058.jpg)
+
+### Robotic / powered hand rehabilitation glove
+
+![Robotic / powered hand rehabilitation glove](images/Retraining%20upper%20limb%202025-1/fig-059.jpg)
+
+### GRASP — Graded Repetitive Arm Supplementary Program
+
+![GRASP — Graded Repetitive Arm Supplementary Program](images/Retraining%20upper%20limb%202025-1/fig-060.webp)
+
+**Text extracted from figure (OCR):**
+
+Hospital GRASP - Graded Repetitive Arm Supplementary Program - Exercise Manual - Level 1.
+
+<!-- /FIGURES:AUTO -->

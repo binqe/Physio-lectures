@@ -459,3 +459,54 @@ References
 Disorders. Chapter in Stoke M & Stack E Physical 
 Management for Neurological Conditions. 3rd 
 edition. London. Elsevier Churchill Livingstone.
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### The nervous system — central and peripheral nerves
+
+![The nervous system — central and peripheral nerves](images/Neuromuscular%20disorders_%20muscle%20disorders-1/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+CNS: Cerebrum; Cerebellum; Brainstem; Spinal cord. Cranial nerves: Vagus. Brachial plexus nerves: Musculocutaneous; Radial; Median; Ulnar. Thoracoabdominal nerves: Intercostals; Subcostal; Iliohypogastric; Ilioinguinal; Lateral cutaneous of thigh; Genitofemoral. Lumbar plexus nerves: Obturator; Femoral; Muscular branches of femoral; Saphenous. Sacral plexus nerves: Sciatic; Tibial; Common peroneal; Deep peroneal; Superficial peroneal; Sural. Pudendal nerve.
+
+### Muscle histology — non-DMD vs Duchenne muscular dystrophy
+
+![Muscle histology — non-DMD vs Duchenne muscular dystrophy](images/Neuromuscular%20disorders_%20muscle%20disorders-1/fig-007.jpg)
+
+**Text extracted from figure (OCR):**
+
+non-DMD muscle tissue; DMD muscle tissue.
+
+### Duchenne muscular dystrophy (DMD) — common symptoms
+
+![Duchenne muscular dystrophy (DMD) — common symptoms](images/Neuromuscular%20disorders_%20muscle%20disorders-1/fig-009.webp)
+
+**Text extracted from figure (OCR):**
+
+Duchenne Muscular Dystrophy (DMD). Often appearing before age six, common symptoms include: Progressive muscle weakness and atrophy; Calf muscle hypertrophy; Fatigue; Toe walking; Difficulty climbing up stairs; Frequent falls; Developmental delay; Breathing problems; Learning differences; Delayed speech and language development; Scoliosis; Short stature (height).
+
+### Disease progression in DMD — from early ambulatory to late non-ambulatory
+
+![Disease progression in DMD — from early ambulatory to late non-ambulatory](images/Neuromuscular%20disorders_%20muscle%20disorders-1/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+5 to 7 years (early ambulatory): motor delay; enlarged calves; toe walking; standing from supine, climbing stairs more difficult. 8 to 11 years (late ambulatory): increasing loss of walking ability; part-time wheelchair use. Early teens (early non-ambulatory): loss of ambulation; full-time wheelchair use; increasing loss of upper limb function. Teens (late non-ambulatory): increasing respiratory impairment; ventilation support often required; unable to perform activities of daily living. Teens to twenties: increasing cardiac dysfunction; heart failure; death. DMD affects skeletal, diaphragm, and cardiac muscle.
+
+### Becker muscular dystrophy (BMD) — common symptoms
+
+![Becker muscular dystrophy (BMD) — common symptoms](images/Neuromuscular%20disorders_%20muscle%20disorders-1/fig-011.webp)
+
+**Text extracted from figure (OCR):**
+
+Becker Muscular Dystrophy (BMD). Common symptoms include: Arm weakness; Difficulty walking that gets worse over time; Toe walking; Hard getting out of chair; Muscle pain and/or spasms; Frequent falls. Other symptoms of BMD may include: Cardiomyopathy; Breathing problems; Learning differences; Fatigue. (Cleveland Clinic)
+
+### Clinical photographs — standing posture, and standing with knee-ankle-foot orthoses
+
+![Clinical photographs — standing posture, and standing with knee-ankle-foot orthoses](images/Neuromuscular%20disorders_%20muscle%20disorders-1/fig-012.jpg)
+
+<!-- /FIGURES:AUTO -->

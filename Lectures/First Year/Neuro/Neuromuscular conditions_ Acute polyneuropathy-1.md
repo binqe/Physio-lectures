@@ -329,3 +329,94 @@ Reference
 Chapter in Physical management for 
 Neurological Conditions.  Churchill 
 Livingstone. Elservier
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Guillain-Barre syndrome — summary sketch
+
+![Guillain-Barre syndrome — summary sketch](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-020.webp)
+
+**Text extracted from figure (OCR):**
+
+GUILLAIN-BARRE SYNDROME; Nerve conduction studies; Peripheral nerves; Weakness; Neuropathy; Antibodies; B-cells; Campylobacter.
+
+### Clinical picture of a peripheral polyneuropathy — motor, reflexes, sensation, coordination
+
+![Clinical picture of a peripheral polyneuropathy — motor, reflexes, sensation, coordination](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-009.webp)
+
+**Text extracted from figure (OCR):**
+
+Panels: Cranial nerves and motor system; Reflexes; Sensation; Coordination. Legend: Muscle weakness and wasting (distal limbs); Absent tendon reflexes; Loss of all sensation (glove-and-stocking distribution); Incoordinate movement, ataxia.
+
+### Time course of Guillain-Barre syndrome
+
+![Time course of Guillain-Barre syndrome](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+Y axis: severity of weakness during course of GBS (No weakness to Paralysis). X axis: time from onset of weakness (weeks, -4 to 12). Curves: Infection (peaks ~2-3 weeks before onset); Antiganglioside antibodies (peak around onset, then decline); Course of GBS (weakness reaches its worst ~2 weeks after onset, then recovers).
+
+### Phases of Guillain-Barre syndrome
+
+![Phases of Guillain-Barre syndrome](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+Acute phase (deterioration): up to 4 weeks -> Nadir. Sub-acute phase (plateau): few days to few weeks. Recovery phase (remyelination): few weeks to 2 years - dependant on degree of damage to axon.
+
+### Structure of a motor neuron
+
+![Structure of a motor neuron](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+Dendrites; Nucleus; Mitochondrion; Axon hillock; Microtubules; Axon; Schwann cells; Nodes of Ranvier; Schwann cell nuclei; Motor end plates; Muscle fibres.
+
+### Structure of a peripheral nerve
+
+![Structure of a peripheral nerve](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+Blood vessels; Perineurium (around one fascicle); Endoneurium; Epineurium covering peripheral nerve; Fascicle; Schwann cell; Myelinated axon.
+
+### The nervous system — central and peripheral nerves
+
+![The nervous system — central and peripheral nerves](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-002.webp)
+
+**Text extracted from figure (OCR):**
+
+CNS: Cerebrum; Cerebellum; Brainstem; Spinal cord. Cranial nerves: Vagus. Brachial plexus nerves: Musculocutaneous; Radial; Median; Ulnar. Thoracoabdominal nerves: Intercostals; Subcostal; Iliohypogastric; Ilioinguinal; Lateral cutaneous of thigh; Genitofemoral. Lumbar plexus nerves: Obturator; Femoral; Muscular branches of femoral; Saphenous. Sacral plexus nerves: Sciatic; Tibial; Common peroneal; Deep peroneal; Superficial peroneal; Sural. Pudendal nerve.
+
+### ECG rhythm strip (leads aVR, aVL, aVF)
+
+![ECG rhythm strip (leads aVR, aVL, aVF)](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-018.jpg)
+
+**Text extracted from figure (OCR):**
+
+aVR; aVL; aVF.
+
+### Clinical photograph — lower legs and feet
+
+![Clinical photograph — lower legs and feet](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-022.jpg)
+
+### Clinical photograph — hands, palmar view
+
+![Clinical photograph — hands, palmar view](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-024.jpg)
+
+### Clinical photograph — hands
+
+![Clinical photograph — hands](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-025.jpg)
+
+### Hand deformity with corresponding X-ray
+
+![Hand deformity with corresponding X-ray](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-029.jpg)
+
+### Bilateral knee X-rays
+
+![Bilateral knee X-rays](images/Neuromuscular%20conditions_%20Acute%20polyneuropathy-1/fig-026.jpg)
+
+<!-- /FIGURES:AUTO -->

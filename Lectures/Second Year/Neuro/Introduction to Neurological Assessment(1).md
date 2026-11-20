@@ -480,3 +480,10 @@ http://www.vlebooks.com/vlewe
 b/product/openreader?id=Londo
 nMetr&amp;isbn=978070204660
 5.
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_The figures in this file are identical to those in **[Introduction to Neurological Assessment(1)-1](../../First%20Year/Neuro/Introduction%20to%20Neurological%20Assessment%281%29-1.md#figures)**, where they are curated with transcribed labels. They are not duplicated here._
+
+<!-- /FIGURES:AUTO -->

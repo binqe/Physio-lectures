@@ -718,3 +718,163 @@ Weblinks to guidelines
 • http://www.nice.org.uk/guidance/index.jsp?action=byTopic&o=7208
 • http://www.rcplondon.ac.uk/sites/default/files/national-clinical-guidelines-
 for-stroke-fourth-edition.pdf
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Modified Ashworth Scale (table)
+
+![Modified Ashworth Scale (table)](images/Abnormal%20tone%202024-1/fig-025.webp)
+
+**Text extracted from figure (OCR):**
+
+| Score | Modified Ashworth Scale |
+|---|---|
+| 0 | No increase in muscle tone |
+| 1 | Slight increase in muscle tone, manifested by a catch and release or by minimal resistance at the end of the range of motion when the affected part(s) is moved in flexion or extension |
+| 1+ | Slight increase in muscle tone, manifested by a catch, followed by minimal resistance throughout the remainder (less than half) of the range of movement (ROM) |
+| 2 | More marked increase in muscle tone through most of the ROM, but affected part(s) easily moved |
+| 3 | Considerable increase in muscle tone, passive movement difficult |
+| 4 | Affected part(s) rigid in flexion or extension |
+
+Source shown: doi:10.1371/journal.pone.0126392.t001
+
+### Algorithm: managing an increase in spasticity (MS Trust)
+
+![Algorithm: managing an increase in spasticity (MS Trust)](images/Abnormal%20tone%202024-1/fig-029.webp)
+
+**Text extracted from figure (OCR):**
+
+Individual informs nurse that they have an increase in their spasticity or spasms -> Nursing assessment focuses on: Bladder and bowel management (urinary retention, urinary infection, constipation, diarrhoea); Skin integrity (irritation, pressure sores, infection); Any other source of infection; Drug treatments (examine current regime and pattern of taking drugs); Current emotional status; Posture (can patient maintain effective posture and positioning in lying and sitting positions?). Actions: If problems identified, treat and monitor effect before considering any other change to spasticity; Liaise with doctor/GP/tissue viability nurse; Consider need for referral to other professional or specialist centres; Consider need for referral to physiotherapist, occupational therapist, local wheelchair service or specialist seating assessment. (www.mstrust.org.uk)
+
+### Neural and biomechanical components of hypertonia in the upper motor neurone syndrome
+
+![Neural and biomechanical components of hypertonia in the upper motor neurone syndrome](images/Abnormal%20tone%202024-1/fig-024.webp)
+
+**Text extracted from figure (OCR):**
+
+UMN lesion -> Abnormal muscular contraction and Weakness. Abnormal muscular contraction: Dynamic (spasms, co-contraction, clonus, associated reactions, flexor withdrawal); Static (spasticity, spastic dystonia). Weakness -> Immobilisation at short muscle length -> Biochemical changes (reduced compliance, contracture). -> Hypertonia + Reduced ROM -> Abnormal postures -> Impaired function. Caption: A model of the interaction between neural and biomechanical components of hypertonia in the upper motoneurone syndrome.
+
+### Normal vs abnormal muscle tone — balance of descending inhibition and ascending excitation
+
+![Normal vs abnormal muscle tone — balance of descending inhibition and ascending excitation](images/Abnormal%20tone%202024-1/fig-023.webp)
+
+**Text extracted from figure (OCR):**
+
+Normal muscle tone: Descending inhibition balanced with Ascending sensory excitation. Abnormal muscle tone: Changes in the motor neuron tip the balance between Descending inhibition and Ascending sensory excitation.
+
+### Supraspinal control of the spinal stretch reflex
+
+![Supraspinal control of the spinal stretch reflex](images/Abnormal%20tone%202024-1/fig-021.webp)
+
+**Text extracted from figure (OCR):**
+
+Cerebral Cortex; CST; Cortico-reticular tract; Pontine reticular formation; Medullar reticular formation; Lateral vestibular nuclei; Medial RST; VST; Dorsal RST; Lateral CST; Intraspinal network; (+) facilitation; (-) inhibition. Caption: Illustration of supraspinal control of spinal stretch reflex. CST: cortical spinal tract; RST: reticulospinal tract; VST: vestibular spinal tract. Other descending pathways (rubrospinal, tectospinal, medial CST) are not shown.
+
+### Inputs converging on the spinal motor neuron
+
+![Inputs converging on the spinal motor neuron](images/Abnormal%20tone%202024-1/fig-022.webp)
+
+**Text extracted from figure (OCR):**
+
+Incoming afferents: cutaneous; II; Ib; Ia; FRA. Descending control: co Rubrospinal; co Vestibulospinal; i & co Corticospinal; i Reticulospinal; i Vestibulospinal. Renshaw cell. [i/co as printed: ipsilateral/contralateral; FRA = flexor reflex afferents.]
+
+### Pendulum test set-up for quantifying spasticity
+
+![Pendulum test set-up for quantifying spasticity](images/Abnormal%20tone%202024-1/fig-026.webp)
+
+**Text extracted from figure (OCR):**
+
+Motion Sensor; Attached Mass; 0 degrees; -90 degrees.
+
+### Pendulum test traces — knee angle over time
+
+![Pendulum test traces — knee angle over time](images/Abnormal%20tone%202024-1/fig-027.webp)
+
+**Text extracted from figure (OCR):**
+
+Knee Angle (degrees) vs Time (s); two example traces.
+
+### Voluntary activation failure of the quadriceps after stroke
+
+![Voluntary activation failure of the quadriceps after stroke](images/Abnormal%20tone%202024-1/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Summary of figure caption: voluntary activation failure (% max) during an isometric maximal voluntary contraction, determined by twitch superimposition, over 0-6 months after stroke; both legs of stroke patients showed greater activation failure than controls. Bars: control (solid), non-paretic (diagonal stripes), paretic (horizontal stripes).
+
+### Surface EMG vs isometric force of biceps — paretic vs normal
+
+![Surface EMG vs isometric force of biceps — paretic vs normal](images/Abnormal%20tone%202024-1/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+Surface EMG-biceps (mV) vs Isometric force-biceps (kg): the paretic side needs more EMG activity for the same force (steeper line) than normal.
+
+### Meta-analysis: strengthening interventions on strength (14 trials)
+
+![Meta-analysis: strengthening interventions on strength (14 trials)](images/Abnormal%20tone%202024-1/fig-037.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 2. Examination of the effect of strengthening interventions on strength by pooling post-intervention data from 14 trials. SMD (random, 95% CI): acute very weak 0.33 [-0.05, 0.71]; acute weak 0.45 [0.12, 0.78]; chronic weak 0.18 [-0.22, 0.58]; TOTAL 0.33 [0.13, 0.54] (n = 225 vs 231; I2 = 11.6%; P = 0.001).
+
+### Meta-analysis: strengthening interventions on spasticity (3 trials)
+
+![Meta-analysis: strengthening interventions on spasticity (3 trials)](images/Abnormal%20tone%202024-1/fig-038.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 4. Examination of the effect of strengthening interventions on spasticity by pooling post-intervention data from 3 trials. SMD (random, 95% CI): acute very weak 0.29 [-0.46, 1.03]; chronic weak -0.43 [-1.16, 0.29]; TOTAL -0.13 [-0.75, 0.50] (P = 0.69) - i.e. strengthening did not increase spasticity.
+
+### Meta-analysis: strengthening interventions on activity (12 trials)
+
+![Meta-analysis: strengthening interventions on activity (12 trials)](images/Abnormal%20tone%202024-1/fig-039.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 6. Examination of the effect of strengthening interventions on activity by pooling post-intervention data from 12 trials. SMD (random, 95% CI): acute very weak 0.24 [-0.45, 0.92]; acute weak 0.46 [0.11, 0.81]; chronic very weak 0.63 [-0.27, 1.54]; chronic weak 0.22 [-0.11, 0.54]; TOTAL 0.32 [0.11, 0.53] (P = 0.002).
+
+### Functional electrical stimulation for foot drop
+
+![Functional electrical stimulation for foot drop](images/Abnormal%20tone%202024-1/fig-035.jpg)
+
+**Text extracted from figure (OCR):**
+
+Stimulator; Electrodes; Switch in Shoe.
+
+### Wrist-hand splints
+
+![Wrist-hand splints](images/Abnormal%20tone%202024-1/fig-032.jpg)
+
+### Supported standing in a standing frame
+
+![Supported standing in a standing frame](images/Abnormal%20tone%202024-1/fig-033.jpg)
+
+### Paediatric standing practice with a therapist
+
+![Paediatric standing practice with a therapist](images/Abnormal%20tone%202024-1/fig-034.jpg)
+
+### Clinical photograph — flexed upper-limb posture
+
+![Clinical photograph — flexed upper-limb posture](images/Abnormal%20tone%202024-1/fig-006.jpg)
+
+### Clinical photograph — clenched fist posture
+
+![Clinical photograph — clenched fist posture](images/Abnormal%20tone%202024-1/fig-009.jpg)
+
+### Clinical photograph — standing posture, lateral view
+
+![Clinical photograph — standing posture, lateral view](images/Abnormal%20tone%202024-1/fig-010.jpg)
+
+### Clinical photograph — seated posture
+
+![Clinical photograph — seated posture](images/Abnormal%20tone%202024-1/fig-011.jpg)
+
+### Clinical photograph — flexed lower-limb posture
+
+![Clinical photograph — flexed lower-limb posture](images/Abnormal%20tone%202024-1/fig-028.jpg)
+
+<!-- /FIGURES:AUTO -->

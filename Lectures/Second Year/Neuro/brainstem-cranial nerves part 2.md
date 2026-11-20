@@ -151,7 +151,7 @@ _Figures extracted from the source file (educational diagrams/photos only). Labe
 
 ### Brainstem, anterior and posterior views — comprehensive labels
 
-![Brainstem, anterior and posterior views — comprehensive labels](images/brainstem-cranial%20nerves%20part%202/fig-000.png)
+![Brainstem, anterior and posterior views — comprehensive labels](images/brainstem-cranial%20nerves%20part%202/fig-000.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -159,7 +159,7 @@ Labelled brainstem (anterior and posterior) with cranial nerves and surface land
 
 ### Cranial nerve nuclei — motor (red) and sensory (green) columns
 
-![Cranial nerve nuclei — motor (red) and sensory (green) columns](images/brainstem-cranial%20nerves%20part%202/fig-004.png)
+![Cranial nerve nuclei — motor (red) and sensory (green) columns](images/brainstem-cranial%20nerves%20part%202/fig-004.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -167,7 +167,7 @@ Motor and sensory cranial nerve nuclei including: Edinger-Westphal (accessory oc
 
 ### Cranial nerve nuclei and associated nerves (lateral projection)
 
-![Cranial nerve nuclei and associated nerves (lateral projection)](images/brainstem-cranial%20nerves%20part%202/fig-005.png)
+![Cranial nerve nuclei and associated nerves (lateral projection)](images/brainstem-cranial%20nerves%20part%202/fig-005.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -175,7 +175,7 @@ Superior colliculus; Lateral geniculate; Oculomotor nerve (III); Trochlear nerve
 
 ### Reticular formation of the brainstem
 
-![Reticular formation of the brainstem](images/brainstem-cranial%20nerves%20part%202/fig-006.png)
+![Reticular formation of the brainstem](images/brainstem-cranial%20nerves%20part%202/fig-006.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -183,7 +183,7 @@ To diencephalon and telencephalon; Median (raphe) RF; Paramedian RF; Lateral RF;
 
 ### Pons, anterior view — cranial nerve attachments
 
-![Pons, anterior view — cranial nerve attachments](images/brainstem-cranial%20nerves%20part%202/fig-007.png)
+![Pons, anterior view — cranial nerve attachments](images/brainstem-cranial%20nerves%20part%202/fig-007.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -191,7 +191,7 @@ Pons; Trigeminal nerve (motor root, sensory root); Abducens nerve; Facial nerve;
 
 ### Olfactory nerve (CN I) pathway
 
-![Olfactory nerve (CN I) pathway](images/brainstem-cranial%20nerves%20part%202/fig-008.png)
+![Olfactory nerve (CN I) pathway](images/brainstem-cranial%20nerves%20part%202/fig-008.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -199,7 +199,7 @@ Cells of anterior olfactory nucleus; Granule cell; Mitral cell; Olfactory glomer
 
 ### Cranial nerves — overview on the brain base
 
-![Cranial nerves — overview on the brain base](images/brainstem-cranial%20nerves%20part%202/fig-009.png)
+![Cranial nerves — overview on the brain base](images/brainstem-cranial%20nerves%20part%202/fig-009.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -207,7 +207,7 @@ Overview of cranial nerves I-XII arising from the cerebrum, brainstem and their 
 
 ### Cerebellar peduncles (posterior brainstem)
 
-![Cerebellar peduncles (posterior brainstem)](images/brainstem-cranial%20nerves%20part%202/fig-014.png)
+![Cerebellar peduncles (posterior brainstem)](images/brainstem-cranial%20nerves%20part%202/fig-014.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -215,7 +215,7 @@ Superior cerebellar peduncle; Middle cerebellar peduncle; Inferior cerebellar pe
 
 ### Vestibulocochlear nerve (CN VIII) — auditory and vestibular pathway
 
-![Vestibulocochlear nerve (CN VIII) — auditory and vestibular pathway](images/brainstem-cranial%20nerves%20part%202/fig-015.png)
+![Vestibulocochlear nerve (CN VIII) — auditory and vestibular pathway](images/brainstem-cranial%20nerves%20part%202/fig-015.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -223,7 +223,7 @@ Facial nerve (VII); Cochlea; Spiral ganglion; Vestibular ganglion; Semicircular 
 
 ### Cranial nerve pathways — combined schematic
 
-![Cranial nerve pathways — combined schematic](images/brainstem-cranial%20nerves%20part%202/fig-016.png)
+![Cranial nerve pathways — combined schematic](images/brainstem-cranial%20nerves%20part%202/fig-016.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -231,7 +231,7 @@ Composite schematic of multiple cranial nerve nuclei, ganglia and peripheral dis
 
 ### Abducens nerve (CN VI) course
 
-![Abducens nerve (CN VI) course](images/brainstem-cranial%20nerves%20part%202/fig-017.png)
+![Abducens nerve (CN VI) course](images/brainstem-cranial%20nerves%20part%202/fig-017.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -239,7 +239,7 @@ Abducens nucleus; Abducens nerve (VI); Lateral rectus muscle. Pathway: Pons (abd
 
 ### Trigeminal nerve (CN V) — divisions and nuclei
 
-![Trigeminal nerve (CN V) — divisions and nuclei](images/brainstem-cranial%20nerves%20part%202/fig-018.png)
+![Trigeminal nerve (CN V) — divisions and nuclei](images/brainstem-cranial%20nerves%20part%202/fig-018.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -247,7 +247,7 @@ Mesencephalic nucleus; Motor nucleus; Main sensory nucleus; Spinal tract of trig
 
 ### Optic chiasm region and midbrain (ventral view)
 
-![Optic chiasm region and midbrain (ventral view)](images/brainstem-cranial%20nerves%20part%202/fig-019.png)
+![Optic chiasm region and midbrain (ventral view)](images/brainstem-cranial%20nerves%20part%202/fig-019.webp)
 
 **Text extracted from figure (OCR):**
 
@@ -255,7 +255,7 @@ Mammillary body; Optic tract; Optic nerve; Optic chiasm; Infundibulum; Cerebral 
 
 ### Midbrain, posterior view — colliculi
 
-![Midbrain, posterior view — colliculi](images/brainstem-cranial%20nerves%20part%202/fig-020.png)
+![Midbrain, posterior view — colliculi](images/brainstem-cranial%20nerves%20part%202/fig-020.webp)
 
 **Text extracted from figure (OCR):**
 
