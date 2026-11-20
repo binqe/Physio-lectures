@@ -416,3 +416,118 @@ converted_by: "automated extraction from source file; original preserved as auth
 - Greg Stuart, Nelson Spruston, Micheal Häusser – Dendrites 3th ed (2016) ISBN 978–0–19–874527–3
 - For follow-up questions:
 - vm491@cam.ac.uk
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Ion concentrations inside and outside a neuron (resting potential -60 mV)
+
+![Ion concentrations inside and outside a neuron (resting potential -60 mV)](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+Outside: [K+]o = 3 mM; [Na+]o = 140 mM; [Cl-]o = 140 mM; [Ca2+]o = 1.5 mM. Inside: [K+]i = 140 mM; [Na+]i = 7 mM; [Cl-]i = 7 mM; [Ca2+]i = 0.0001 mM. Membrane potential -60 mV.
+
+### The structures of neurotransmitters
+
+![The structures of neurotransmitters](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-009.webp)
+
+**Text extracted from figure (OCR):**
+
+Adrenaline - fight or flight neurotransmitter; Noradrenaline - concentration neurotransmitter; Dopamine - pleasure neurotransmitter; Serotonin - mood neurotransmitter; GABA - calming neurotransmitter; Acetylcholine - learning neurotransmitter; Glutamate - memory neurotransmitter; Endorphins - euphoria neurotransmitters. [Per-transmitter descriptions in small print - see figure. (c) Compound Interest 2015, CC BY-NC-ND.]
+
+### Ionotropic glutamate receptor subunit topology
+
+![Ionotropic glutamate receptor subunit topology](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+NT (N-terminal domain); M1; M2; M3; M4 (membrane segments); CT (C-terminal).
+
+### NMDA receptor blocked by Mg2+ at rest
+
+![NMDA receptor blocked by Mg2+ at rest](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+Mg2+ blocking the channel pore.
+
+### Depolarization removes the Mg2+ block from the NMDA receptor
+
+![Depolarization removes the Mg2+ block from the NMDA receptor](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+Mg2+ expelled from the pore; + (depolarization).
+
+### Long-term depression — NMDAR-LTD vs mGluR-LTD
+
+![Long-term depression — NMDAR-LTD vs mGluR-LTD](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+A NMDAR-LTD: NMDAR -> Ca2+ -> Ca2+/calmodulin complex -> PP2B -> PP1 -> AMPAR dephosphorylation and internalisation. B mGluR-LTD: mGluR -> PLC -> PIP2 -> DAG and IP3 -> Ca2+ release -> PKC; PTP; AMPAR internalisation.
+
+### Homeostatic plasticity — firing rate homeostasis and synaptic scaling
+
+![Homeostatic plasticity — firing rate homeostasis and synaptic scaling](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-024.webp)
+
+**Text extracted from figure (OCR):**
+
+A Firing rate homeostasis: lower firing / raise firing -> return to set point. B Synaptic scaling: presynaptic terminal; postsynaptic terminal; target activity -> potentiation (high activity) -> scaling -> target activity.
+
+### Memory consolidation — hippocampal and neocortical cell ensembles
+
+![Memory consolidation — hippocampal and neocortical cell ensembles](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-025.webp)
+
+**Text extracted from figure (OCR):**
+
+Cell ensembles contributing to: recently encoded neocortical part of a representation; recently encoded hippocampal part of a representation; associated pre-existing representation; unrelated pre-existing representation. (a) early - hippocampus links neocortical ensembles; (b) later - neocortical ensembles linked directly.
+
+### Reaching and grasping after stroke — compensation in humans and rats
+
+![Reaching and grasping after stroke — compensation in humans and rats](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-028.webp)
+
+**Text extracted from figure (OCR):**
+
+Typical vs After stroke. Humans: shoulder rotation; trunk forward; paretic limb; assisted movement; non-paretic limb. Rats: food pellet; head and trunk rotation; head to paw; paretic limb; suboptimal paw orientation; non-paretic limb. (Nature Reviews Neuroscience)
+
+### Ageing synapse — altered calcium handling and LTP
+
+![Ageing synapse — altered calcium handling and LTP](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-029.webp)
+
+**Text extracted from figure (OCR):**
+
+Young vs Aged, after high-frequency stimulation (HFS): glutamate; L-type calcium channels; NMDA receptors; CI-AMPA and CP-AMPA receptors; potassium channels; ryanodine receptors; cAMP; kinases/CREB; CICR; ER; ROS; AHP. Young: gene expression -> LTP. Aged: more L-type Ca2+ channels (1), more CICR (2), ROS (3), altered gene expression (4), larger AHP (5) -> altered LTP.
+
+### Healthy vs dysfunctional synapse in Alzheimer's disease
+
+![Healthy vs dysfunctional synapse in Alzheimer's disease](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-030.webp)
+
+**Text extracted from figure (OCR):**
+
+Healthy condition -> normal synapse; pathological condition -> dysfunctional synapse. Key: A-beta monomer; A-beta oligomer; gamma-secretase; beta-secretase; CTF-gamma; AICD; APP; Ca2+; GABA; GABAR; glutamate; glutamate receptor; phosphorylated tau. Presynaptic, postsynaptic and inhibitory terminals.
+
+### Synapse pruning by glia — normal vs aberrant
+
+![Synapse pruning by glia — normal vs aberrant](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-031.webp)
+
+**Text extracted from figure (OCR):**
+
+Healthy condition: normal synapse pruning; pathological condition: aberrant synapse pruning. Astrocyte; microglia; presynaptic; postsynaptic. Key: C1q; C3; CR3; ApoE3; ApoE4; cellular debris.
+
+### Neuron with dendritic spine and axon enlarged
+
+![Neuron with dendritic spine and axon enlarged](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-005.webp)
+
+### Axial CT head
+
+![Axial CT head](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-026.jpg)
+
+### Robotic upper-limb rehabilitation (exoskeleton)
+
+![Robotic upper-limb rehabilitation (exoskeleton)](images/PHYSIOLOGY%203%20-%20Neuroplasticity_CNS%20Transmitters_Brain%20and%20Ageing/fig-032.jpg)
+
+<!-- /FIGURES:AUTO -->

@@ -321,3 +321,102 @@ converted_by: "automated extraction from source file; original preserved as auth
 - Greg Stuart, Nelson Spruston, Micheal Häusser – Dendrites 3th ed (2016) ISBN 978–0–19–874527–3
 - For follow-up questions:
 - vincenzo.mastrolia@kcl.ac.uk
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Phases of the action potential
+
+![Phases of the action potential](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+Voltage (mV) vs Time (ms). 1 Stimulus; 2 Depolarization - Na+ ions in; 3 Repolarization - K+ ions out; 4 Hyperpolarization; 5 Resting state. Threshold -55 mV; resting -70 mV; peak ~+40 mV; Failed initiations (stimuli that do not reach threshold).
+
+### Ion channels at rest, during depolarization and hyperpolarization
+
+![Ion channels at rest, during depolarization and hyperpolarization](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+(a) Resting potential: at the resting potential, all voltage-gated Na+ channels and most voltage-gated K+ channels are closed; the Na+/K+ transporter pumps K+ ions into the cell and Na+ ions out. (b) Depolarization: in response to a depolarization, some Na+ channels open, allowing Na+ ions to enter the cell; the membrane starts to depolarize; if the threshold of excitation is reached, all the Na+ channels open. (c) Hyperpolarization: at the peak action potential, Na+ channels close while K+ channels open; K+ leaves the cell, and the membrane eventually becomes hyperpolarized.
+
+### Resting membrane potential — charge separation and ion gradients
+
+![Resting membrane potential — charge separation and ion gradients](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-027.webp)
+
+**Text extracted from figure (OCR):**
+
+Cell membrane; Extracellular (Na+, Cl- high); Intracellular (K+, anions A- high); Charge Separation + / - Across Membrane; Ion Concentration Gradients: Na+ high outside, K+ high inside, Cl- high outside.
+
+### Na+/K+ ATPase pump (3:2)
+
+![Na+/K+ ATPase pump (3:2)](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-026.webp)
+
+**Text extracted from figure (OCR):**
+
+Na+/K+ ATPase (3:2): 3 Na+ out, 2 K+ in; Cardiac Cell.
+
+### Propagation of the action potential along the axon
+
+![Propagation of the action potential along the axon](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+Soma; Axon; Axon terminal; Direction of travel of action potential. a. In response to a signal, the soma end of the axon becomes depolarized. b. The depolarization spreads down the axon; meanwhile the first part of the membrane repolarizes - because Na+ channels are inactivated and additional K+ channels have opened, the membrane cannot depolarize again. c. The action potential continues to travel down the axon.
+
+### Saltatory conduction in a myelinated axon
+
+![Saltatory conduction in a myelinated axon](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+Axon; Nodes of Ranvier; Myelin sheath; Depolarized membrane; Membrane at resting potential.
+
+### Molecular organisation of the node of Ranvier (PNS vs CNS)
+
+![Molecular organisation of the node of Ranvier (PNS vs CNS)](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Regions: Juxtaparanode; Paranode; Node. Key labels: Myelin loop; Basal lamina; Kv1.1/1.2; Caspr2; Caspr1; Cntn1; NF155; NF186; Nav; Kv7.2/7.3; Ankyrin-G; Ankyrin-B; betaIV-spectrin; Schwann cell microvilli; Gliomedin; Nr-CAM; perinodal astrocyte/oligodendrocyte precursor cell; tight and adherens junctions. [OCR partial - dense figure. Nature Reviews Neurology.]
+
+### Chemical vs electrical synapse
+
+![Chemical vs electrical synapse](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+a Chemical synapse: presynaptic terminal; action potential; Ca2+; synaptic vesicle; neurotransmitter; ionotropic receptor; metabotropic receptor; membrane potential; gene expression; biochemical cascades; postsynaptic terminal. b Electrical synapse: action potential; gap junction channel; coupling potential. (Nature Reviews Neuroscience)
+
+### SNARE complex and synaptotagmin in vesicle fusion
+
+![SNARE complex and synaptotagmin in vesicle fusion](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+synaptic vesicle; synaptotagmin (C2A, C2B, Ca2+); synaptobrevin; core SNARE complex; syntaxin (Habc); SNAP-25; plasmalemma.
+
+### Neuromuscular junction (motor end plate)
+
+![Neuromuscular junction (motor end plate)](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-022.webp)
+
+**Text extracted from figure (OCR):**
+
+A: Nuclei of muscle fibres; Motor end plate; Nuclei of sole plate; Branch of motor nerve. B: Schwann cytoplasm; Axon; Sarcomere; Nucleus of sole plate; Junctional folds. C: Mitochondrion; Synaptic vesicles at active zone; Basement membrane; Crest of junctional fold.
+
+### Patch clamp configurations
+
+![Patch clamp configurations](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+Basics of Patch Clamp; cell-attached configuration; whole-cell configuration; inside-out and outside-out patches (positive/negative pressure steps). [OCR partial - small labels.]
+
+### Electron micrograph of a synapse with synaptic vesicles
+
+![Electron micrograph of a synapse with synaptic vesicles](images/2025_02_03_Electrical%20events%20in%20excitable%20tissues/fig-015.jpg)
+
+<!-- /FIGURES:AUTO -->

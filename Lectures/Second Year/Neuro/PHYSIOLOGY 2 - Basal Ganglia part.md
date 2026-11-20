@@ -529,3 +529,94 @@ converted_by: "automated extraction from source file; original preserved as auth
 - hMSCs
 - Neurostimulation
 - The Lancet Neurology Volume 21, Issue 7, July 2022, Pages 645-658
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Horizontal section of the brain — basal ganglia and related structures
+
+![Horizontal section of the brain — basal ganglia and related structures](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+Prefrontal gyri; Genu of corpus callosum; Lateral ventricle (anterior horn); Septum pellucidum; Internal capsule (anterior limb); Internal capsule (posterior limb); External capsule; Pineal gland; Lateral ventricle (inferior horn); Occipital lobe; Head of caudate nucleus; Putamen; Globus pallidus; Thalamic nuclei; Tail of caudate nucleus.
+
+### Striatal D1 and D2 neurons — 'Start & Go' vs 'Start & Stop'
+
+![Striatal D1 and D2 neurons — 'Start & Go' vs 'Start & Stop'](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+D1 neurons & D2 neurons (Striatum). D1>D2: Start & Go. D1<D2: Start & Stop.
+
+### Dopamine D1-like and D2-like receptor signalling
+
+![Dopamine D1-like and D2-like receptor signalling](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+Dopamine; D1-like receptor (G-alpha-s, beta-gamma) stimulates (+) adenylyl cyclase (AC); D2-like receptor (G-alpha-i/o, beta-gamma) inhibits (-) AC; AC converts ATP to cAMP.
+
+### Substantia nigra — normal vs Parkinson's disease
+
+![Substantia nigra — normal vs Parkinson's disease](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-010.webp)
+
+**Text extracted from figure (OCR):**
+
+Cut section of the midbrain where a portion of the substantia nigra is visible; Substantia nigra; Diminished substantia nigra as seen in Parkinson's disease. (A.D.A.M.)
+
+### Cardinal motor features of Parkinson's disease
+
+![Cardinal motor features of Parkinson's disease](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-011.webp)
+
+**Text extracted from figure (OCR):**
+
+Parkinson's Disease: Rigidity; Tremor; Postural instability; Bradykinesia.
+
+### Deep brain stimulation — globus pallidus (internal) and subthalamic nucleus targets
+
+![Deep brain stimulation — globus pallidus (internal) and subthalamic nucleus targets](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Electrode; Lead; Pulse generator; Plane of section; Stimulation of globus pallidus (internal segment): Globus pallidus, Lead, Electrode; Stimulation of subthalamic nucleus: Subthalamic nucleus, Lead, Electrode.
+
+### Deep brain stimulation probe and the basal ganglia motor circuit
+
+![Deep brain stimulation probe and the basal ganglia motor circuit](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+Probe; Thalamus; Putamen; Subthalamic nucleus; Globus pallidus. Circuit: Cortex -> Putamen -> Globus pallidus -> Subthalamic nucleus -> Thalamus -> Cortex ('Activated motor circuit').
+
+### Parkinson's disease — cellular mechanisms and therapeutic approaches
+
+![Parkinson's disease — cellular mechanisms and therapeutic approaches](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+1. Precision approaches for mitochondrial Parkinson's disease; 2. Precision approaches for lysosomal Parkinson's disease; 3. Precision approaches for LRRK2 Parkinson's disease; 4. Broad approaches targeting alpha-synuclein; 5. Broad approaches targeting cell-to-cell transmission; 6. Broad approaches for neuronal survival. Also: Mitochondrion; Lysosome; alpha-synuclein fibril; Toxic oligomers; GLP-1 receptor; Insulin receptor (resistance); AKT; Ca2+ influx (Cav1.3); Iron accumulation; Oxidative stress; Neuroinflammation; Inflammatory mediators (eg, TNF-alpha); beta2-adrenergic receptor; Antibodies targeting alpha-synuclein.
+
+### MRI — control vs Huntington's disease
+
+![MRI — control vs Huntington's disease](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-018.jpg)
+
+**Text extracted from figure (OCR):**
+
+(A) Control; (B) Huntington's Disease; panels (C) and (D) unlabelled in the image. [OCR partial.]
+
+### Mutant huntingtin (mHTT) — cellular mechanisms in Huntington's disease
+
+![Mutant huntingtin (mHTT) — cellular mechanisms in Huntington's disease](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+mHTT; Cutting; Accumulation polyQ; Degradation of incorrectly folded proteins; Accumulation of insoluble fibrils; Vesicular transport (BDNF); Gene expression (BDNF); Mitochondrial abnormalities (ATP down, ROS up).
+
+### Axial T2-weighted MRI of the brain
+
+![Axial T2-weighted MRI of the brain](images/PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part/fig-025.jpg)
+
+<!-- /FIGURES:AUTO -->

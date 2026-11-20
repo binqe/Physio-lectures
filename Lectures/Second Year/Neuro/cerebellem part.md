@@ -237,3 +237,94 @@ FUNCTIONAL
 - Clinical Neuroanatomy and Neuroscience, Estomih Mtui & Gregory Gruener & Peter Dockery, ISBN 9780702079092
 - Thomas H. Champney - Essential Clinical Neuroanatomy 1th ed (2016) ISBN: 978-1-118-43993-7
 - Guyton and Hall Textbook of Medical Physiology 12th ed (2011) ISBN: 978-1-4160-4574-8
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Location of the cerebellum
+
+![Location of the cerebellum](images/cerebellem%20part/fig-010.webp)
+
+**Text extracted from figure (OCR):**
+
+Cerebellum; Cerebrum; Spinal cord. (Cleveland Clinic)
+
+### Functional divisions of the cerebellum, inferior view (colour-coded)
+
+![Functional divisions of the cerebellum, inferior view (colour-coded)](images/cerebellem%20part/fig-022.webp)
+
+**Text extracted from figure (OCR):**
+
+No printed labels. Colour-coding follows the standard functional division: lateral hemispheres (pink), vermis/paravermis (green), flocculonodular lobe (blue). [Interpretation of colour-coding, not printed text.]
+
+### Functional zones of the cerebellum, superior view (colour-coded)
+
+![Functional zones of the cerebellum, superior view (colour-coded)](images/cerebellem%20part/fig-021.webp)
+
+**Text extracted from figure (OCR):**
+
+No printed labels. Central vermis (dark green), paravermal zone (light green), lateral hemispheres (pink). [Interpretation of colour-coding, not printed text.]
+
+### Transverse section of the cerebellum with deep cerebellar nuclei highlighted
+
+![Transverse section of the cerebellum with deep cerebellar nuclei highlighted](images/cerebellem%20part/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+No printed labels (Kenhub illustration); deep nuclei shown in green within the white matter.
+
+### Posterior brainstem with a cerebellar peduncle highlighted
+
+![Posterior brainstem with a cerebellar peduncle highlighted](images/cerebellem%20part/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+No printed labels (Kenhub illustration).
+
+### Cerebellar cortex layers — histology
+
+![Cerebellar cortex layers — histology](images/cerebellem%20part/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+Molecular layer; Purkinje layer; Granule cell layer (shown on H&E stain and fluorescence stain).
+
+### Fluorescence micrograph of the cerebellar cortex
+
+![Fluorescence micrograph of the cerebellar cortex](images/cerebellem%20part/fig-009.jpg)
+
+### Classic histological drawing of a Purkinje cell (Ramon y Cajal)
+
+![Classic histological drawing of a Purkinje cell (Ramon y Cajal)](images/cerebellem%20part/fig-011.webp)
+
+### Purkinje cell dendritic tree (fluorescence image)
+
+![Purkinje cell dendritic tree (fluorescence image)](images/cerebellem%20part/fig-012.jpg)
+
+### Cerebellar cortex — cell types and fibres (3D schematic)
+
+![Cerebellar cortex — cell types and fibres (3D schematic)](images/cerebellem%20part/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Dendritic tree of one Golgi cell; Stellate cells; Molecular layer; Basket cell; Parallel fibres; Granule cell; Synaptic glomerulus; Ramification of Golgi cell axon in granular layer; Climbing fibres; Mossy fibres; Climbing fibre; Axons of Purkinje cells; Dendritic tree of one Purkinje cell; Axon of basket cell.
+
+### Cerebellar circuit — inputs, Purkinje inhibition and deep nuclear output
+
+![Cerebellar circuit — inputs, Purkinje inhibition and deep nuclear output](images/cerebellem%20part/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+Purkinje cell; Climbing fiber; Deep nuclear cell; Inhibition; Excitation; Granule cells; Mossy fiber; Input (inferior olive); Input (all other afferents); Output. Cortex layers: Molecular layer; Purkinje cell layer; Granule cell layer; Deep nuclei.
+
+### Cerebellar microcircuit schematic (A) and cortex fluorescence image (B)
+
+![Cerebellar microcircuit schematic (A) and cortex fluorescence image (B)](images/cerebellem%20part/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+A: PF; MLI; PN; GC; MF; CF; DCN; Cerebellar cortex; Motor control. B: fluorescence image of cerebellar cortex. [Abbreviations as printed; standard meanings: parallel fibre, molecular layer interneuron, Purkinje neuron, granule cell, mossy fibre, climbing fibre, deep cerebellar nuclei.]
+
+<!-- /FIGURES:AUTO -->

@@ -202,3 +202,75 @@ Beats Per Minute (Music Database :: Dave Tompkins)
 ## Page 18
 
 How does Physiotherapy intervention change over time?
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Pharmaceutical treatments for motor symptoms of Parkinson's disease (table)
+
+![Pharmaceutical treatments for motor symptoms of Parkinson's disease (table)](images/Parkinsons%20Disease%20Presentation/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+| Action | Drugs | Available formulations | Common side effects |
+|---|---|---|---|
+| Dopamine precursor with metabolic inhibitor | Levodopa/carbidopa | Tablets (IR, ER); dissolving tablets | Nausea, vomiting, orthostatic hypotension, vivid dreams, hallucinations, delusions |
+| MAO inhibitors reduce levodopa and dopamine degradation | Rasagiline; Selegiline; Safinamide | Tablets; tablets, capsules, orally disintegrating tablets | Hypertension, orthostatic hypotension, potentiation of levodopa-related side effects |
+| COMT inhibitors reduce levodopa and dopamine degradation | Entacapone; Tolcapone | Tablets | Potentiation of levodopa-related side effects; diarrhea, orange colour of urine (entacapone); hepatotoxicity (tolcapone) |
+| Dopamine receptor agonists | Pramipexole; Ropinirole; Rotigotine; Apomorphine | Tablets, ER tablets; transdermal patches (rotigotine); subcutaneous injection (apomorphine) | Nausea, vomiting, orthostatic hypotension, hallucinations, psychosis, impulse control disorders, peripheral edema |
+| Other/unknown | Anticholinergics (trihexyphenidyl, benztropine); Amantadine | Tablets; tablets, capsules, ER tablets | Dry mouth, dry eyes, confusion, hallucinations, constipation, urinary retention; (amantadine also) livedo reticularis, peripheral edema |
+
+Abbreviations: COMT, catechol-o-methyltransferase; ER, extended release; IR, immediate release; MAO, monoamine oxidase.
+
+### Subtypes of Parkinson's disease (table)
+
+![Subtypes of Parkinson's disease (table)](images/Parkinsons%20Disease%20Presentation/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+| Subtype | Associated clinical features |
+|---|---|
+| Earlier disease onset (<55 years) | Late onset of falls (~15 years); late onset of cognitive decline; early onset of freezing (50% after 10 years vs 15 years); higher risk for anxiety; shorter time to dyskinesias and wearing-off; longer time to Hoehn and Yahr 3 |
+| Tremor dominant | Poorer response to levodopa but slower disease progression; lower risk for depression and mood impairments; longer time to and lower risk of dementia compared to PIGD-type; longer time to Hoehn and Yahr 3 compared to PIGD-type |
+| Postural imbalance and gait disorder (PIGD) | Predominant gait and posture impairments; higher prevalence and severity of depressive symptoms; higher prevalence of dementia |
+| Rapid disease progression without dementia | Older age at onset; early depression; early midline motor symptoms; in 70% a tremulous onset; at post-mortem [text cut off] |
+
+### Hoehn and Yahr stages (illustrated)
+
+![Hoehn and Yahr stages (illustrated)](images/Parkinsons%20Disease%20Presentation/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+Stage 1 unilateral involvement only; Stage 1.5 unilateral and axial involvement; Stage 2 bilateral symptoms, no impairment of balance; Stage 2.5 mild bilateral disease with recovery on pull test; Stage 3 mild to moderate disease, physically independent; Stage 4 severe disability, still able to walk or stand unassisted; Stage 5 wheelchair-bound or bedridden unless assisted. [Goetz 2004]
+
+### Wearing-off — a typical day on levodopa
+
+![Wearing-off — a typical day on levodopa](images/Parkinsons%20Disease%20Presentation/fig-000.webp)
+
+**Text extracted from figure (OCR):**
+
+Symptoms adequately controlled ('on' time) vs not adequately controlled ('off' time) over time: PD medication -> medication starts to work -> symptoms are alleviated -> wearing-off period, symptoms begin to return -> next dose.
+
+### Core areas of physiotherapy related to disease progression
+
+![Core areas of physiotherapy related to disease progression](images/Parkinsons%20Disease%20Presentation/fig-020.webp)
+
+**Text extracted from figure (OCR):**
+
+Fig 4.1. Diagnosis (medical) -> start of drug treatment -> possible neurosurgery. Hoehn and Yahr 1 - physiotherapy goals: self-management support; prevent inactivity; prevent fear to move or fall; improve physical capacity; reduce pain; delay onset activity limitations (motor learning, up to HY3). Hoehn and Yahr 2-4 - additional goals: maintain or improve activities, especially transfers, balance, manual activities, gait. Hoehn and Yahr 5 - additional goals: maintain vital functions; prevent pressure sores; prevent contractures; support carers/nurses. (European Physiotherapy Guideline for Parkinson's Disease)
+
+### Adaptive cutlery with built-up handles
+
+![Adaptive cutlery with built-up handles](images/Parkinsons%20Disease%20Presentation/fig-002.jpg)
+
+### Built-up pencil grip for writing
+
+![Built-up pencil grip for writing](images/Parkinsons%20Disease%20Presentation/fig-003.jpg)
+
+### Visual cueing — floor lines for walking with a frame
+
+![Visual cueing — floor lines for walking with a frame](images/Parkinsons%20Disease%20Presentation/fig-019.jpg)
+
+<!-- /FIGURES:AUTO -->

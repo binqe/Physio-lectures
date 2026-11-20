@@ -592,3 +592,150 @@ and modern imaging studies in humans, many
 - Clinical Neuroanatomy and Neuroscience, Estomih Mtui & Gregory Gruener & Peter Dockery, ISBN 9780702079092
 - For follow-up questions:
 - vincenzo.mastrolia@kcl.ac.uk
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Layers of the neocortex (cell, fibre and myelin stains)
+
+![Layers of the neocortex (cell, fibre and myelin stains)](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+Prefrontal neocortex: layers I-VI shown with Golgi, Nissl and Weigert stains. [OCR partial - small labels.]
+
+### Motor areas of the cortex — lateral view
+
+![Motor areas of the cortex — lateral view](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+PMA; SMA; Primary motor cortex; FEF; Posterior parietal cortex. [PMA = premotor area; SMA = supplementary motor area; FEF = frontal eye field.]
+
+### Motor areas of the cortex — medial view
+
+![Motor areas of the cortex — medial view](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+SMA; Central sulcus; Primary motor cortex; Cingulate motor areas inside sulcus; Pre-SMA; Upper bank of cingulate sulcus; Lower bank of cingulate sulcus; Cingulate gyrus; CMAr (24c); CMAd (6c); CMAv (23c).
+
+### Motor areas of the cortex and their connections
+
+![Motor areas of the cortex and their connections](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Lateral and medial views of primary motor cortex, premotor and supplementary motor areas, cingulate motor areas, with a connection diagram to descending motor pathways. [OCR partial - small labels.]
+
+### Arteries of the brain — inferior view
+
+![Arteries of the brain — inferior view](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+Medial orbitofrontal branch of anterior cerebral a.; Anterior communicating a.; Anterior cerebral a.; Long striate a. (recurrent a. of Heubner); Internal carotid a.; Anterolateral central aa. (lenticulostriate aa.); Middle cerebral a.; Lateral orbitofrontal branch of middle cerebral a.; Prefrontal branch of middle cerebral a.; Anterior choroidal a.; Posterior communicating a.; Posterior cerebral a.; Superior cerebellar a.; Basilar a.; Pontine aa.; Labyrinthine a.; Anterior inferior cerebellar a.; Vertebral a.; Anterior spinal a.; Posterior inferior cerebellar a. (cut); Posterior spinal a. (Netter)
+
+### Circle of Willis and central branches
+
+![Circle of Willis and central branches](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-008.webp)
+
+**Text extracted from figure (OCR):**
+
+Fig. 4.1 (A) Brain viewed from below showing structures related to the circle of Willis; (B) the arteries comprising the circle of Willis. Labels: Anterior communicating artery; ACA; MCA; ICA; Posterior communicating artery; PCA; Basilar artery; Medial striate artery; Anteromedial central arteries; Anterolateral central arteries (lateral striate); Posteromedial central arteries (including thalamoperforating artery); Posterolateral central arteries (including thalamogeniculate artery); Anterior choroidal artery; Optic chiasm; Pituitary stalk; Anterior and posterior perforated substance; Interpeduncular fossa; Choroid plexus of temporal lobe. ACA anterior cerebral artery; ICA internal carotid artery; MCA middle cerebral artery; PCA posterior cerebral artery.
+
+### Internal carotid artery — segments and branches
+
+![Internal carotid artery — segments and branches](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+Internal carotid artery segments (cervical, petrous, lacerum, cavernous, clinoid, ophthalmic, communicating) with anterior cerebral, middle cerebral, ophthalmic, posterior communicating and anterior choroidal arteries. [OCR partial - small labels.]
+
+### Meninges and dural venous sinuses (coronal)
+
+![Meninges and dural venous sinuses (coronal)](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-010.webp)
+
+**Text extracted from figure (OCR):**
+
+Superior sagittal sinus; Venous lacuna; Arachnoid granulation; Diploic vein; Cerebral vein; Meningeal vein; Dura mater; Arachnoid; Pia mater; Subdural cavity; Subarachnoid cavity; Falx cerebri; Cerebral cortex. [OCR partial.]
+
+### Lateral and anterior corticospinal tracts
+
+![Lateral and anterior corticospinal tracts](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+Cerebral cortex precentral gyrus -> Internal capsule (posterior limb) -> Midbrain (cerebral peduncles) -> Mid-pons -> Rostral medulla (pyramid) -> Caudal medulla (pyramidal decussation) -> Lateral corticospinal tract and Anterior corticospinal tract -> Cervical spinal cord (muscles of upper limb, trunk muscles) -> Lumbar spinal cord (muscles of lower limb).
+
+### Corticobulbar tract to cranial nerve motor nuclei
+
+![Corticobulbar tract to cranial nerve motor nuclei](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-017.webp)
+
+**Text extracted from figure (OCR):**
+
+Cerebral cortex precentral gyrus -> Posterior limb of internal capsule -> Midbrain (cerebral peduncles). Mid-pons: motor nucleus of V (V1, V2, V3) -> muscles of mastication. Caudal pons: facial nucleus (VII) -> muscles of facial expression. Mid-medulla: nucleus ambiguus (IX, X) -> muscles of larynx, pharynx, soft palate and esophagus; hypoglossal nucleus (XII) -> tongue muscles.
+
+### Rubrospinal and reticulospinal tracts
+
+![Rubrospinal and reticulospinal tracts](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-018.webp)
+
+**Text extracted from figure (OCR):**
+
+Midbrain: red nucleus -> rubrospinal tract (crosses). Pons: pontine reticular nuclei -> medial reticulospinal fibres/tract. Rostral medulla: medullary reticular nuclei -> lateral reticulospinal fibres/tract. Cervical spinal cord: medial and lateral reticulospinal tracts; rubrospinal tract; lateral corticospinal tract.
+
+### Vestibulospinal tracts
+
+![Vestibulospinal tracts](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+Pons: vestibular nuclei - lateral, medial, superior. Lateral vestibular nucleus -> lateral vestibulospinal fibres/tract (ipsilateral). Rostral medulla: medial and inferior vestibular nuclei -> medial vestibulospinal fibres in the medial longitudinal fasciculus (MLF). Also labelled: inferior olivary complex; reticular formation; pyramid. Cervical spinal cord: lateral and medial vestibulospinal tracts -> anterior horn.
+
+### Tectospinal tract and brainstem cranial nerve nuclei
+
+![Tectospinal tract and brainstem cranial nerve nuclei](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-020.webp)
+
+**Text extracted from figure (OCR):**
+
+Rostral midbrain: optic radiation; lateral geniculate nucleus; optic tract; oculomotor nerve (III); superior colliculus; red nucleus; auditory radiation; medial geniculate nucleus; tectospinal tract. Caudal midbrain: inferior colliculus; trochlear nerve (IV); medial longitudinal fasciculus; lateral lemniscus. Pons: abducens nerve (VI); facial nerve (VII); middle cerebellar peduncle. Medulla: hypoglossal nerve (XII); nucleus ambiguus; glossopharyngeal (IX) and vagus (X) nerves. Cervical spinal cord: anterior root nerve fibre.
+
+### Central vs peripheral facial palsy
+
+![Central vs peripheral facial palsy](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-022.webp)
+
+**Text extracted from figure (OCR):**
+
+Central facial palsy (UMN lesion in motor cortex/corticobulbar tract): loss of nasolabial fold; drooping mouth (lower face only; forehead spared). Peripheral facial palsy (LMN lesion of CN VII): inability to wrinkle forehead; inability to lift brows; drooping eyelids; inability to close eye; further symptoms - decreased lacrimation, impaired sense of taste in the anterior two thirds of the tongue.
+
+### Transcranial magnetic stimulation and motor evoked potentials
+
+![Transcranial magnetic stimulation and motor evoked potentials](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-011.webp)
+
+**Text extracted from figure (OCR):**
+
+TMS coil; Magnetic field; Upper motor neurons; Precentral gyrus; Central sulcus; PMd; M1; BA 6, 4a, 4p, 3a; cortico-cortical projections; cortico-motoneuronal projections; Brain stem; Corticospinal tract; Spinal cord; Alpha motor neurons; Peripheral nerve fibre; Motor units; Surface electrodes; Electromyography (MEP amplitude vs time; peak-to-peak evaluation).
+
+### Recording brain and muscle activity — EEG to EMG
+
+![Recording brain and muscle activity — EEG to EMG](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+EEG; Intracortical recordings; ECoG; Nerve recordings; EMG.
+
+### Plantar response — normal vs extensor (Babinski sign)
+
+![Plantar response — normal vs extensor (Babinski sign)](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-024.webp)
+
+**Text extracted from figure (OCR):**
+
+(A) Normal plantar response: toes down (flexion). (B) Extensor plantar response (Babinski sign): big toe up, fanning of toes.
+
+### MRI — intracranial mass (axial and coronal)
+
+![MRI — intracranial mass (axial and coronal)](images/2025_10_27_PT5050_PHYSIOLOGY%201%20-%20Cortex%2C%20Cortical%20Blood%20Circulation%2C%20Cortical%20Control%20of%20Movement/fig-021.jpg)
+
+<!-- /FIGURES:AUTO -->

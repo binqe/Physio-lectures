@@ -160,3 +160,42 @@ focus) | Use "salience-dependent" plasticity to slow functional degradation. |
 - Pediatric Physical Therapy Exercises (2023) #18 Moving Sit to Stand with Knee Support: Pediatric PT for a Child with Moderate Cerebral Palsy. 17 September. Available at: https://www.youtube.com/watch?v=5afKQfCD4GE (Accessed: 2 March 2026).
 - ScienceDirect (2025) 'Neuroplasticity and the evolving brain', Brain Research, 1850. Available at: https://www.sciencedirect.com/science/article/pii/S0006899325002021   (Accessed: 2 March 2026).
 - Shumway-Cook, A. and Woollacott, M. H. (2023) Motor Control: Translating Research into Clinical Practice. 6th edn. Philadelphia: Wolters Kluwer.
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### The synapse — pre-synaptic and post-synaptic cells
+
+![The synapse — pre-synaptic and post-synaptic cells](images/Introduction%20to%20Neuroplasticty_2026/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+Action potential; SYNAPSE; Pre-synaptic ("sending") cell; Post-synaptic ("receiving") cell.
+
+### Cortical reorganisation in M1 and S1 — phantom limb pain vs controls
+
+![Cortical reorganisation in M1 and S1 — phantom limb pain vs controls](images/Introduction%20to%20Neuroplasticty_2026/fig-006.webp)
+
+**Text extracted from figure (OCR):**
+
+A. M1 Cortex; B. S1 Cortex. Panels: PLP group vs. Controls; nonPLP vs. Controls. Legend: PLP group (red); nonPLP group (blue); Controls (green). Markers: mean ROI PLP; mean ROI nonPLP; ROIconj. Distances shown: 48.6, 31.4 (M1); 35.8, 45.3 (S1). [PLP = phantom limb pain.]
+
+### Phases of sit-to-stand
+
+![Phases of sit-to-stand](images/Introduction%20to%20Neuroplasticty_2026/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+Phase 1: Flexion-Momentum; Phase 2: Momentum Transfer; Phase 3: Extension; Phase 4: Stabilization. Kicking Back; Leaning Forward; Liftoff!; Standing!
+
+### Sit-to-stand practice with knee support — paediatric therapy for a child with cerebral palsy
+
+![Sit-to-stand practice with knee support — paediatric therapy for a child with cerebral palsy](images/Introduction%20to%20Neuroplasticty_2026/fig-008.jpg)
+
+**Text extracted from figure (OCR):**
+
+Moving From Sitting to Standing with Knee Support - Pediatric Physical Therapy for a Child with Moderate Cerebral Palsy (#18).
+
+<!-- /FIGURES:AUTO -->

@@ -466,3 +466,154 @@ Umami taste: mainly L-glutamate, mechanism still unclear.
 - Greg Stuart, Nelson Spruston, Micheal Häusser – Dendrites 3th ed (2016) ISBN 978–0–19–874527–3
 - For follow-up questions:
 - vincenzo.mastrolia@kcl.ac.uk
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Sensory inputs and receptor types
+
+![Sensory inputs and receptor types](images/Sensory%20Receptors/fig-043.webp)
+
+**Text extracted from figure (OCR):**
+
+Sensory inputs and receptors: Electromagnetic receptors (vision); Chemoreceptors (CO2, O2, taste, smell); Thermoreceptors (heat); Nociceptors (pain); Mechanoreceptors (blood pressure, hearing, balance, proprioception, tactile/touch - pressure, vibration, tickle).
+
+### Cerebral cortex — hemispheres, lobes, grey and white matter
+
+![Cerebral cortex — hemispheres, lobes, grey and white matter](images/Sensory%20Receptors/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+Hemispheres; Cerebrum; Sulci; Gyri; Frontal; Parietal; Temporal; Occipital; Grey matter; White matter. Front view; Side view (outside); Side view (inside). (Cleveland Clinic)
+
+### Neuronal circuit of the stretch reflex
+
+![Neuronal circuit of the stretch reflex](images/Sensory%20Receptors/fig-009.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 54-5. Sensory nerve; Motor nerve; Muscle spindle; Stretch reflex.
+
+### Flexor reflex, crossed extensor reflex and reciprocal inhibition
+
+![Flexor reflex, crossed extensor reflex and reciprocal inhibition](images/Sensory%20Receptors/fig-008.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 54-9. Reciprocal inhibition; Painful stimulus from hand; Polysynaptic circuit; Flexor reflex (flexors excited, extensors inhibited); Crossed extensor reflex (contralateral extensors excited, flexors inhibited).
+
+### Middle and inner ear — ossicles and cochlea
+
+![Middle and inner ear — ossicles and cochlea](images/Sensory%20Receptors/fig-011.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 52-1. Malleus; Incus; Stapes; Auditory canal; Tympanic membrane; Oval window; Round window; Scala tympani; Scala vestibuli; Cochlear nerve; Spiral ganglion; Cochlea.
+
+### Cochlea — cross-section
+
+![Cochlea — cross-section](images/Sensory%20Receptors/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 52-2. Basilar membrane; Spiral organ of Corti; Spiral ligament; Vestibular membrane; Scala vestibuli; Stria vascularis; Scala media; Scala tympani; Spiral ganglion; Cochlear nerve.
+
+### Fluid movement in the cochlea
+
+![Fluid movement in the cochlea](images/Sensory%20Receptors/fig-017.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 52-4. Movement of fluid in the cochlea after forward thrust of the stapes. Stapes; Oval window; Round window; Scala vestibuli and scala media; Scala tympani; Basilar membrane; Helicotrema.
+
+### Travelling waves on the basilar membrane
+
+![Travelling waves on the basilar membrane](images/Sensory%20Receptors/fig-018.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 52-5. 'Traveling waves' along the basilar membrane for (A) high-, (B) medium- and (C) low-frequency sounds.
+
+### Place coding of frequency on the basilar membrane
+
+![Place coding of frequency on the basilar membrane](images/Sensory%20Receptors/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 52-6. Amplitude patterns of the basilar membrane for 200-8000 Hz, showing points of maximum amplitude: 8000 Hz near the stapes, 200 Hz ~30-35 mm from the stapes (distance from stapes in mm).
+
+### Organ of Corti — hair cells and tectorial membrane
+
+![Organ of Corti — hair cells and tectorial membrane](images/Sensory%20Receptors/fig-020.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 52-7. Tectorial membrane; Outer hair cells; Inner hair cells; Basilar fiber; Spiral ganglion; Cochlear nerve.
+
+### Hair cell stimulation by the tectorial membrane
+
+![Hair cell stimulation by the tectorial membrane](images/Sensory%20Receptors/fig-021.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 52-8. Reticular lamina; Hairs; Tectorial membrane; Basilar fiber; Rods of Corti; Modiolus. Stimulation of the hair cells by to-and-fro movement of the hairs projecting into the gel coating of the tectorial membrane.
+
+### Hair cell structure and stereocilia (electron micrographs)
+
+![Hair cell structure and stereocilia (electron micrographs)](images/Sensory%20Receptors/fig-024.webp)
+
+**Text extracted from figure (OCR):**
+
+a: Tip link; Kinocilium; Stereocilium; Hair cell; Supporting cell; Synaptic vesicle; Synaptic ribbon; Afferent nerve terminal; Efferent nerve terminal. b, c: scanning electron micrographs of hair bundles (2 um, 1 um).
+
+### Auditory pathway
+
+![Auditory pathway](images/Sensory%20Receptors/fig-025.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 52-10. N. VIII -> Cochlear nuclei (medulla) -> Dorsal acoustic stria / Trapezoid body / Intermediate acoustic stria -> Superior olivary nucleus (pons) -> Nucleus of the lateral lemniscus -> Inferior colliculus (midbrain) -> Medial geniculate nucleus -> Primary auditory cortex.
+
+### Structure of the eye and retina
+
+![Structure of the eye and retina](images/Sensory%20Receptors/fig-029.webp)
+
+**Text extracted from figure (OCR):**
+
+Cornea; Pupil; Iris; Lens; Vitreous humour; Retina; Choroid; Optic nerve; To brain. Light passes through the cornea and the pupil before it reaches the lens, by which it is focused onto the retina. Retina inset: nerve fibre; numbered cell layers 1-6; rod; cone; Bruch's membrane. (Nature)
+
+### Pupillary light reflex pathway
+
+![Pupillary light reflex pathway](images/Sensory%20Receptors/fig-032.webp)
+
+**Text extracted from figure (OCR):**
+
+Afferents (1 = ganglion cell axons project to the pretectal region of the midbrain). Oculomotor nerve efferents (2 = supranuclear, 3 = preganglionic, 4 = short ciliary nerves). Pupillary sphincter; Short posterior ciliary nerves; Ciliary ganglion; Midbrain: Edinger-Westphal nucleus, Interneurons, Pretectal area.
+
+### Taste buds and papillae
+
+![Taste buds and papillae](images/Sensory%20Receptors/fig-034.webp)
+
+**Text extracted from figure (OCR):**
+
+a: Taste pore; TRC (taste receptor cell); Taste buds; Circumvallate, Foliate and Fungiform papillae. b: taste qualities - Bitter; Salty; Sweet; Umami; Sour.
+
+### Olfactory pathway
+
+![Olfactory pathway](images/Sensory%20Receptors/fig-038.webp)
+
+**Text extracted from figure (OCR):**
+
+1. Odorants bind to receptors; 2. Olfactory receptor cells are activated and send electric signals; 3. The signals are relayed in glomeruli; 4. The signals are transmitted to higher regions of the brain. Labels: olfactory bulb; mitral cell; glomerulus; bone; nasal epithelium; olfactory receptor cells; air with odorant molecules; odorant receptor. [OCR partial - small print.]
+
+### Orthonasal and retronasal smell
+
+![Orthonasal and retronasal smell](images/Sensory%20Receptors/fig-039.webp)
+
+**Text extracted from figure (OCR):**
+
+Odor (orthonasal); Food (retronasal); olfactory bulb; olfactory neuroepithelium; superior aspect of the medial turbinate; thalamus; piriform cortex; amygdala; hippocampus; to brain. [OCR partial.]
+
+<!-- /FIGURES:AUTO -->

@@ -674,3 +674,201 @@ Reference
 • Drake RL, Vogl WA, Mitchell AWM. (2024). 
 Grays Anatomy for Students. Fifth Edition. 
 Philadelphia: Elservier
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Upper limb myotomes — segmental values (table)
+
+![Upper limb myotomes — segmental values (table)](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+| Joint | Movement | Segmental value |
+|---|---|---|
+| Shoulder | Abduction, lateral rotation | C5 |
+| Shoulder | Adduction, medial rotation | C6, 7, 8 |
+| Elbow | Flexion | C5, 6 |
+| Elbow | Extension | C7, 8 |
+| Forearm | Pronation | C7, 8 |
+| Forearm | Supination | C6 |
+| Wrist | Flexion | C6, 7 |
+| Wrist | Extension | C6, 7 |
+| Fingers | Flexion, extension (long muscles) | C7, 8 |
+| Hand | Intrinsic muscles | C8, T1 |
+
+### Upper limb neurological examination by root level — motor, sensory, reflexes
+
+![Upper limb neurological examination by root level — motor, sensory, reflexes](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-024.webp)
+
+**Text extracted from figure (OCR):**
+
+C5: deltoid, biceps; biceps reflex. C6: biceps, wrist extensors; brachioradialis reflex. C7: triceps, wrist flexors, finger extensors; triceps reflex. C8: finger extensors (flexors); no reflex. T1: interossei muscles; no reflex. Sensory panels show the corresponding dermatome for each level.
+
+### Upper limb dermatomes C4-T2
+
+![Upper limb dermatomes C4-T2](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-010.webp)
+
+**Text extracted from figure (OCR):**
+
+C4 -> C5 -> C6 -> C7 -> C8 -> T1 -> T2 (sequence around the limb).
+
+### Cutaneous nerve territories of the upper limb — anterior
+
+![Cutaneous nerve territories of the upper limb — anterior](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+Radial nerve (superficial branch); Median nerve; Musculocutaneous n. (lat. cut. n of forearm); Radial n. (post. cut. n of arm); Axillary n.; Ulnar nerve; dermatomes C4, T1, T2.
+
+### Brachial plexus — roots, trunks, divisions, cords and branches
+
+![Brachial plexus — roots, trunks, divisions, cords and branches](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-030.webp)
+
+**Text extracted from figure (OCR):**
+
+Roots C5-T1; Trunks; Divisions; Cords (lateral, posterior, medial). Dorsal scapular nerve; Suprascapular nerve; Nerve to subclavius; Lateral pectoral nerve; Musculocutaneous nerve; Axillary nerve; Median nerve; Ulnar nerve; Medial cutaneous nerve of the forearm; Medial cutaneous nerve of the arm; Radial nerve; Lower subscapular nerve; Thoracodorsal nerve; Medial pectoral nerve; Upper subscapular nerve; Long thoracic nerve.
+
+### Brachial plexus — wiring schematic
+
+![Brachial plexus — wiring schematic](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-061.webp)
+
+**Text extracted from figure (OCR):**
+
+C5 (from C4), C6, C7, C8, T1 -> musculocutaneous n.; axillary n.; median n.; radial n.; ulnar n. Other branches: dorsal scapular n.; suprascapular n.; subclavius n.; phrenic n.; lateral pectoral n.; lower subscapular n.; thoracodorsal n.; upper subscapular n.; medial antebrachial cutaneous n.; medial brachial cutaneous n.; medial pectoral n.; 1st intercostal n.; long thoracic n.
+
+### Terminal nerves of the upper limb — muscles and cutaneous territories
+
+![Terminal nerves of the upper limb — muscles and cutaneous territories](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-029.webp)
+
+**Text extracted from figure (OCR):**
+
+Musculocutaneous nerve: all muscles in anterior compartment of arm; lateral cutaneous nerve of forearm. Median nerve: most flexors in forearm; thenar muscles in hand. Radial nerve: all muscles in posterior compartment of arm and forearm; inferior lateral cutaneous, posterior cutaneous nerves of arm/forearm; superficial branch. Ulnar nerve: most intrinsic muscles in hand; flexor carpi ulnaris and medial half of flexor digitorum profundus in forearm. Axillary nerve: superior lateral cutaneous nerve of arm. Dermatomes T1, T2.
+
+### Thoracic outlet — brachial plexus and subclavian artery
+
+![Thoracic outlet — brachial plexus and subclavian artery](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-028.webp)
+
+**Text extracted from figure (OCR):**
+
+Scalene muscles; Subclavian artery; Clavicle; Brachial plexus; First rib.
+
+### Sensory and motor pathway to skeletal muscle
+
+![Sensory and motor pathway to skeletal muscle](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Sensory neuron; dorsal root; brain; ventral root; motor neuron; spinal cord; sensory nerve; motor nerve; neuromuscular junction; skeletal muscle cell; muscle spindle.
+
+### Long thoracic nerve and serratus anterior
+
+![Long thoracic nerve and serratus anterior](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-065.webp)
+
+**Text extracted from figure (OCR):**
+
+Axilla; Axillary sheath; Serratus anterior; Long thoracic nerve.
+
+### Winged scapula (long thoracic nerve palsy)
+
+![Winged scapula (long thoracic nerve palsy)](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-067.jpg)
+
+### Suprascapular and axillary nerves around the shoulder
+
+![Suprascapular and axillary nerves around the shoulder](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-075.webp)
+
+**Text extracted from figure (OCR):**
+
+Brachial plexus; Suprascapular nerve and artery; Suprascapular notch; Posterior circumflex artery; Axillary nerve; Axillary branch to teres minor.
+
+### Nerves at risk around the humerus
+
+![Nerves at risk around the humerus](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-070.webp)
+
+**Text extracted from figure (OCR):**
+
+Surgical neck - axillary nerve; radial nerve (in spiral groove); ulnar nerve at the medial epicondyle.
+
+### Deltoid atrophy (axillary nerve palsy)
+
+![Deltoid atrophy (axillary nerve palsy)](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-079.jpg)
+
+**Text extracted from figure (OCR):**
+
+Deltoid Atrophy.
+
+### Cutaneous branches of the radial nerve (key)
+
+![Cutaneous branches of the radial nerve (key)](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-083.webp)
+
+**Text extracted from figure (OCR):**
+
+Lower lateral cutaneous nerve of arm; Posterior cutaneous nerve of arm; Posterior cutaneous nerve of forearm; Superficial branch.
+
+### Wrist drop (radial nerve palsy)
+
+![Wrist drop (radial nerve palsy)](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-086.jpg)
+
+### Ulnar nerve at the wrist (pisiform)
+
+![Ulnar nerve at the wrist (pisiform)](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-071.webp)
+
+**Text extracted from figure (OCR):**
+
+Pisiform bone; Ulnar nerve.
+
+### Ulnar nerve cutaneous distribution of the hand
+
+![Ulnar nerve cutaneous distribution of the hand](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-092.webp)
+
+**Text extracted from figure (OCR):**
+
+Palmar digital branch; Palmar branch; Dorsal branch.
+
+### Ulnar nerve in the hand and 'claw hand'
+
+![Ulnar nerve in the hand and 'claw hand'](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-093.webp)
+
+**Text extracted from figure (OCR):**
+
+Superficial branch of ulnar nerve; Deep branch of ulnar nerve.
+
+### Median nerve cutaneous distribution of the hand
+
+![Median nerve cutaneous distribution of the hand](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-095.webp)
+
+**Text extracted from figure (OCR):**
+
+Superficial palmar digital branches; Palmar branch.
+
+### 'Ape-hand' deformity in median nerve lesion
+
+!['Ape-hand' deformity in median nerve lesion](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-098.webp)
+
+**Text extracted from figure (OCR):**
+
+Unopposed thumb; Thenar atrophy; 'Ape-hand' deformity in median nerve lesion.
+
+### Phalen's test (carpal tunnel)
+
+![Phalen's test (carpal tunnel)](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-094.jpg)
+
+### Brachial plexus and branches in relation to thoracic wall muscles
+
+![Brachial plexus and branches in relation to thoracic wall muscles](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-046.webp)
+
+**Text extracted from figure (OCR):**
+
+Lateral pectoral nerve; Musculocutaneous nerve; Medial pectoral nerve; Medial cutaneous nerves of arm and forearm; Median nerve; Ulnar nerve; Axillary artery. [OCR partial - small labels.]
+
+### Subscapular and thoracodorsal nerves
+
+![Subscapular and thoracodorsal nerves](images/Neurology%20of%20the%20Upper%20Limb%202025/fig-049.webp)
+
+**Text extracted from figure (OCR):**
+
+Axillary nerve; Radial nerve; Posterior cutaneous nerve of arm; Superior subscapular nerve; Inferior subscapular nerve; Thoracodorsal nerve.
+
+<!-- /FIGURES:AUTO -->

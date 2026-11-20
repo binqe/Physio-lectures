@@ -1211,3 +1211,196 @@ The 2023 NICE guideline (NG236) for stroke rehabilitation recommends that adul
 - 7. Patient education
 - 8. Manage Fatigue
 - 9. Provide aids necessary for living
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Pathophysiology of ischaemic vs haemorrhagic stroke
+
+![Pathophysiology of ischaemic vs haemorrhagic stroke](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-024.webp)
+
+**Text extracted from figure (OCR):**
+
+Ischemic stroke causes: small artery occlusion; large artery atherosclerosis; cardio-aortic embolism; others -> cerebral hypo-perfusion -> oxidative damage, ionic pump failure, decreased O2 and glucose -> edema, lactic acidosis -> necrosis, inflammation. Hemorrhagic stroke causes: antithrombolytic therapy; cerebral aneurysm; hypertension; arteriovenous malformation; trauma -> cerebral hypo-perfusion -> lactic acidosis, RBC lysis, decreased ATP -> excitotoxicity, oxidative damage -> necrosis, edema, inflammation.
+
+### Motor and sensory homunculus
+
+![Motor and sensory homunculus](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-026.webp)
+
+**Text extracted from figure (OCR):**
+
+Motor cortex (precentral gyrus) and sensory cortex representations, from medial to lateral: toes, knee, hip, trunk, shoulder, arm, elbow, wrist, hand, fingers, thumb, neck, brow, eye, face, lips, jaw, tongue, swallowing (motor); genitals, toes, leg, hip, trunk, neck, head, arm, elbow, forearm, hand, fingers, thumb, eye, nose, face, lips, teeth, gums, jaw, tongue, pharynx, intra-abdominal (sensory).
+
+### Multiple sclerosis — healthy vs demyelinated nerve
+
+![Multiple sclerosis — healthy vs demyelinated nerve](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-000.webp)
+
+**Text extracted from figure (OCR):**
+
+Healthy: Schwann cells; Node of Ranvier; Nerve fiber. Nerve affected by MS: Damaged myelin; Exposed fiber.
+
+### Multiple sclerosis — pathological changes
+
+![Multiple sclerosis — pathological changes](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-027.webp)
+
+**Text extracted from figure (OCR):**
+
+Pathological changes: loss of myelin sheath; autoimmune response (T and B cell activation); gliosis; release of pro-inflammatory mediators - neuroinflammation; disrupted synaptic glutamate handling - excitotoxicity. Cells: degenerating neuron; T cell; B cell; astrocyte; oligodendrocyte; activated microglia. Synapse engulfment. Current knowledge: complement tagging of synapses; little evidence of microglia phagocytosing pre-synapses; robust human data is lacking. [OCR partial.]
+
+### MS disease courses — RRMS, PPMS and SPMS
+
+![MS disease courses — RRMS, PPMS and SPMS](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-028.webp)
+
+**Text extracted from figure (OCR):**
+
+Disability vs time. RRMS: relapse; active without worsening; worsening (incomplete recovery from relapse); stable without activity; new MRI activity. PPMS: active (relapse or new MRI activity) with progression; not active without progression (stable); not active with progression; active without progression. SPMS: begins as RRMS, then active/not active with or without progression; new MRI activity.
+
+### Main symptoms of multiple sclerosis
+
+![Main symptoms of multiple sclerosis](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-029.webp)
+
+**Text extracted from figure (OCR):**
+
+Central: fatigue, depression, cognitive impairment, unstable mood. Visual: nystagmus, optic neuritis, diplopia. Throat: dysphagia. Mouth: difficulty swallowing food, sudden slurring or stuttering in speech. Muscular: weakness, cramping, spasm, lack of coordination. Senses: increased sensitivity to pain, tingling, burning, pins and needles feeling. Urinary: frequent urination, incontinence. Digestive system: sudden change in urinary frequency, constipation, diarrhea.
+
+### Number of people living with MS in the UK
+
+![Number of people living with MS in the UK](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-021.webp)
+
+**Text extracted from figure (OCR):**
+
+5,334 in Northern Ireland (1 in every 350 people); 17,406 in Scotland (1 in every 300); 6,111 in Wales (1 in every 500); 123,442 in England (1 in every 450). (MS Society)
+
+### Symptoms of Parkinson's disease
+
+![Symptoms of Parkinson's disease](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+Speech changes; dizziness or fainting; tremor; dribbling of urine; slowed movement; rigid muscles. [Infographic with walking frame.]
+
+### Parkinson's disease symptoms — overview
+
+![Parkinson's disease symptoms — overview](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+Drooling; tremor; loss of sense of smell; mask-like facial expression; trouble swallowing; unstable posture; blinking less often than usual; slowed movements; rigidity or stiffness; constipation; restless leg syndrome. [OCR partial - small labels.]
+
+### People living with Parkinson's in the UK
+
+![People living with Parkinson's in the UK](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-002.webp)
+
+**Text extracted from figure (OCR):**
+
+14,000 live in Scotland; 4,400 live in Northern Ireland; 8,600 live in Wales; 139,000 live in England.
+
+### Parkinson's — age at diagnosis
+
+![Parkinson's — age at diagnosis](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+Of 166,000: under 50 ~10,000; 50s ~22,000; 60s ~45,000; 70s ~60,000; 80s ~29,000; over 90 ~2,000. [Approximate bar readings.]
+
+### ON/OFF fluctuations with levodopa treatment
+
+![ON/OFF fluctuations with levodopa treatment](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+ON/OFF fluctuations with Levodopa treatment across early PD, moderate PD and advanced PD: OFF time; ON time; L-DOPA doses; dyskinesia (motor response becomes shorter and more fluctuating as disease advances).
+
+### Ataxia — common features
+
+![Ataxia — common features](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-008.webp)
+
+**Text extracted from figure (OCR):**
+
+Eye movement and oculomotor issues; speech and swallowing difficulties; tremors; walking issues and poor balance; poor balance and coordination from cerebellum degeneration; cardiac problems (FA only); fine motor skills deterioration; gait abnormalities. [FA = Friedreich's ataxia.]
+
+### Cerebellar cortex — layers and cells
+
+![Cerebellar cortex — layers and cells](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+Molecular layer; Purkinje cell; Granule cell layer; White matter; Golgi cell; Purkinje cell axon; mossy fiber; climbing fiber; basket cell; granule cell; transected and bisected folium.
+
+### Hyperkinetic movement disorders
+
+![Hyperkinetic movement disorders](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-010.webp)
+
+**Text extracted from figure (OCR):**
+
+Dystonia; Chorea; Ataxia; Essential tremor; Restless leg syndrome; Tardive dyskinesia.
+
+### Healthy brain vs Huntington's disease (coronal)
+
+![Healthy brain vs Huntington's disease (coronal)](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Healthy brain: lateral ventricles; caudate nucleus; putamen. Huntington's disease: enlarged ventricles; degeneration and atrophy of the dorsal striatum.
+
+### Common postures in cervical dystonia
+
+![Common postures in cervical dystonia](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+According to 1 study of 300 patients: Torticollis (rotated) 82%; Laterocollis (to the side) 42%; Anterocollis (forward) 25%; Retrocollis (backward) 29%; 66% of cervical dystonia patients present with a combination of postures.
+
+### Functional neurological disorder — predisposing, precipitating and perpetuating factors
+
+![Functional neurological disorder — predisposing, precipitating and perpetuating factors](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-018.webp)
+
+**Text extracted from figure (OCR):**
+
+| Predisposing | Precipitating | Perpetuating |
+|---|---|---|
+| Female sex; younger age; emotional & personality disorders; coexistence of health issues; difficulties in interpersonal relationships; stressful life events; adverse childhood experience; exposure to similar symptoms among friends or family; probable genetic vulnerability | Medical illness; physical injury; panic attack; life events | Biologic factors e.g. CNS plasticity; psychological e.g. abnormal illness belief; social factors such as secondary gain; diagnostic uncertainty; receiving health benefits |
+
+### Positive clinical signs of functional neurological disorder
+
+![Positive clinical signs of functional neurological disorder](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-020.webp)
+
+**Text extracted from figure (OCR):**
+
+Panels: functional limb weakness (e.g. Hoover's sign); functional movement disorders; functional or dissociative seizures; functional visual signs. [OCR partial - small print.]
+
+### Motor neurone degeneration in MND
+
+![Motor neurone degeneration in MND](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-032.webp)
+
+**Text extracted from figure (OCR):**
+
+Dendrites shorten and branches reduce; toxic proteins build up in cell; axon scaffolding breaks down; axon shortens; transport of messages down axon is disrupted; less contact between axon terminals and muscle fibres; axon terminals shorten and branches reduce.
+
+### Motor neurone disease — key facts (MND Association)
+
+![Motor neurone disease — key facts (MND Association)](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-031.webp)
+
+**Text extracted from figure (OCR):**
+
+Motor neurone disease kills a third of people within a year and more than half within two years of diagnosis; it affects more than 5,000 adults in the UK at any one time; MND - there is no cure. [Further small print - see figure.]
+
+### Risk factors for stroke
+
+![Risk factors for stroke](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-023.webp)
+
+**Text extracted from figure (OCR):**
+
+Obesity; Lack of exercise; Sleep apnea; Heavy alcohol use; Smoking and/or drug use; Diabetes; Cardiovascular disease; High cholesterol; High blood pressure.
+
+### Brain coronal section — arterial territories
+
+![Brain coronal section — arterial territories](images/Neurological%20assessment%20in%20common%20clinical%20conditions%20Lecture/fig-025.webp)
+
+**Text extracted from figure (OCR):**
+
+ACA; MCA superior division; MCA inferior division; MCA deep branches; PCA; PCA deep branches; Anterior choroidal artery; Lateral ventricle; Caudate; Thalamus; Internal capsule; Putamen; Globus pallidus; Hippocampal formation; Temporal lobe.
+
+<!-- /FIGURES:AUTO -->

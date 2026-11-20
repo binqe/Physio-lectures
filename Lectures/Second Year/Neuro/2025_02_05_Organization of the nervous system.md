@@ -225,3 +225,154 @@ converted_by: "automated extraction from source file; original preserved as auth
 - Fitzgerald's Clinical Neuroanatomy and neuroscience 8th ed (2021, Elsevier) ISBN: 9780702079092
 - For follow-up questions:
 - vincenzo.mastrolia@kcl.ac.uk
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Central and peripheral nervous systems
+
+![Central and peripheral nervous systems](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-028.webp)
+
+**Text extracted from figure (OCR):**
+
+Brain; Spinal cord (Central Nervous System); Ganglion; Nerves (Peripheral Nervous System).
+
+### Afferent and efferent pathways of the nervous system
+
+![Afferent and efferent pathways of the nervous system](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-029.webp)
+
+**Text extracted from figure (OCR):**
+
+Peripheral nervous system - afferent neurons: receive and transmit information from the environment to the CNS (inputs: nose, eye, ear, taste buds; skin, muscle, joints, viscera via sensory ganglia). Central nervous system (brain and spinal cord). Peripheral nervous system - efferent neurons: transmit information generated in the CNS to the periphery (outputs: involuntary via autonomic ganglion to salivary glands, smooth muscle, cardiac muscle; voluntary via motor nerve to skeletal muscle).
+
+### Anatomical directional terms
+
+![Anatomical directional terms](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-023.webp)
+
+**Text extracted from figure (OCR):**
+
+Superior; Inferior; Cephalic; Caudal; Lateral; Medial; Proximal; Distal; Anterior/Ventral; Posterior/Dorsal.
+
+### Anatomical planes of the brain with MRI/CT examples
+
+![Anatomical planes of the brain with MRI/CT examples](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+Frontal plane (coronal); Sagittal plane (midsagittal, parasagittal); Horizontal plane (transverse, axial); all other planes are oblique. Image examples: Horizontal; Sagittal; Frontal.
+
+### Ventricular system of the brain
+
+![Ventricular system of the brain](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-004.webp)
+
+**Text extracted from figure (OCR):**
+
+Lateral ventricle: Frontal horn; Central part; Atrium; Occipital horn; Temporal horn. Third ventricle; Interventricular (I-V) foramen; Interthalamic adhesion; Aqueduct; Fourth ventricle; Lateral recess.
+
+### Brain and spinal cord with CSF and dura
+
+![Brain and spinal cord with CSF and dura](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+brain; spinal cord; dura (tough layer); CSF.
+
+### Horizontal section — lateral ventricle and related structures
+
+![Horizontal section — lateral ventricle and related structures](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+Head of caudate nucleus; Internal capsule (cut); Amygdala; Inferior horn of lateral ventricle; Stria terminalis; Choroid plexus; Tail of caudate nucleus; Hippocampus; Collateral eminence; Crus of fornix; Atrium; Bulb; Posterior horn of lateral ventricle; Genu of corpus callosum; Lateral ventricle; Cavum of septum pellucidum; Thalamus; Body of fornix; Splenium of corpus callosum.
+
+### Horizontal brain section — basal ganglia and internal capsule
+
+![Horizontal brain section — basal ganglia and internal capsule](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-002.webp)
+
+**Text extracted from figure (OCR):**
+
+Genu of corpus callosum; Head of caudate nucleus; Insula; Claustrum; Putamen; Globus pallidus; Thalamus; Tail of caudate nucleus; Lateral ventricle (frontal horn); Anterior limb IC; Genu IC; Posterior limb IC; Retrolentiform IC; Hippocampus; Third ventricle; Superior colliculus; Cerebellum. [IC = internal capsule.]
+
+### Coronal section — association and commissural fibres
+
+![Coronal section — association and commissural fibres](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-019.webp)
+
+**Text extracted from figure (OCR):**
+
+Corpus callosum; Cingulum; Short association fibres; Superior longitudinal fasciculus; Insula; Claustrum; Inferior longitudinal fasciculus; Putamen; Globus pallidus; Head of caudate nucleus; Anterior horn of lateral ventricle; Anterior commissure.
+
+### Horizontal section — commissural fibres of the corpus callosum
+
+![Horizontal section — commissural fibres of the corpus callosum](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-020.webp)
+
+**Text extracted from figure (OCR):**
+
+Frontal forceps (forceps minor); Genu; Corona radiata; Splenium; Bulb of posterior horn; Tapetum; Occipital forceps (forceps major).
+
+### Coronal section through the temporal lobe — thalamus and hippocampus
+
+![Coronal section through the temporal lobe — thalamus and hippocampus](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-032.webp)
+
+**Text extracted from figure (OCR):**
+
+Body of caudate nucleus; Corpus callosum; Body of lateral ventricle; Body of fornix; Choroid plexus; Stria terminalis; Thalamus; Posterior limb of internal capsule; Subthalamic nucleus; Fimbria; Hippocampus; Crus of midbrain; Parahippocampus; Pons; Insula; Lentiform nucleus; Tail of caudate nucleus; Tapetum of corpus callosum; Inferior horn of lateral ventricle; Inferior longitudinal fasciculus; Collateral eminence and sulcus.
+
+### Vertebral column, meninges and spinal nerves
+
+![Vertebral column, meninges and spinal nerves](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+Spinal cord; Pia mater; Subarachnoid space; Arachnoid mater; Dura mater; Position of spinal ganglion; Posterior ramus; Anterior ramus; Transverse process; Spinous process; Anterior internal vertebral venous plexus; Posterior longitudinal ligament; Extradural space; Extradural fat; Vertebral body; Intervertebral disc. (Gray's Anatomy for Students)
+
+### Spinal nerve — motor and sensory components and targets
+
+![Spinal nerve — motor and sensory components and targets](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-026.webp)
+
+**Text extracted from figure (OCR):**
+
+Posterior grey horn; Dorsal nerve root; Spinal ganglion; Dorsal ramus; Anterior grey horn (alpha MN, gamma MN); Ventral nerve root; Spinal nerve trunk; Ventral ramus. Targets: Skin; Joint; Muscle (MEP = motor end plate); Muscle spindle (NMS = neuromuscular spindle).
+
+### Structure of a peripheral nerve — fascicles and axons
+
+![Structure of a peripheral nerve — fascicles and axons](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-025.webp)
+
+**Text extracted from figure (OCR):**
+
+A: Epineurium; Vessel; Perineurium. B: Unmyelinated axon; Nuclei of Schwann cells; Myelin; Endoneurium; Myelinated axon; Erythrocyte; Perineurium.
+
+### Physiologic classification and functions of nerve fibres
+
+![Physiologic classification and functions of nerve fibres](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-027.webp)
+
+**Text extracted from figure (OCR):**
+
+Figure 46-6. Nerve fibre diameter 0.5-20 micrometres; conduction velocity 0.5-120 m/s. General classification: A (alpha, beta, gamma, delta - myelinated) and C (unmyelinated). Sensory nerve classification: I (IA, IB), II, III, IV. Sensory functions (largest to smallest): muscle spindle primary ending and Golgi tendon organ (IA/IB); muscle spindle secondary ending, hair receptors, vibration (Pacinian corpuscle), high-discrimination touch (Meissner's, expanded tips) (II); deep pressure and touch; pricking pain (A-delta/III); crude touch and pressure, tickle, aching pain, cold, warmth (C/IV). Motor function: skeletal muscle (type A-alpha); muscle spindle (type A-gamma); sympathetic (type C). (Guyton & Hall)
+
+### Glial cells — oligodendrocyte, astrocyte and microglia
+
+![Glial cells — oligodendrocyte, astrocyte and microglia](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-018.webp)
+
+**Text extracted from figure (OCR):**
+
+Bouton; Neuron; Oligodendrocyte; Myelin sheath; Vascular process of astrocyte; Microglial cell; Erythrocyte in capillary.
+
+### Microglia — physiological vs pathological responses
+
+![Microglia — physiological vs pathological responses](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+Physiological (surveillant microglia): secrete neurotrophins and cytokines, provide developmental cues and strip away inappropriate synapses; detect and migrate to damaged regions via ATP receptors (P2Y12); express IBA1, P2Y12, TREM2 and TMEM119; phagocytose apoptotic cells, A-beta and debris; undergo respiratory burst and kill bacteria/viruses; display contact inhibition (tiling); respond to lipid signals; proliferate but downregulate when homeostasis is achieved. Pathological: secrete inflammatory cytokines; become dystrophic, senescent and fewer in the ageing brain, CJD and schizophrenia; surround/phagocytose amyloid-beta plaques in Alzheimer's disease; inappropriately phagocytose synapses; attack and strip myelin in multiple sclerosis; early reactive phenotype in Lewy body dementia, Parkinson's, Huntington's, vCJD and ALS; become reactive to neurofibrillary tangles. (Nature Reviews)
+
+### Myelinated nerve fibres — histology cross-section
+
+![Myelinated nerve fibres — histology cross-section](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-014.jpg)
+
+### Classic drawing of cortical neurons (Ramon y Cajal)
+
+![Classic drawing of cortical neurons (Ramon y Cajal)](images/2025_02_05_Organization%20of%20the%20nervous%20system/fig-012.webp)
+
+<!-- /FIGURES:AUTO -->

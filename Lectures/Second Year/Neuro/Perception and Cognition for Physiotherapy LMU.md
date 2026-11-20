@@ -597,3 +597,82 @@ RCP)
 - Neuroanatomy: http://www.dana.org/uploadedImages/Images/neuroanatomy_large.jpg
 - RCP (2012) National clinical guidelines for stroke. Forth Edition
 - Sohlberg, M.M. and Mateer, C.A. (1989). Theory and remediation of attention disorders.  In M.M. Sohlberg and C.A. Mateer (Eds.) Introduction to Cognitive Rehabilitation New York: Guilford Press, 110 -135
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Perception -> cognition -> action
+
+![Perception -> cognition -> action](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-013.webp)
+
+**Text extracted from figure (OCR):**
+
+input -> processing -> output; perception -> cognition (thinking and memory) -> action (motor system).
+
+### Memory model — sensory, short-term and long-term memory
+
+![Memory model — sensory, short-term and long-term memory](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-002.webp)
+
+**Text extracted from figure (OCR):**
+
+Sensory Input -> Sensory Memory -> Transfer (encoding) -> Short-Term Memory (Rehearsal) -> Transfer (encoding) -> Long-Term Memory; Retrieval. Alcohol primarily interferes with the transfer of information from short-term to long-term storage.
+
+### Deep brain structures involved in cognition and emotion
+
+![Deep brain structures involved in cognition and emotion](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+Cerebral cortex; Basal ganglia; Thalamus; Corpus callosum; Hypothalamus; Pituitary gland; Amygdala; Brain stem; Hippocampus.
+
+### Limbic structures
+
+![Limbic structures](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-003.webp)
+
+**Text extracted from figure (OCR):**
+
+hypothalamus; thalamus; frontal lobe; olfactory bulb; amygdala; hippocampus.
+
+### Frontal lobe
+
+![Frontal lobe](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+frontal lobe.
+
+### Parietal lobe
+
+![Parietal lobe](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-016.webp)
+
+**Text extracted from figure (OCR):**
+
+parietal lobe.
+
+### Occipital lobe
+
+![Occipital lobe](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-017.webp)
+
+**Text extracted from figure (OCR):**
+
+occipital lobe.
+
+### Montreal Cognitive Assessment (MoCA) form
+
+![Montreal Cognitive Assessment (MoCA) form](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-009.webp)
+
+**Text extracted from figure (OCR):**
+
+Cognitive screening form - domains: visuospatial/executive, naming, memory, attention, language, abstraction, delayed recall, orientation. [Copyrighted instrument - not transcribed; see figure.]
+
+### Addenbrooke's Cognitive Examination (ACE-R) form
+
+![Addenbrooke's Cognitive Examination (ACE-R) form](images/Perception%20and%20Cognition%20for%20Physiotherapy%20LMU/fig-010.webp)
+
+**Text extracted from figure (OCR):**
+
+Cognitive screening form (orientation, registration, attention and concentration, memory, etc.). [Copyrighted instrument - not transcribed; see figure.]
+
+<!-- /FIGURES:AUTO -->

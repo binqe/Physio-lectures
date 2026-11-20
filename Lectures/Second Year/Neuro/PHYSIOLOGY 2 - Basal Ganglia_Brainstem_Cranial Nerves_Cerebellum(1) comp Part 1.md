@@ -561,3 +561,10 @@ converted_by: "automated extraction from source file; original preserved as auth
 ## Slide 51
 
 - The medulla oblungata
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_The figures in this lecture are curated, with transcribed labels, in: [PHYSIOLOGY 2 - Basal Ganglia part](PHYSIOLOGY%202%20-%20Basal%20Ganglia%20part.md#figures), [brainstem part](brainstem%20part.md#figures). They are not duplicated here._
+
+<!-- /FIGURES:AUTO -->

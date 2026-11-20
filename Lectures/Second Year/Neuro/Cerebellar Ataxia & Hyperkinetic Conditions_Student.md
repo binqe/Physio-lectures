@@ -1096,3 +1096,62 @@ Physiotherapy Research International, 25(1).
 Cerebellum, 17(4), pp. 433-443.
 11. Thaut, M. H., et al. (2015) 'Rhythmic auditory stimulation (RAS) in gait rehabilitation for patients with cerebellar ataxia', Frontiers in 
 Human Neuroscience, 9, p. 510.
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Location of cerebrum, cerebellum and brainstem
+
+![Location of cerebrum, cerebellum and brainstem](images/Cerebellar%20Ataxia%20%26%20Hyperkinetic%20Conditions_Student/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+cerebrum; cerebellum; brainstem.
+
+### Location of the basal ganglia
+
+![Location of the basal ganglia](images/Cerebellar%20Ataxia%20%26%20Hyperkinetic%20Conditions_Student/fig-002.webp)
+
+**Text extracted from figure (OCR):**
+
+Basal ganglia.
+
+### Cerebellar ataxia — 'drunken' wide-based gait (video still)
+
+![Cerebellar ataxia — 'drunken' wide-based gait (video still)](images/Cerebellar%20Ataxia%20%26%20Hyperkinetic%20Conditions_Student/fig-007.jpg)
+
+**Text extracted from figure (OCR):**
+
+DRUNKEN GAIT - Cerebellar Ataxia.
+
+### Gait assessment in ataxia (video still)
+
+![Gait assessment in ataxia (video still)](images/Cerebellar%20Ataxia%20%26%20Hyperkinetic%20Conditions_Student/fig-005.jpg)
+
+### Ataxic gait with a walking frame (video still)
+
+![Ataxic gait with a walking frame (video still)](images/Cerebellar%20Ataxia%20%26%20Hyperkinetic%20Conditions_Student/fig-011.jpg)
+
+### Gait after rehabilitation (video still)
+
+![Gait after rehabilitation (video still)](images/Cerebellar%20Ataxia%20%26%20Hyperkinetic%20Conditions_Student/fig-010.jpg)
+
+**Text extracted from figure (OCR):**
+
+AFTER REHABILITATION.
+
+### Heel-to-toe / finger-to-toe coordination testing (sketch)
+
+![Heel-to-toe / finger-to-toe coordination testing (sketch)](images/Cerebellar%20Ataxia%20%26%20Hyperkinetic%20Conditions_Student/fig-013.webp)
+
+### SMART goal setting
+
+![SMART goal setting](images/Cerebellar%20Ataxia%20%26%20Hyperkinetic%20Conditions_Student/fig-015.webp)
+
+**Text extracted from figure (OCR):**
+
+SMART: Specific; Measurable; Achievable; Realistic; Timely - goal.
+
+<!-- /FIGURES:AUTO -->

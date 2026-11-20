@@ -560,3 +560,162 @@ limb nerves
 7.
 Cutaneous nerve distribution of the lower 
 limb
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Lumbar plexus — anterior and posterior divisions
+
+![Lumbar plexus — anterior and posterior divisions](images/Lower%20Limb%20Neurology%202024/fig-009.webp)
+
+**Text extracted from figure (OCR):**
+
+Posterior division (green); anterior division (yellow). Roots: from 12th thoracic, 1st-5th lumbar. Branches: iliohypogastric n.; ilioinguinal n.; genitofemoral n.; lateral femoral cutaneous n.; to psoas and iliacus; femoral; accessory obturator; obturator; lumbosacral trunk.
+
+### Lumbar plexus (T12-L4)
+
+![Lumbar plexus (T12-L4)](images/Lower%20Limb%20Neurology%202024/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Iliohypogastric nerve; Ilio-inguinal nerve; Genitofemoral nerve; Lateral cutaneous nerve of thigh; To iliacus muscle; Femoral nerve; Obturator nerve; To lumbosacral trunk. Roots T12, L1-L4.
+
+### Sacral plexus — main branches
+
+![Sacral plexus — main branches](images/Lower%20Limb%20Neurology%202024/fig-008.webp)
+
+**Text extracted from figure (OCR):**
+
+Roots L4, L5, S1-S4. Superior gluteal; Inferior gluteal; Sciatic (fibular portion, tibial portion); Posterior femoral (cutaneous); Pudendal. (TeachMeAnatomy)
+
+### Sacral and coccygeal plexus
+
+![Sacral and coccygeal plexus](images/Lower%20Limb%20Neurology%202024/fig-028.webp)
+
+**Text extracted from figure (OCR):**
+
+Dorsal divisions; ventral divisions; anterior rami L4-Co; lumbosacral trunk; superior gluteal; inferior gluteal; to piriformis muscle; sciatic nerve (common fibular part, tibial part); to quadratus femoris and inferior gemellus muscles; to obturator internus muscle; posterior femoral cutaneous nerve; perforating cutaneous nerve; pudendal nerve; pelvic splanchnic nerves; to levator ani, coccygeus and external anal sphincter muscles; anococcygeal nerves. Sacral plexus; coccygeal plexus.
+
+### Lower limb dermatomes (L1-S3)
+
+![Lower limb dermatomes (L1-S3)](images/Lower%20Limb%20Neurology%202024/fig-011.webp)
+
+**Text extracted from figure (OCR):**
+
+L1; L2; L3; L4; L5; S1 (anterior); S2; S3 (posterior).
+
+### Lower limb myotomes
+
+![Lower limb myotomes](images/Lower%20Limb%20Neurology%202024/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Hip flexion L1, L2; knee extension L3, L4; knee flexion L5 to S2; ankle plantarflexion S1, S2; adduction of toes S2, S3. [Mapping read from arrows.]
+
+### Cutaneous innervation of the anterior thigh
+
+![Cutaneous innervation of the anterior thigh](images/Lower%20Limb%20Neurology%202024/fig-025.webp)
+
+**Text extracted from figure (OCR):**
+
+T10-T12, L1 dermatomes; genitofemoral nerve (L1, L2); ilio-inguinal nerve (L1); lateral cutaneous nerve of thigh (L2, L3); obturator nerve (L2 to L4); femoral nerve (L2 to L4); lateral and anterior cutaneous branches of iliohypogastric nerve (L1); femoral branch of genitofemoral nerve; cutaneous branch of obturator nerve; intermediate and medial cutaneous from femoral nerve; saphenous nerve from femoral nerve.
+
+### Cutaneous nerves of the lower limb (anterior and posterior)
+
+![Cutaneous nerves of the lower limb (anterior and posterior)](images/Lower%20Limb%20Neurology%202024/fig-045.webp)
+
+**Text extracted from figure (OCR):**
+
+Obturator nerve; Lateral cutaneous nerve; Anterior and intermediate cutaneous of thigh (femoral nerve); Saphenous nerve (femoral nerve); Lateral sural cutaneous (common fibular); Superficial fibular; Deep fibular; Cluneal nerves; Perforating cutaneous nerve; Posterior cutaneous nerve of thigh; Sural nerve (tibial nerve); Medial calcaneal (tibial nerve).
+
+### Femoral nerve — muscles supplied
+
+![Femoral nerve — muscles supplied](images/Lower%20Limb%20Neurology%202024/fig-023.webp)
+
+**Text extracted from figure (OCR):**
+
+L2, L3, L4 -> Iliacus; Pectineus; Sartorius; Vastus lateralis; Rectus femoris; Vastus intermedius; Vastus medialis.
+
+### Sciatic and tibial nerve — muscles supplied
+
+![Sciatic and tibial nerve — muscles supplied](images/Lower%20Limb%20Neurology%202024/fig-033.webp)
+
+**Text extracted from figure (OCR):**
+
+L4-S3 -> Biceps, long head; Semitendinosus; Semimembranosus; Adductor magnus, hamstring part; Plantaris; Gastrocnemius; Popliteus; Soleus; Flexor hallucis longus; Flexor digitorum longus; Tibialis posterior.
+
+### Common fibular (peroneal) nerve — muscles supplied
+
+![Common fibular (peroneal) nerve — muscles supplied](images/Lower%20Limb%20Neurology%202024/fig-036.webp)
+
+**Text extracted from figure (OCR):**
+
+L4-S2 -> Biceps, short head; Deep peroneal nerve; Peroneus longus; Peroneus brevis; Superficial peroneal nerve.
+
+### Deep fibular (peroneal) nerve — muscles supplied
+
+![Deep fibular (peroneal) nerve — muscles supplied](images/Lower%20Limb%20Neurology%202024/fig-038.webp)
+
+**Text extracted from figure (OCR):**
+
+Deep peroneal nerve -> Tibialis anterior; Extensor digitorum longus; Extensor hallucis longus; Peroneus tertius; Extensor hallucis brevis and Extensor digitorum brevis.
+
+### Plantar nerves — muscles of the foot
+
+![Plantar nerves — muscles of the foot](images/Lower%20Limb%20Neurology%202024/fig-031.webp)
+
+**Text extracted from figure (OCR):**
+
+Medial plantar nerve: Abductor hallucis; Flexor hallucis brevis; 1st lumbrical. Lateral plantar nerve: Adductor hallucis; All plantar interossei; All dorsal interossei; Lateral 3 lumbricals; Flexor digiti minimi brevis; Abductor digiti minimi; Quadratus plantae. Plus sole sensory territories (colour-coded).
+
+### Branches of the common fibular nerve at the knee
+
+![Branches of the common fibular nerve at the knee](images/Lower%20Limb%20Neurology%202024/fig-035.webp)
+
+**Text extracted from figure (OCR):**
+
+Common fibular; Superficial fibular; Deep fibular.
+
+### Pudendal nerve
+
+![Pudendal nerve](images/Lower%20Limb%20Neurology%202024/fig-040.webp)
+
+**Text extracted from figure (OCR):**
+
+S2, S3, S4; Pudendal nerve; Sacrospinous ligament; Inferior rectal nerve; Pudendal canal; Perineal nerve; Dorsal nerve of the penis.
+
+### Gluteal nerves
+
+![Gluteal nerves](images/Lower%20Limb%20Neurology%202024/fig-041.webp)
+
+**Text extracted from figure (OCR):**
+
+Superior gluteal nerve; Inferior gluteal nerve.
+
+### Sacral plexus — root values mnemonic
+
+![Sacral plexus — root values mnemonic](images/Lower%20Limb%20Neurology%202024/fig-047.webp)
+
+**Text extracted from figure (OCR):**
+
+4,5 Sup. Glut.; n. to quad. fem./inf. gem. | 5,1 Inf. Glut.; n. to Obt. Int./Sup. Gem. | 1,2 Post. Cut. n. of thigh | 2,3 Pudendal | 4,5,1,2,3 Sciatic. [Reading of the handwritten mnemonic.]
+
+### Embryological basis of dermatomes and myotomes
+
+![Embryological basis of dermatomes and myotomes](images/Lower%20Limb%20Neurology%202024/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+C6 segment of spinal cord; spinal ganglion; somite; dermatomyotome; cranial; caudal; autonomous region (where overlap of dermatomes is least likely); skin on the lateral side of the forearm and thumb supplied by C6. [OCR partial - small labels.]
+
+### ASIA / ISNCSCI standard neurological classification of spinal cord injury (form)
+
+![ASIA / ISNCSCI standard neurological classification of spinal cord injury (form)](images/Lower%20Limb%20Neurology%202024/fig-007.webp)
+
+**Text extracted from figure (OCR):**
+
+International Standards for Neurological Classification of Spinal Cord Injury worksheet: motor key muscles and sensory (light touch, pin prick) scoring right and left, ASIA Impairment Scale. [Form - see figure.]
+
+<!-- /FIGURES:AUTO -->

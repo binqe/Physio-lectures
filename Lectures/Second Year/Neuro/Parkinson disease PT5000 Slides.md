@@ -640,3 +640,148 @@ steps | ↑ Step size |
 - Pharmacological interventions have become the 	mainstay of treatment
 - Physiotherapy interventions focus on management of strength, ROM, endurance and functional skills, balance, gait according to disease stage
 - MDT involvement at all stages to provide psychosocial support as needed and to direct patient towards maintenance of function
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_Figures extracted from the source file (educational diagrams/photos only). Labels transcribed via OCR where legible; original file remains authoritative._
+
+### Classic motor features of Parkinson's disease (table)
+
+![Classic motor features of Parkinson's disease (table)](images/Parkinson%20disease%20PT5000%20Slides/fig-002.webp)
+
+**Text extracted from figure (OCR):**
+
+| Cardinal features | Additional features |
+|---|---|
+| Resting tremor | Micrographia |
+| Rigidity | Masked facies |
+| Bradykinesia | Decreased blinking |
+| Gait disturbance/postural instability | Freezing |
+| | Flexed posture |
+
+### Hoehn and Yahr scale vs modified Hoehn and Yahr scale (table)
+
+![Hoehn and Yahr scale vs modified Hoehn and Yahr scale (table)](images/Parkinson%20disease%20PT5000%20Slides/fig-008.webp)
+
+**Text extracted from figure (OCR):**
+
+| Stage | Hoehn and Yahr Scale | Modified Hoehn and Yahr Scale |
+|---|---|---|
+| 1 | Unilateral involvement only usually with minimal or no functional disability | Unilateral involvement only |
+| 1.5 | - | Unilateral and axial involvement |
+| 2 | Bilateral or midline involvement without impairment of balance | Bilateral involvement without impairment of balance |
+| 2.5 | - | Mild bilateral disease with recovery on pull test |
+| 3 | Bilateral disease: mild to moderate disability with impaired postural reflexes; physically independent | Mild to moderate bilateral disease; some postural instability; physically independent |
+| 4 | Severely disabling disease; still able to walk or stand unassisted | Severe disability; still able to walk or stand unassisted |
+| 5 | Confinement to bed or wheelchair unless aided | Wheelchair bound or bedridden unless aided |
+
+### Braak staging of Parkinson's disease pathology
+
+![Braak staging of Parkinson's disease pathology](images/Parkinson%20disease%20PT5000%20Slides/fig-001.webp)
+
+**Text extracted from figure (OCR):**
+
+Braak Parkinson's disease stages 1 & 2: PRECLINICAL; stages 3 & 4: CLINICAL PARKINSON'S DISEASE; stages 5 & 6: COGNITIVE IMPAIRMENT.
+
+### Recommended outcome measures in Parkinson's disease
+
+![Recommended outcome measures in Parkinson's disease](images/Parkinson%20disease%20PT5000%20Slides/fig-014.webp)
+
+**Text extracted from figure (OCR):**
+
+Highly recommended measures - Body structure and function: MDS-UPDRS revision part 3; MDS-UPDRS part 1; Montreal Cognitive Assessment. Activity: 6 minute walk; 10 meter walk; Mini BESTest; MDS-UPDRS part 2; Functional Gait Assessment; Sit to stand 5 times; 9 hole peg test. Participation: PDQ-8 or PDQ-39. Recommended for specific constructs: Freezing of gait - Freezing of Gait questionnaire; Fatigue - Parkinson's Fatigue Scale; Fear of falling - ABC scale; Dual task - Timed Up and Go cognitive. All highly recommended measures are also recommended for research; students learn to administer (* recommend students exposed).
+
+### Model of physiotherapy and Parkinson's disease
+
+![Model of physiotherapy and Parkinson's disease](images/Parkinson%20disease%20PT5000%20Slides/fig-018.webp)
+
+**Text extracted from figure (OCR):**
+
+Physiotherapy treatment concept: movement enablement through exercise regimes & strategies; core areas: GAIT, BALANCE, POSTURE, TRANSFERS; effects: functional performance; overall Parkinson's disease management.
+
+### Examples of cueing for different gait problems (table)
+
+![Examples of cueing for different gait problems (table)](images/Parkinson%20disease%20PT5000%20Slides/fig-021.webp)
+
+**Text extracted from figure (OCR):**
+
+| Problem | Cue modality | Cue parameter |
+|---|---|---|
+| Freezing | Auditory; associate strategy; visual | Step frequency 10% below baseline just maintaining rhythm; below-baseline auditory rhythm paired with 'taking a big step' instruction; stripes on the floor at freezing or gait-provoking 'hot spots' around the house |
+| Gait initiation | Auditory; visual (line on floor) | Weight transfer in time to a slow beat and then instruction to 'step out'; step over line to start |
+| Step size | Visual; attention; associate strategy | Lines on floor or on pavement, carpets; concentrate on taking big steps or active heel strike; auditory rhythm paired with 'taking a big step' |
+| Turning | Auditory; visual | Step in time to the beat through turn, maintain stepping rhythm; mark lines on floor in turning space, i.e. toilet floor |
+| Dual tasks | Auditory; somatosensory; associate cue (auditory and attention) | Practice simple task, straight-line walk with cue, reduce frequency of cue by 10-15%; build up task difficulty to incorporate additional tasks; practice with cue in home and outdoor environments, reduce frequency of cue by 10-15% |
+
+(Nieuwboer A, Rochester L, Jones D 2008, Topics in Geriatric Rehabilitation 24:151-165.)
+
+### Deep brain stimulation system
+
+![Deep brain stimulation system](images/Parkinson%20disease%20PT5000%20Slides/fig-012.webp)
+
+**Text extracted from figure (OCR):**
+
+Deep brain stimulator lead; electrodes; subthalamic nucleus; substantia nigra; connective wires; pacemaker.
+
+### Micrographia — handwriting before and after
+
+![Micrographia — handwriting before and after](images/Parkinson%20disease%20PT5000%20Slides/fig-005.webp)
+
+**Text extracted from figure (OCR):**
+
+Before: (normal handwriting) / After: (small, cramped handwriting).
+
+### Flexed parkinsonian posture (sketch)
+
+![Flexed parkinsonian posture (sketch)](images/Parkinson%20disease%20PT5000%20Slides/fig-004.webp)
+
+### Visual cueing — floor lines for gait
+
+![Visual cueing — floor lines for gait](images/Parkinson%20disease%20PT5000%20Slides/fig-019.jpg)
+
+### Postural exercises — standing and sitting (A, B)
+
+![Postural exercises — standing and sitting (A, B)](images/Parkinson%20disease%20PT5000%20Slides/fig-024.jpg)
+
+**Text extracted from figure (OCR):**
+
+A; B.
+
+### Prone lying for extension
+
+![Prone lying for extension](images/Parkinson%20disease%20PT5000%20Slides/fig-025.jpg)
+
+### Wall stretch / postural extension exercises (A, B)
+
+![Wall stretch / postural extension exercises (A, B)](images/Parkinson%20disease%20PT5000%20Slides/fig-026.jpg)
+
+**Text extracted from figure (OCR):**
+
+A; B.
+
+### Boxing-based exercise class
+
+![Boxing-based exercise class](images/Parkinson%20disease%20PT5000%20Slides/fig-027.jpg)
+
+### Dance-based exercise class
+
+![Dance-based exercise class](images/Parkinson%20disease%20PT5000%20Slides/fig-028.jpg)
+
+### Midbrain sections — loss of substantia nigra pigmentation and Lewy body histology
+
+![Midbrain sections — loss of substantia nigra pigmentation and Lewy body histology](images/Parkinson%20disease%20PT5000%20Slides/fig-042.jpg)
+
+### Rollator (four-wheeled walker)
+
+![Rollator (four-wheeled walker)](images/Parkinson%20disease%20PT5000%20Slides/fig-031.jpg)
+
+### U-Step walker (Parkinson's walking aid)
+
+![U-Step walker (Parkinson's walking aid)](images/Parkinson%20disease%20PT5000%20Slides/fig-032.jpg)
+
+### Two-wheeled walking frame
+
+![Two-wheeled walking frame](images/Parkinson%20disease%20PT5000%20Slides/fig-035.jpg)
+
+<!-- /FIGURES:AUTO -->

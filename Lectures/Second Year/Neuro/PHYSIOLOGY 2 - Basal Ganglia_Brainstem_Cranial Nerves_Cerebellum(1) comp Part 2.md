@@ -440,3 +440,10 @@ FUNCTIONAL
 - Clinical Neuroanatomy and Neuroscience, Estomih Mtui & Gregory Gruener & Peter Dockery, ISBN 9780702079092
 - Thomas H. Champney - Essential Clinical Neuroanatomy 1th ed (2016) ISBN: 978-1-118-43993-7
 - Guyton and Hall Textbook of Medical Physiology 12th ed (2011) ISBN: 978-1-4160-4574-8
+
+<!-- FIGURES:AUTO -->
+## Figures
+
+_The figures in this lecture are curated, with transcribed labels, in: [cerebellem part](cerebellem%20part.md#figures), [brainstem part](brainstem%20part.md#figures), [brainstem-cranial nerves part 2](brainstem-cranial%20nerves%20part%202.md#figures). They are not duplicated here._
+
+<!-- /FIGURES:AUTO -->
